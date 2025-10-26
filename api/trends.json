@@ -1,602 +1,740 @@
 {
-  "generated_at": "2025-10-12T15:23:10.184591+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2025-10-26T20:10:33.737950+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 27,
+      "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
+      "match_count": 66,
       "titles": [
         {
-          "title": "特朗普突然变脸威胁中国，发飙中难掩肝颤",
-          "url": "https://news.ifeng.com/c/8nMVSUorsOg",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普又要干一件大事",
-          "url": "https://news.ifeng.com/c/8nNox3W5mmu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 15时23分]"
-        },
-        {
-          "title": "中美稀土博弈特朗普为何破防",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%A8%80%E5%9C%9F%E5%8D%9A%E5%BC%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E7%A0%B4%E9%98%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            4,
-            17,
-            9,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时24分]"
-        },
-        {
-          "title": "普京回应特朗普未获诺贝尔和平奖",
-          "url": "https://news.ifeng.com/c/8nMg8kevz3a",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普政府执政9个月来，超20万名美国政府雇员离职",
-          "url": "https://news.ifeng.com/c/8nMmbo0COyZ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 15时23分]"
-        },
-        {
-          "title": "如何看特朗普最新关税恐吓",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E5%85%B3%E7%A8%8E%E6%81%90%E5%90%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            15,
-            13,
-            21,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 07时21分]"
-        },
-        {
-          "title": "泽连斯基同特朗普通电话 讨论增强乌防空系统可能性等问题",
-          "url": "https://flash.jin10.com/detail/20251011212937024800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普关税威胁冲击市场信心",
-          "url": "https://www.douyin.com/hot/2265997",
-          "source": "抖音",
-          "ranks": [
-            17,
-            15,
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：已祝贺美国总统特朗普在中东取得成功。",
-          "url": "https://flash.jin10.com/detail/20251011211811774800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与美国总统特朗普进行了良好而富有成效的会谈。",
-          "url": "https://flash.jin10.com/detail/20251011211803840800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：已向美国总统特朗普通报了俄罗斯对乌克兰能源基础设施的袭击。",
-          "url": "https://flash.jin10.com/detail/20251011211746589800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "泽连斯基同特朗普通电话 讨论增强乌防空系统可能性等问题",
-          "url": "https://wallstreetcn.com/livenews/2986171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "美国白宫幕僚长：乌克兰总统泽连斯基目前正在与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20251011202602287800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "乌克兰官员Yermak：泽连斯基和特朗普目前正在通话。",
-          "url": "https://wallstreetcn.com/livenews/2986169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普亲信称中国扼住稀土命脉",
-          "url": "https://www.douyin.com/hot/2265982",
-          "source": "抖音",
-          "ranks": [
-            17,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时18分 ~ 07时21分]"
-        },
-        {
-          "title": "商务部回应特朗普威胁加关税100%",
-          "url": "https://www.toutiao.com/trending/7560150398208790066/",
-          "source": "今日头条",
+          "title": "中美双方就关税等多个议题形成了初步共识，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1965831118151444171",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时08分"
+          "time_info": "20时10分"
         },
         {
-          "title": "特朗普为何不准中国航班过境俄罗斯",
-          "url": "https://www.toutiao.com/trending/7560117115122880046/",
+          "title": "给美军捐1.3亿美元的神秘人身份曝光",
+          "url": "https://www.toutiao.com/trending/7564565171025510406/",
           "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：中际旭创与香农芯创等多只存储芯片股在列",
+          "url": "https://www.cls.cn/detail/2180269",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "佩斯科夫：俄美元首会晤尚无基础",
+          "url": "https://flash.jin10.com/detail/20251026190455102800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "佩斯科夫：俄美元首会晤尚无基础",
+          "url": "https://wallstreetcn.com/livenews/2993783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "给出100美元目标价！英伟达“唯一的空头”：这不是我第一次看到泡沫",
+          "url": "https://wallstreetcn.com/articles/3757915",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "20时10分"
         },
         {
-          "title": "“青蛙、恐龙”上街 抗议特朗普政府",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9D%92%E8%9B%99%E3%80%81%E6%81%90%E9%BE%99%E2%80%9D%E4%B8%8A%E8%A1%97+%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普要求确保发军饷 却并未透露资金来源",
-          "url": "https://flash.jin10.com/detail/20251012123317895800",
+          "title": "巴西总统卢拉：美国和巴西的团队将立即就关税及针对巴西当局的制裁展开谈判。",
+          "url": "https://flash.jin10.com/detail/20251026185335272800",
           "source": "金十数据",
           "ranks": [
-            3,
-            9,
-            15
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时23分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "美国总统特朗普：Dan Scavino除了继续担任特朗普政府的副幕僚长外，还将领导白宫总统人事办公室，接替Sergio Gor。Sergio Gor现在将担任驻印度大使。",
-          "url": "https://flash.jin10.com/detail/20251012122815950800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普周一将在以色列议会发表讲话",
-          "url": "https://wallstreetcn.com/livenews/2986247",
+          "title": "中信建投：A股调整接近尾声，上行趋势继续",
+          "url": "https://wallstreetcn.com/livenews/2993780",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            12,
-            19
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时23分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "美国现代史上首次！白宫\"管家\"宣布特朗普政府开始永久性裁员",
-          "url": "https://wallstreetcn.com/articles/3756973",
+          "title": "印度承认中国PL15E是款好武器",
+          "url": "https://www.toutiao.com/trending/7564416114441256966/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "游戏圈送给年轻人的第一次爆仓：20亿美元瞬间蒸发",
+          "url": "https://wallstreetcn.com/articles/3757913",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "如何看待美军无人机已部署加沙",
+          "url": "https://www.toutiao.com/trending/7565195681795948587/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
+          "url": "https://wallstreetcn.com/articles/3757912",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时30分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "美国总统特朗普：Dan Scavino除了继续担任特朗普政府的副幕僚长外，还将领导白宫总统人事办公室，接替Sergio Gor。Sergio Gor现在将担任驻印度大使。",
-          "url": "https://wallstreetcn.com/livenews/2986246",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列总理内塔尼亚胡：我们已向国际部队明确表示，哪些部队是我们无法接受的，这一点美国也接受了。",
+          "url": "https://flash.jin10.com/detail/20251026184258436800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            13,
-            20
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时23分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "伦敦白银市场出现流动性危机 交易员担忧特朗普政府酝酿另一个大招",
-          "url": "https://www.cls.cn/detail/2166669",
+          "title": "“人人都预期”的黄金崩盘发生了，现在人人都等着抄底？",
+          "url": "https://wallstreetcn.com/articles/3757916",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "西方14国就乌克兰问题发表联合声明",
+          "url": "https://www.cls.cn/detail/2180715",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 15时23分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "特朗普加关税是有备而来",
-          "url": "https://www.toutiao.com/trending/7560150471369821722/",
-          "source": "今日头条",
+          "title": "以色列总理内塔尼亚胡：以色列是一个主权国家，与美国的关系是“伙伴关系”。",
+          "url": "https://flash.jin10.com/detail/20251026184143978800",
+          "source": "金十数据",
           "ranks": [
-            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美国-泰国联合声明：美国将维持对泰国19%的关税。 泰国将消除约99%货物的关税壁垒，涵盖美国全部的工业、食品和农产品。 泰国承诺解决美国出口产品的壁垒问题，包括接受美国制造的车辆。 即将达成的贸易协议包括泰国每年购买价值26亿美元的美国农产品；每年购买价值54亿美元的能源产品；以及购买80架美国飞机，总价值188亿美元。 将努力解决泰国的非关税壁垒。",
+          "url": "https://wallstreetcn.com/livenews/2993774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "周末要闻汇总：国有资产最新“家底”公布；央行、金融监管总局、证监会等最新部署",
+          "url": "https://www.cls.cn/detail/2180785",
+          "source": "财联社热门",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "美政府“停摆”第11天，特朗普要求确保支付军人薪资",
-          "url": "https://wallstreetcn.com/livenews/2986193",
+          "title": "巴西总统卢拉：当今世界无法容忍新的“冷战”。",
+          "url": "https://flash.jin10.com/detail/20251026182158150800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
+          "url": "https://wallstreetcn.com/livenews/2993772",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "20时10分"
         },
         {
-          "title": "特朗普要求确保支付军人薪资",
-          "url": "https://www.toutiao.com/trending/7559416623682207807/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特朗普对华关税恐吓，把美股吓出心脏病了",
-          "url": "https://news.ifeng.com/c/8nMSoze2N8i",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "美股大跌背后原因是什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            21,
-            5,
-            16,
-            25,
-            23,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 15时23分]"
-        },
-        {
-          "title": "美股大暴跌,白宫趁机满仓做空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 15时23分]"
-        },
-        {
-          "title": "美股全线暴跌对A股冲击会有多大",
-          "url": "https://www.toutiao.com/trending/7560106683574259251/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            5,
-            16,
-            10,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 15时23分]"
-        },
-        {
-          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
-          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
+          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
+          "url": "https://wallstreetcn.com/articles/3757909",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 15时23分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
-          "url": "https://www.cls.cn/detail/2166644",
+          "title": "视频丨李成钢：中美就关税等多项议题形成初步共识",
+          "url": "https://www.cls.cn/detail/2180874",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "停火协议成废纸，哈马斯公开处决“通敌者”震慑各方？",
+          "url": "https://news.ifeng.com/c/8nlueLICMLd",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美泰联合声明：将共同努力解决泰国的非关税壁垒问题。",
+          "url": "https://flash.jin10.com/detail/20251026181820087800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "比特币小幅走高，一度涨至112725美元/枚；以太坊一度涨超4000美元/枚，日内涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/2993771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "林毅夫谈设台湾光复纪念日",
+          "url": "https://v.ifeng.com/c/8nltl6CXkP8",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美泰联合声明：即将达成的贸易协议包括每年采购价值26亿美元的美国农产品、每年价值54亿美元的能源产品，以及总计188亿美元的80架美国飞机采购。",
+          "url": "https://flash.jin10.com/detail/20251026181759859800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "AI把薯片误判为枪惊动八辆美国警车",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D10%26c_type%3D31%26realpos%3D10%26cate%3D5001%26lcate%3D5001%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D10%26display_time%3D1761480011%26pre_seqid%3D1761480011030032434842",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "网民用AI编造3儿子不养老人被罚",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E7%94%A8AI%E7%BC%96%E9%80%A03%E5%84%BF%E5%AD%90%E4%B8%8D%E5%85%BB%E8%80%81%E4%BA%BA%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2180530",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "克里姆林宫：是美国总统特朗普首先表示在匈牙利举行峰会毫无意义，俄罗斯总统普京对此表示赞同。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20251026181522320800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
+          "url": "https://www.zhihu.com/question/1965049071443075345",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1964649033109865460",
+          "source": "知乎",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 15时23分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "美股跳水",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4",
-          "source": "bilibili 热搜",
+          "title": "美媒爆料：印度仿制中国霹雳-15导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E7%88%86%E6%96%99%EF%BC%9A%E5%8D%B0%E5%BA%A6%E4%BB%BF%E5%88%B6%E4%B8%AD%E5%9B%BD%E9%9C%B9%E9%9B%B3-15%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
           "ranks": [
-            25
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
         {
-          "title": "伊朗外长：怀疑美国是否能兑现承诺",
-          "url": "https://flash.jin10.com/detail/20251012103106047800",
+          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
+          "url": "https://www.cls.cn/detail/2180721",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京赞赏美国总统特朗普解决乌克兰危机的愿望，但不可能一蹴而就。",
+          "url": "https://flash.jin10.com/detail/20251026181455137800",
           "source": "金十数据",
           "ranks": [
-            1,
-            16,
-            23,
-            29
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 14时33分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "伊朗外长说他怀疑美国是否能兑现承诺",
-          "url": "https://wallstreetcn.com/livenews/2986227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时24分]"
-        },
-        {
-          "title": "伊朗军官：是否封锁霍尔木兹海峡取决于外部对伊施压程度",
-          "url": "https://wallstreetcn.com/livenews/2986202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时08分]"
-        },
-        {
-          "title": "伊朗军官：是否封锁霍尔木兹海峡取决于外部对伊施压程度",
-          "url": "https://flash.jin10.com/detail/20251012080751834800",
+          "title": "美泰联合声明：美国将确定产品，并对符合条件的伙伴国进行潜在关税调整，以实现零关税的互惠待遇。",
+          "url": "https://flash.jin10.com/detail/20251026181442423800",
           "source": "金十数据",
           "ranks": [
-            16,
-            24
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时08分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "伊朗与巴基斯坦外长通电话 探讨深化地区合作",
-          "url": "https://flash.jin10.com/detail/20251012080711070800",
+          "title": "金价暴跌有大学生把生活费亏没了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D14%26c_type%3D31%26realpos%3D14%26cate%3D5001%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D14%26display_time%3D1761480011%26pre_seqid%3D1761480011030032434842",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美泰联合声明：泰国将取消约99%商品的关税壁垒，涵盖美国全部工业产品以及食品和农产品。",
+          "url": "https://flash.jin10.com/detail/20251026181348863800",
           "source": "金十数据",
           "ranks": [
-            18,
-            26
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时08分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "伊朗外长：俄方已转达以色列“无意再战”信息",
-          "url": "https://wallstreetcn.com/livenews/2986194",
+          "title": "美国老哥胆子大,粪不顾身闯印度",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346230&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%80%81%E5%93%A5%E8%83%86%E5%AD%90%E5%A4%A7%2C%E7%B2%AA%E4%B8%8D%E9%A1%BE%E8%BA%AB%E9%97%AF%E5%8D%B0%E5%BA%A6",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美泰联合声明：美国将维持对泰国19%的关税。",
+          "url": "https://flash.jin10.com/detail/20251026181319979800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "药明康德：拟28亿元向高瓴投资出售康德弘翼和津石医药100%股权",
+          "url": "https://wallstreetcn.com/livenews/2993740",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1965770697927300097",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "克里姆林宫：谈论取消俄罗斯总统普京与美国总统特朗普的峰会是错误的。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20251026181153765800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "印度村庄泼粪节遭嘲讽，村民：我们感觉很好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31838328",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "匿名者向五角大楼捐赠1.3亿美元，支付政府停摆期间的美军薪资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31838613",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "14国联合声明：支持俄乌立即停火",
+          "url": "https://www.toutiao.com/trending/7564980898794962985/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "欧洲多国今日开始实施冬令时",
+          "url": "https://wallstreetcn.com/livenews/2993727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "大的来了!台湾光复纪念日确立",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346206&amp;topic_name=%E5%A4%A7%E7%9A%84%E6%9D%A5%E4%BA%86%21%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5%E7%A1%AE%E7%AB%8B",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "“吉林一号”放出台湾岛高清卫星图",
+          "url": "https://www.toutiao.com/trending/7565130028221120555/",
+          "source": "今日头条",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
+          "time_info": "20时10分"
+        },
         {
-          "title": "帝国商业银行：金价上涨源于对长期通胀的担忧 黄金将在明后两年涨至4500美元",
-          "url": "https://flash.jin10.com/detail/20251011225517652800",
+          "title": "解读印度空军全球第三反超中国",
+          "url": "https://www.douyin.com/hot/2281849",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "俄罗斯海燕核动力导弹有何亮点",
+          "url": "https://www.toutiao.com/trending/7565478645406371334/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美国财长贝森特：对阿根廷的支持是为了帮助美国盟友，不会造成纳税人损失。",
+          "url": "https://flash.jin10.com/detail/20251026174219213800",
           "source": "金十数据",
           "ranks": [
-            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美国财长贝森特：我有信心通胀将进一步下降，接近美联储2%的目标。",
+          "url": "https://flash.jin10.com/detail/20251026174038674800",
+          "source": "金十数据",
+          "ranks": [
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 09时56分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "金价回调一度跌破4000美元",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26c_type%3D31%26cate%3D5001%26pos%3D20%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%259B%259E%25E8%25B0%2583%25E4%25B8%2580%25E5%25BA%25A6%25E8%25B7%258C%25E7%25A0%25B44000%25E7%25BE%258E%25E5%2585%2583%2523%26dgr%3D0%26flag%3D0%26band_rank%3D21%26filter_type%3Drealtimehot%26display_time%3D1760233615%26pre_seqid%3D17602336157660375712643",
-          "source": "微博",
+          "title": "特朗普：对加拿大加征10%关税",
+          "url": "https://www.douyin.com/hot/2283231",
+          "source": "抖音",
           "ranks": [
-            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美国财长贝森特：自美国总统特朗普上任以来，总体通胀率已下降。",
+          "url": "https://flash.jin10.com/detail/20251026173928957800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "美国财长贝森特：加拿大的关税行动是安大略省政府的“宣传”。",
+          "url": "https://flash.jin10.com/detail/20251026173923215800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "AI把玉米片判为枪惊动八辆美国警车",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "巴方称以军逮捕13名巴勒斯坦人",
+          "url": "https://flash.jin10.com/detail/20251026173709805800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "朝鲜外相崔善姬将访问俄罗斯和白俄罗斯",
+          "url": "https://wallstreetcn.com/livenews/2993719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "巴西外交部长：巴西总统卢拉告诉美国总统特朗普，拉丁美洲是一个和平的地区，并提出愿意与委内瑞拉进行斡旋，以寻找解决方案。",
+          "url": "https://flash.jin10.com/detail/20251026173029020800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "华为官网更新余承东职位：增任华为产品投资委员会主任",
+          "url": "https://wallstreetcn.com/livenews/2993718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "以太坊向上触及4000美元/枚，日内涨1.18%。",
+          "url": "https://flash.jin10.com/detail/20251026172859034800",
+          "source": "金十数据",
+          "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股重演“四月暴跌”，纳指跌超3%半年最惨，美债黄金拉升，铜油加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3756939",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
-          "title": "黄金飙升背后的逻辑，美债并不认可？",
-          "url": "https://wallstreetcn.com/articles/3756982",
-          "source": "华尔街见闻",
+          "title": "巴西外交部执行秘书：巴西总统卢拉告诉美国总统特朗普，实施马格尼茨基制裁是不公平的。",
+          "url": "https://flash.jin10.com/detail/20251026172854750800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时18分 ~ 09时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌前CEO警告：AI可能学会杀人",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E5%8F%AF%E8%83%BD%E5%AD%A6%E4%BC%9A%E6%9D%80%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            4,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 13时24分]"
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     }
   ],
-  "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
+  "report_image_url": "https://beautifulboy9527.github.io/TrendRadar/img/news.jpg"
 }
