@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T18:16:12.190205+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-11-09T19:14:26.143139+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 147,
+      "match_count": 155,
       "titles": [
         {
           "title": "A股并购重组活跃 本周披露并购重组进展的A股名单一览",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 19时14分]"
         },
         {
           "title": "加拿大总理：加美经济关系已结束",
@@ -80,6 +80,20 @@
           "time_info": "[00时19分 ~ 11时12分]"
         },
         {
+          "title": "非农“没了”，下周的美国CPI也要“没了”，美联储12月还能“闭眼降息”吗？",
+          "url": "https://wallstreetcn.com/articles/3758977",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 19时14分]"
+        },
+        {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
           "url": "https://www.zhihu.com/question/1970150431255684262",
           "source": "知乎",
@@ -102,21 +116,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 19时14分]"
         },
         {
-          "title": "非农“没了”，下周的美国CPI也要“没了”，美联储12月还能“闭眼降息”吗？",
-          "url": "https://wallstreetcn.com/articles/3758977",
+          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
+          "url": "https://wallstreetcn.com/articles/3758981",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            10,
+            6,
             4,
-            5
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 18时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时14分]"
         },
         {
           "title": "美国政府停摆现转机？民主党态度软化，共和党回绝但承认有进展",
@@ -143,20 +159,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时19分 ~ 14时24分]"
-        },
-        {
-          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
-          "url": "https://wallstreetcn.com/articles/3758981",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时16分]"
         },
         {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
@@ -282,8 +284,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 19时14分]"
         },
         {
           "title": "朝鲜国防相谴责美国近期军事行动",
@@ -376,6 +378,25 @@
           "time_info": "[00时19分 ~ 18时16分]"
         },
         {
+          "title": "形势“极其危急”！伊朗总统：若持续不降雨，将被迫从德黑兰撤离",
+          "url": "https://wallstreetcn.com/livenews/3001631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            6,
+            10,
+            13,
+            14,
+            18,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 19时14分]"
+        },
+        {
           "title": "用AI前瞻S15决赛",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -393,6 +414,25 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时19分 ~ 15时16分]"
+        },
+        {
+          "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
+          "url": "https://wallstreetcn.com/livenews/3001630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            7,
+            11,
+            14,
+            15,
+            19,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 19时14分]"
         },
         {
           "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
@@ -452,6 +492,18 @@
           "time_info": "[00时19分 ~ 12时21分]"
         },
         {
+          "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
+          "url": "https://www.cls.cn/detail/2195053",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时11分 ~ 19时14分]"
+        },
+        {
           "title": "和翁法罗斯黄金裔一起包饺子",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%8C%E7%BF%81%E6%B3%95%E7%BD%97%E6%96%AF%E9%BB%84%E9%87%91%E8%A3%94%E4%B8%80%E8%B5%B7%E5%8C%85%E9%A5%BA%E5%AD%90",
           "source": "bilibili 热搜",
@@ -465,11 +517,12 @@
             29,
             30,
             21,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 18时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 19时14分]"
         },
         {
           "title": "频繁交易是投资者的大忌，那为什么高度频繁的量化交易却盈利能力相当厉害？",
@@ -494,8 +547,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时18分 ~ 18时16分]"
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 19时14分]"
+        },
+        {
+          "title": "美联邦政府“停摆”40天，欧洲多国上门要钱",
+          "url": "https://news.ifeng.com/c/8o8xEMmkspH",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 19时14分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：正根据总统普京的命令筹备俄方潜在的核试验方案。（塔斯社）",
@@ -548,6 +613,18 @@
           "time_info": "[06时14分 ~ 16时20分]"
         },
         {
+          "title": "把目前实施关税视作美国的“胜利”，这显然错了",
+          "url": "https://news.ifeng.com/c/8o8tSPrYAqu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 19时14分]"
+        },
+        {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
           "url": "https://wallstreetcn.com/livenews/3001608",
           "source": "华尔街见闻-快讯",
@@ -565,6 +642,19 @@
           "time_info": "[05时14分 ~ 14时24分]"
         },
         {
+          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
+          "url": "https://wallstreetcn.com/articles/3758983",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时24分 ~ 19时14分]"
+        },
+        {
           "title": "据消息人士透露，爱尔兰足球协会成员批准了一项决议，要求欧足联暂停以色列参加欧洲赛事。",
           "url": "https://flash.jin10.com/detail/20251108212803792800",
           "source": "金十数据",
@@ -577,24 +667,6 @@
           "time_info": "[00时19分 ~ 09时19分]"
         },
         {
-          "title": "形势“极其危急”！伊朗总统：若持续不降雨，将被迫从德黑兰撤离",
-          "url": "https://wallstreetcn.com/livenews/3001631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            6,
-            10,
-            13,
-            14,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时12分 ~ 18时16分]"
-        },
-        {
           "title": "俄罗斯对乌克兰发动大规模空袭 乌多地能源和交通设施受损",
           "url": "https://flash.jin10.com/detail/20251108212629174800",
           "source": "金十数据",
@@ -605,24 +677,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 09时19分]"
-        },
-        {
-          "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
-          "url": "https://wallstreetcn.com/livenews/3001630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            7,
-            11,
-            14,
-            15,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时12分 ~ 18时16分]"
         },
         {
           "title": "俄军将攻占乌克兰“第三首都”",
@@ -684,17 +738,6 @@
           "time_info": "[00时19分 ~ 09时19分]"
         },
         {
-          "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
-          "url": "https://www.cls.cn/detail/2195053",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时11分 ~ 18时16分]"
-        },
-        {
           "title": "埃及石油部：已通过向壳牌租用的船舶向希腊出口了一批新的液化天然气，数量为15万立方米。",
           "url": "https://flash.jin10.com/detail/20251108202407169800",
           "source": "金十数据",
@@ -745,18 +788,6 @@
           "time_info": "[09时18分 ~ 17时17分]"
         },
         {
-          "title": "美联邦政府“停摆”40天，欧洲多国上门要钱",
-          "url": "https://news.ifeng.com/c/8o8xEMmkspH",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 18时16分]"
-        },
-        {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
           "url": "https://wallstreetcn.com/articles/3758961",
           "source": "华尔街见闻",
@@ -768,29 +799,29 @@
           "time_info": "[00时19分 ~ 07时14分]"
         },
         {
-          "title": "把目前实施关税视作美国的“胜利”，这显然错了",
-          "url": "https://news.ifeng.com/c/8o8tSPrYAqu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 18时16分]"
-        },
-        {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
+          "title": "最激进的华尔街投行：鲍威尔任内“不会”再降息",
+          "url": "https://wallstreetcn.com/articles/3758984",
           "source": "华尔街见闻",
           "ranks": [
-            10,
+            9,
+            8,
             7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时16分 ~ 19时14分]"
+        },
+        {
+          "title": "荷兰将归还安世半导体控制权，如何评价整个安世半导体事件的发展？",
+          "url": "https://www.zhihu.com/question/1970790816256582040",
+          "source": "知乎",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时24分 ~ 18时16分]"
+          "time_info": "[15时16分 ~ 19时14分]"
         },
         {
           "title": "俄罗斯对乌克兰发动大规模空袭",
@@ -996,30 +1027,6 @@
           "time_info": "[15时16分 ~ 16时20分]"
         },
         {
-          "title": "最激进的华尔街投行：鲍威尔任内“不会”再降息",
-          "url": "https://wallstreetcn.com/articles/3758984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时16分 ~ 18时16分]"
-        },
-        {
-          "title": "荷兰将归还安世半导体控制权，如何评价整个安世半导体事件的发展？",
-          "url": "https://www.zhihu.com/question/1970790816256582040",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时16分 ~ 18时16分]"
-        },
-        {
           "title": "辉瑞胜出！100亿美元收购Metsera，打败诺和诺德",
           "url": "https://wallstreetcn.com/articles/3758972",
           "source": "华尔街见闻",
@@ -1086,20 +1093,8 @@
           "time_info": "[03时13分 ~ 04时17分]"
         },
         {
-          "title": "俄罗斯国防部：俄罗斯军队正在乌克兰的米尔诺格勒开展进攻行动。",
-          "url": "https://flash.jin10.com/detail/20251109171045753800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
-        },
-        {
-          "title": "俄罗斯国防部：在波克罗夫斯克地区击退了七次乌克兰袭击和八次突围企图。",
-          "url": "https://flash.jin10.com/detail/20251109170838834800",
+          "title": "美政府“停摆”致驻意美军基地意方雇员未发薪",
+          "url": "https://flash.jin10.com/detail/20251109172221229800",
           "source": "金十数据",
           "ranks": [
             2,
@@ -1107,18 +1102,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
-        },
-        {
-          "title": "研究员：AI或取代绝大部分人类工作",
-          "url": "https://www.toutiao.com/trending/7570635868688354825/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "乌克兰大部分地区9日将实施轮换停电",
@@ -1148,6 +1132,19 @@
           "time_info": "[09时18分 ~ 12时21分]"
         },
         {
+          "title": "俄罗斯国防部：俄罗斯军队正在乌克兰的米尔诺格勒开展进攻行动。",
+          "url": "https://flash.jin10.com/detail/20251109171045753800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
+        },
+        {
           "title": "为什么德国的经济越来越差？",
           "url": "https://www.zhihu.com/question/1944839613060460803",
           "source": "知乎",
@@ -1160,6 +1157,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时21分 ~ 16时20分]"
+        },
+        {
+          "title": "俄罗斯国防部：在波克罗夫斯克地区击退了七次乌克兰袭击和八次突围企图。",
+          "url": "https://flash.jin10.com/detail/20251109170838834800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -1177,15 +1187,37 @@
           "time_info": "[11时12分 ~ 15时16分]"
         },
         {
+          "title": "商务部回应欧方关于安世半导体问题的声明",
+          "url": "https://news.ifeng.com/c/8o90dh2Z8wq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "【商务部新闻发言人就欧方关于安世半导体问题的声明答记者问】问：近日，欧盟委员会贸易和经济安全委员谢夫乔维奇在个人社交媒体账户发布关于安世半导体问题的声明，请问商务部对此有何评论？ 答：造成当前全球半导体供应链混乱的源头和责任在荷方，中方注意到欧方已表示会做荷方工作，希欧方进一步加大工作力度，促荷方尽快撤销相关措施，保障安世半导体相关产品正常供应。中方本着对全球半导体供应链安全稳定的负责任态度，已采取切实措施，对合规的用于民用用途的相关出口予以豁免。我想强调，欢迎欧方继续发挥影响力，促荷方尽快纠正错误做法。",
           "url": "https://wallstreetcn.com/livenews/3001669",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "中东股市收盘播报｜周日（11月9日），卡塔尔证交所指数收跌0.10%，报11047.84点，一度逼近9月24日收盘位11078.50点和9月25日盘中最高位11124.58点。 科威特证交所超级市场价格回报指数收跌0.15%，报9448.12点，10月30日收报9575.87点（创收盘历史最高）、11月2日涨至9595.27点（创盘中历史新高）以来，持续回撤。",
+          "url": "https://wallstreetcn.com/livenews/3001677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "印度为何对G2念念不忘",
@@ -1226,26 +1258,26 @@
           "time_info": "[11时11分 ~ 15时16分]"
         },
         {
-          "title": "美政府“停摆”致驻意美军基地意方雇员未发薪",
-          "url": "https://flash.jin10.com/detail/20251109172221229800",
-          "source": "金十数据",
+          "title": "美国政府“停摆”，欧洲国家催讨美军基地雇员薪水",
+          "url": "https://wallstreetcn.com/livenews/3001675",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "19时14分"
         },
         {
-          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
-          "url": "https://wallstreetcn.com/livenews/3001665",
+          "title": "彭博汇编数据显示，埃及10外汇储备超过500亿美元，创历史新高。 埃及央行公告显示，10月外汇储备达到500.71亿美元（前值495.34亿美元），自2022年四季度以来持续增长。",
+          "url": "https://wallstreetcn.com/livenews/3001671",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "19时14分"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -1257,6 +1289,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时17分]"
+        },
+        {
+          "title": "商务部新闻发言人就欧方关于安世半导体问题的声明答记者问",
+          "url": "https://wallstreetcn.com/livenews/3001669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
@@ -1285,6 +1328,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时16分 ~ 16时20分]"
+        },
+        {
+          "title": "研究员：AI或取代绝大部分人类工作",
+          "url": "https://www.toutiao.com/trending/7570635868688354825/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时14分]"
+        },
+        {
+          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
+          "url": "https://wallstreetcn.com/articles/3758988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 19时14分]"
         },
         {
           "title": "阿根廷经济部长：不打算建立自由浮动汇率",
@@ -1355,6 +1422,19 @@
           "time_info": "[00时19分 ~ 04时17分]"
         },
         {
+          "title": "俄罗斯国防部：乌军六次试图解救在库皮扬斯克地区被围部队的行动均被击退。",
+          "url": "https://flash.jin10.com/detail/20251109170810984800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
+        },
+        {
           "title": "据俄新社：俄罗斯外长拉夫罗夫表示，已准备好与美国国务卿鲁比奥举行面对面会谈。",
           "url": "https://flash.jin10.com/detail/20251109150811719800",
           "source": "金十数据",
@@ -1368,28 +1448,30 @@
           "time_info": "[15时16分 ~ 17时17分]"
         },
         {
-          "title": "俄罗斯国防部：乌军六次试图解救在库皮扬斯克地区被围部队的行动均被击退。",
-          "url": "https://flash.jin10.com/detail/20251109170810984800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
-        },
-        {
           "title": "兴业银行：兴银投资获准开业",
           "url": "https://wallstreetcn.com/livenews/3001657",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
+        },
+        {
+          "title": "俄罗斯国防部：俄罗斯打击了为乌克兰国防工业行动提供支持的能源设施。",
+          "url": "https://flash.jin10.com/detail/20251109170717957800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
         },
         {
           "title": "新西兰汤加里罗国家公园发生森林火灾",
@@ -1405,6 +1487,19 @@
           "time_info": "[15时16分 ~ 17时17分]"
         },
         {
+          "title": "德国地学研究中心GFZ：日本本州东海岸发生6.1级地震。",
+          "url": "https://flash.jin10.com/detail/20251109170519611800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
+        },
+        {
           "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
           "url": "https://flash.jin10.com/detail/20251109154126817800",
           "source": "金十数据",
@@ -1415,18 +1510,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 17时17分]"
-        },
-        {
-          "title": "俄罗斯国防部：俄罗斯打击了为乌克兰国防工业行动提供支持的能源设施。",
-          "url": "https://flash.jin10.com/detail/20251109170717957800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
         },
         {
           "title": "减持债券增购存款 理财资金配置转向",
@@ -1452,6 +1535,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 17时17分]"
+        },
+        {
+          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
+          "url": "https://wallstreetcn.com/livenews/3001665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "俄军将攻占乌克兰第三首都",
@@ -1489,18 +1584,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 17时17分]"
-        },
-        {
-          "title": "德国地学研究中心GFZ：日本本州东海岸发生6.1级地震。",
-          "url": "https://flash.jin10.com/detail/20251109170519611800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯目前正在等待美国确认安克雷奇协议仍然有效。",
@@ -1553,17 +1636,6 @@
           "time_info": "[09时18分 ~ 11时12分]"
         },
         {
-          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
-          "url": "https://wallstreetcn.com/articles/3758988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 18时16分]"
-        },
-        {
           "title": "专家：这一轮中国关税反击战今非昔比",
           "url": "https://www.toutiao.com/trending/7570629455102791231/",
           "source": "今日头条",
@@ -1574,6 +1646,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安办公室：土耳其总统埃尔多安表示，土耳其高级别代表团将于一周内访问巴基斯坦，就阿富汗停火谈判进行磋商，旨在推动达成最终协议。",
+          "url": "https://flash.jin10.com/detail/20251109170125759800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
+        },
+        {
+          "title": "哈马斯武装派别：将于当地时间周日下午2点在加沙移交一名已故以色列人质的遗体。",
+          "url": "https://flash.jin10.com/detail/20251109165900918800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
+        },
+        {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时14分]"
         },
         {
           "title": "乌克兰大部分地区9日将实施轮换停电",
@@ -1602,6 +1711,67 @@
           "time_info": "[14时24分 ~ 16时20分]"
         },
         {
+          "title": "据塔斯社：俄罗斯塔甘罗格部分地区的高压线路紧急停电后断电。",
+          "url": "https://flash.jin10.com/detail/20251109164241946800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
+        },
+        {
+          "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
+          "url": "https://www.cls.cn/detail/2195166",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时14分]"
+        },
+        {
+          "title": "埃及央行：埃及10月份外汇储备净额升至500.71亿美元，高于9月份的495.34亿美元。",
+          "url": "https://flash.jin10.com/detail/20251109163218121800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
+        },
+        {
+          "title": "京东惊喜之夜发黄金钻石手表",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E6%83%8A%E5%96%9C%E4%B9%8B%E5%A4%9C%E5%8F%91%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E6%89%8B%E8%A1%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D20%26lcate%3D5001%26band_rank%3D20%26stream_entry_id%3D31%26pos%3D21%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E6%2583%258A%25E5%2596%259C%25E4%25B9%258B%25E5%25A4%259C%25E5%258F%2591%25E9%25BB%2584%25E9%2587%2591%25E9%2592%25BB%25E7%259F%25B3%25E6%2589%258B%25E8%25A1%25A8%2523%26dgr%3D0%26flag%3D1%26cate%3D5001%26display_time%3D1762683323%26pre_seqid%3D17626833239420160847995&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时14分]"
+        },
+        {
+          "title": "GAI演唱会江湖流大合唱",
+          "url": "https://www.douyin.com/hot/2300262",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时14分]"
+        },
+        {
           "title": "印度一警察把轮奸案名单变为创收项目",
           "url": "https://www.toutiao.com/trending/7569257417142288420/",
           "source": "今日头条",
@@ -1612,6 +1782,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 07时14分]"
+        },
+        {
+          "title": "GAI首场体育场演唱会现场",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E9%A6%96%E5%9C%BA%E4%BD%93%E8%82%B2%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时14分]"
         },
         {
           "title": "伊朗总统：美国想让伊朗一直跪着",
@@ -1650,18 +1832,6 @@
           "time_info": "[11时11分 ~ 11时12分]"
         },
         {
-          "title": "土耳其总统埃尔多安办公室：土耳其总统埃尔多安表示，土耳其高级别代表团将于一周内访问巴基斯坦，就阿富汗停火谈判进行磋商，旨在推动达成最终协议。",
-          "url": "https://flash.jin10.com/detail/20251109170125759800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
-        },
-        {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
           "url": "https://wallstreetcn.com/articles/3758964",
           "source": "华尔街见闻",
@@ -1697,53 +1867,6 @@
           "time_info": "[16时20分 ~ 17时17分]"
         },
         {
-          "title": "哈马斯武装派别：将于当地时间周日下午2点在加沙移交一名已故以色列人质的遗体。",
-          "url": "https://flash.jin10.com/detail/20251109165900918800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
-        },
-        {
-          "title": "据塔斯社：俄罗斯塔甘罗格部分地区的高压线路紧急停电后断电。",
-          "url": "https://flash.jin10.com/detail/20251109164241946800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
-        },
-        {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "埃及央行：埃及10月份外汇储备净额升至500.71亿美元，高于9月份的495.34亿美元。",
-          "url": "https://flash.jin10.com/detail/20251109163218121800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
-        },
-        {
           "title": "美联储报告：政策不确定性成头号金融稳定风险，央行独立性首次被点名，关注金融杠杆",
           "url": "https://wallstreetcn.com/articles/3758957",
           "source": "华尔街见闻",
@@ -1753,17 +1876,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
-          "url": "https://www.cls.cn/detail/2195166",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "哈马斯谴责以方在约旦河西岸的袭击",
@@ -1812,17 +1924,6 @@
           "time_info": "[00时19分 ~ 01时13分]"
         },
         {
-          "title": "京东惊喜之夜发黄金钻石手表",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E6%83%8A%E5%96%9C%E4%B9%8B%E5%A4%9C%E5%8F%91%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E6%89%8B%E8%A1%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D20%26lcate%3D5001%26band_rank%3D20%26stream_entry_id%3D31%26pos%3D21%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E6%2583%258A%25E5%2596%259C%25E4%25B9%258B%25E5%25A4%259C%25E5%258F%2591%25E9%25BB%2584%25E9%2587%2591%25E9%2592%25BB%25E7%259F%25B3%25E6%2589%258B%25E8%25A1%25A8%2523%26dgr%3D0%26flag%3D1%26cate%3D5001%26display_time%3D1762683323%26pre_seqid%3D17626833239420160847995&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
           "title": "加沙遭遇垃圾危机",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8A%A0%E6%B2%99%E9%81%AD%E9%81%87%E5%9E%83%E5%9C%BE%E5%8D%B1%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E5%258A%25A0%25E6%25B2%2599%25E9%2581%25AD%25E9%2581%2587%25E5%259E%2583%25E5%259C%25BE%25E5%258D%25B1%25E6%259C%25BA%2523%26c_type%3D31%26dgr%3D0%26cate%3D5001%26pos%3D22%26realpos%3D22%26stream_entry_id%3D31%26band_rank%3D22%26display_time%3D1762650110%26pre_seqid%3D176265011019503244844143&launchid=10000360-page_H5",
           "source": "微博",
@@ -1832,17 +1933,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
-          "title": "GAI演唱会江湖流大合唱",
-          "url": "https://www.douyin.com/hot/2300262",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "14岁男生回应作文被质疑借助AI",
@@ -1889,17 +1979,6 @@
           "time_info": "[14时24分 ~ 15时16分]"
         },
         {
-          "title": "GAI首场体育场演唱会现场",
-          "url": "https://search.bilibili.com/all?keyword=GAI%E9%A6%96%E5%9C%BA%E4%BD%93%E8%82%B2%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
           "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
           "url": "https://wallstreetcn.com/livenews/3001548",
           "source": "华尔街见闻-快讯",
@@ -1909,6 +1988,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时13分]"
+        },
+        {
+          "title": "黄仁勋：没有台积电就没有英伟达",
+          "url": "https://www.toutiao.com/trending/7570634967652991039/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "研究员：AI或取代绝大部分人类工作",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E5%91%98%EF%BC%9AAI%E6%88%96%E5%8F%96%E4%BB%A3%E7%BB%9D%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E7%B1%BB%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "俄罗斯一直升机坠毁致5死2伤",
+          "url": "https://www.toutiao.com/trending/7570548020878721070/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         }
       ]
     }
