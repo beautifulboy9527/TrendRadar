@@ -1,0 +1,621 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>热点新闻分析</title>
+        <style>
+            * { box-sizing: border-box; }
+            body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+                margin: 0; 
+                padding: 16px; 
+                background: #fafafa;
+                color: #333;
+                line-height: 1.5;
+            }
+
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+            }
+
+            .header {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                color: white;
+                padding: 32px 24px;
+                text-align: center;
+            }
+
+            .header-title {
+                font-size: 22px;
+                font-weight: 700;
+                margin: 0 0 20px 0;
+            }
+
+            .header-info {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 16px;
+                font-size: 14px;
+                opacity: 0.95;
+            }
+
+            .info-item {
+                text-align: center;
+            }
+
+            .info-label {
+                display: block;
+                font-size: 12px;
+                opacity: 0.8;
+                margin-bottom: 4px;
+            }
+
+            .info-value {
+                font-weight: 600;
+                font-size: 16px;
+            }
+
+            .content {
+                padding: 24px;
+            }
+
+            .word-group {
+                margin-bottom: 40px;
+            }
+
+            .word-group:first-child {
+                margin-top: 0;
+            }
+
+            .word-header {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 20px;
+                padding-bottom: 8px;
+                border-bottom: 1px solid #f0f0f0;
+            }
+
+            .word-info {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+
+            .word-name {
+                font-size: 17px;
+                font-weight: 600;
+                color: #1a1a1a;
+            }
+
+            .word-count {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+            }
+
+            .word-count.hot { color: #dc2626; font-weight: 600; }
+            .word-count.warm { color: #ea580c; font-weight: 600; }
+
+            .word-index {
+                color: #999;
+                font-size: 12px;
+            }
+
+            .news-item {
+                margin-bottom: 20px;
+                padding: 16px 0;
+                border-bottom: 1px solid #f5f5f5;
+                position: relative;
+                display: flex;
+                gap: 12px;
+                align-items: center;
+            }
+
+            .news-item:last-child {
+                border-bottom: none;
+            }
+
+            .news-item.new::after {
+                content: "NEW";
+                position: absolute;
+                top: 12px;
+                right: 0;
+                background: #fbbf24;
+                color: #92400e;
+                font-size: 9px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 4px;
+                letter-spacing: 0.5px;
+            }
+
+            .news-number {
+                color: #999;
+                font-size: 13px;
+                font-weight: 600;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 24px;
+                height: 24px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                align-self: flex-start;
+                margin-top: 8px;
+            }
+
+            .news-content {
+                flex: 1;
+                min-width: 0;
+                padding-right: 40px;
+            }
+
+            .news-item.new .news-content {
+                padding-right: 50px;
+            }
+
+            .news-header {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                margin-bottom: 8px;
+                flex-wrap: wrap;
+            }
+
+            .source-name {
+                color: #666;
+                font-size: 12px;
+                font-weight: 500;
+            }
+
+            .rank-num {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 2px 6px;
+                border-radius: 10px;
+                min-width: 18px;
+                text-align: center;
+            }
+
+            .rank-num.top { background: #dc2626; }
+            .rank-num.high { background: #ea580c; }
+
+            .time-info {
+                color: #999;
+                font-size: 11px;
+            }
+
+            .count-info {
+                color: #059669;
+                font-size: 11px;
+                font-weight: 500;
+            }
+
+            .news-title {
+                font-size: 15px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .news-link {
+                color: #2563eb;
+                text-decoration: none;
+            }
+
+            .news-link:hover {
+                text-decoration: underline;
+            }
+
+            .news-link:visited {
+                color: #7c3aed;
+            }
+
+            .new-section {
+                margin-top: 40px;
+                padding-top: 24px;
+                border-top: 2px solid #f0f0f0;
+            }
+
+            .new-section-title {
+                color: #1a1a1a;
+                font-size: 16px;
+                font-weight: 600;
+                margin: 0 0 20px 0;
+            }
+
+            .new-source-group {
+                margin-bottom: 24px;
+            }
+
+            .new-source-title {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+                margin: 0 0 12px 0;
+                padding-bottom: 6px;
+                border-bottom: 1px solid #f5f5f5;
+            }
+
+            .new-item {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                padding: 8px 0;
+                border-bottom: 1px solid #f9f9f9;
+            }
+
+            .new-item:last-child {
+                border-bottom: none;
+            }
+
+            .new-item-number {
+                color: #999;
+                font-size: 12px;
+                font-weight: 600;
+                min-width: 18px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 20px;
+                height: 20px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .new-item-rank {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 8px;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+            }
+
+            .new-item-rank.top { background: #dc2626; }
+            .new-item-rank.high { background: #ea580c; }
+
+            .new-item-content {
+                flex: 1;
+                min-width: 0;
+            }
+
+            .new-item-title {
+                font-size: 14px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .error-section {
+                background: #fef2f2;
+                border: 1px solid #fecaca;
+                border-radius: 8px;
+                padding: 16px;
+                margin-bottom: 24px;
+            }
+
+            .error-title {
+                color: #dc2626;
+                font-size: 14px;
+                font-weight: 600;
+                margin: 0 0 8px 0;
+            }
+
+            .error-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .error-item {
+                color: #991b1b;
+                font-size: 13px;
+                padding: 2px 0;
+                font-family: 'SF Mono', Consolas, monospace;
+            }
+
+            @media (max-width: 480px) {
+                body { padding: 12px; }
+                .header { padding: 24px 20px; }
+                .content { padding: 20px; }
+                .header-info { grid-template-columns: 1fr; gap: 12px; }
+                .news-header { gap: 6px; }
+                .news-content { padding-right: 45px; }
+                .news-item { gap: 8px; }
+                .new-item { gap: 8px; }
+                .news-number { width: 20px; height: 20px; font-size: 12px; }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <div class="header-title">热点新闻分析</div>
+                <div class="header-info">
+                    <div class="info-item">
+                        <span class="info-label">报告类型</span>
+                        <span class="info-value">实时分析</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">新闻总数</span>
+                        <span class="info-value">255 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">热点新闻</span>
+                        <span class="info-value">19 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">生成时间</span>
+                        <span class="info-value">12-03 23:19</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content">
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&amp;P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势</div>
+                            <div class="word-count hot">19 条</div>
+                        </div>
+                        <div class="word-index">1/1</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num top">1</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7579560279013330468/" target="_blank" class="news-link">高市称日本政府对台湾的立场没改变</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">百度热搜</span><span class="rank-num top">2</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E5%AD%98100%E4%B8%87%E4%B8%8E%E5%AD%9820%E4%B8%87%E5%88%A9%E7%8E%87%E7%9B%B8%E5%90%8C" target="_blank" class="news-link">工行存100万与存20万利率相同</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num top">2</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3760523" target="_blank" class="news-link">美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">4</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num top">2</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%A1%8C%E5%AD%98100%E4%B8%87%E5%AD%9820%E4%B8%87%E5%88%A9%E7%8E%87%E7%9B%B8%E5%90%8C%23&amp;t=31&amp;band_rank=2&amp;Refer=top" target="_blank" class="news-link">工行存100万存20万利率相同</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num top">3</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3760564" target="_blank" class="news-link">亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">6</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num high">4</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7579018903666458678/" target="_blank" class="news-link">中国在联合国对日本发起外交反制</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">7</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">4</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3760624" target="_blank" class="news-link">小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">8</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">5</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3760565" target="_blank" class="news-link">特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">9</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num ">7</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2218729" target="_blank" class="news-link">美联储降息预期推动人民币升值 专家警示不宜押注单边行情</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">10</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">9</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7579620693818707502/" target="_blank" class="news-link">台湾小学校歌歌词做堂堂正正中国人</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">11</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num ">9</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2218431" target="_blank" class="news-link">特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">12</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">10</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3760602" target="_blank" class="news-link">白宫取消原定面试流程！新美联储主席哈塞特“呼之欲出”</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">13</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num ">11</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2218814" target="_blank" class="news-link">美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">14</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">澎湃新闻</span><span class="rank-num ">13</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://m.thepaper.cn/newsDetail_forward_32093131" target="_blank" class="news-link">赖清德抛出所谓“守护民主台湾国家安全行动方案”，国台办答澎湃</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">15</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">贴吧</span><span class="rank-num ">13</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347690&amp;amp;topic_name=%E6%87%82%E7%8E%8B%E5%8F%8D%E5%90%91%E7%82%B9%E5%90%8D%2C%E6%9A%97%E7%A4%BA%E6%97%A5%E9%9F%A9%E5%9D%91%E7%BE%8E%E5%9B%BD" target="_blank" class="news-link">懂王反向点名,暗示日韩坑美国</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">16</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">百度热搜</span><span class="rank-num ">18</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E5%80%BC+%E5%88%9B%E8%BF%91%E4%B8%80%E5%B9%B4%E6%96%B0%E9%AB%98" target="_blank" class="news-link">人民币升值 创近一年新高</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">17</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">26</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7579083499925618734/" target="_blank" class="news-link">俄罗斯数百辆保时捷突遭“锁死”断电</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">18</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">29</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7578525254251921462/" target="_blank" class="news-link">郑丽文：台湾若沦为战场什么都是空谈</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">19</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num ">30</span><span class="time-info">23时19分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%95%B0%E7%99%BE%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7%E7%96%91%E9%81%AD%E5%8D%AB%E6%98%9F%E5%B9%B2%E6%89%B0%E6%96%AD%E7%94%B5%23&amp;t=31&amp;band_rank=30&amp;Refer=top" target="_blank" class="news-link">俄罗斯数百辆保时捷疑遭卫星干扰断电</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="new-section">
+                    <div class="new-section-title">本次新增热点 (共 4 条)</div>
+                    <div class="new-source-group">
+                        <div class="new-source-title">华尔街见闻 · 1条</div>
+                        <div class="new-item">
+                            <div class="new-item-number">1</div>
+                            <div class="new-item-rank high">4</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://wallstreetcn.com/articles/3760624" target="_blank" class="news-link">小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="new-source-group">
+                        <div class="new-source-title">财联社热门 · 2条</div>
+                        <div class="new-item">
+                            <div class="new-item-number">1</div>
+                            <div class="new-item-rank ">7</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://www.cls.cn/detail/2218729" target="_blank" class="news-link">美联储降息预期推动人民币升值 专家警示不宜押注单边行情</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="new-item">
+                            <div class="new-item-number">2</div>
+                            <div class="new-item-rank ">11</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://www.cls.cn/detail/2218814" target="_blank" class="news-link">美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="new-source-group">
+                        <div class="new-source-title">微博 · 1条</div>
+                        <div class="new-item">
+                            <div class="new-item-number">1</div>
+                            <div class="new-item-rank ">30</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%95%B0%E7%99%BE%E8%BE%86%E4%BF%9D%E6%97%B6%E6%8D%B7%E7%96%91%E9%81%AD%E5%8D%AB%E6%98%9F%E5%B9%B2%E6%89%B0%E6%96%AD%E7%94%B5%23&amp;t=31&amp;band_rank=30&amp;Refer=top" target="_blank" class="news-link">俄罗斯数百辆保时捷疑遭卫星干扰断电</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+    
