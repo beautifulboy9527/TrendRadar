@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T13:20:32.414299+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2025-12-18T14:28:21.977945+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 341,
+      "match_count": 354,
       "titles": [
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -45,6 +45,19 @@
           "time_info": "[00时23分 ~ 09时16分]"
         },
         {
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时17分 ~ 14时28分]"
+        },
+        {
           "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
           "url": "https://www.zhihu.com/question/1984546043069760250",
           "source": "知乎",
@@ -71,17 +84,16 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
-          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
+          "title": "甲骨文百亿美元数据中心融资受阻，Blue Owl退出，公司称交易仍按计划进行",
+          "url": "https://wallstreetcn.com/articles/3761585",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2,
-            1
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时17分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[06时17分 ~ 14时28分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -94,18 +106,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 05时17分]"
-        },
-        {
-          "title": "甲骨文百亿美元数据中心融资受阻，Blue Owl退出，公司称交易仍按计划进行",
-          "url": "https://wallstreetcn.com/articles/3761585",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时17分 ~ 13时20分]"
         },
         {
           "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
@@ -216,8 +216,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 13时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 14时28分]"
         },
         {
           "title": "马克龙称对华加征关税引发贸易争端",
@@ -292,8 +292,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 13时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 14时28分]"
         },
         {
           "title": "华为Mate80为啥价格突崩",
@@ -336,8 +336,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 13时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 14时28分]"
         },
         {
           "title": "台军：福建舰入列后首过台湾海峡",
@@ -377,6 +377,18 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
+          "title": "美联储理事沃勒：仍有50-100BP降息空间，但无需急于行动",
+          "url": "https://wallstreetcn.com/articles/3761583",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 14时28分]"
+        },
+        {
           "title": "普京：欧洲小猪希望从俄解体中捞好处",
           "url": "https://www.toutiao.com/trending/7583908160423952425/",
           "source": "今日头条",
@@ -390,18 +402,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 07时17分]"
-        },
-        {
-          "title": "美联储理事沃勒：仍有50-100BP降息空间，但无需急于行动",
-          "url": "https://wallstreetcn.com/articles/3761583",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时20分]"
         },
         {
           "title": "媒体称甲骨文100亿美元数据中心融资受阻，甲骨文：仍按计划进行，推进情况合预期",
@@ -427,8 +427,34 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 14时28分]"
+        },
+        {
+          "title": "芯片需求旺盛，美光业绩与指引双双“爆表”、提高资本支出，股价盘后大涨逾9% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761597",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时17分 ~ 13时20分]"
+          "time_info": "[09时16分 ~ 14时28分]"
+        },
+        {
+          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
+          "url": "https://www.cls.cn/detail/2232914",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 14时28分]"
         },
         {
           "title": "乌神秘“第13组”首袭俄罗斯潜艇",
@@ -442,6 +468,45 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时16分 ~ 13时20分]"
+        },
+        {
+          "title": "小米华为理想先后报警 12人被抓",
+          "url": "https://www.toutiao.com/trending/7584842544207953962/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6,
+            23,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时28分]"
+        },
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 14时28分]"
+        },
+        {
+          "title": "“台风”登陆南亚，孟加拉国为何购买欧洲“台风”战机？",
+          "url": "https://news.ifeng.com/c/8pB2r4tEiWG",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 14时28分]"
         },
         {
           "title": "联合国秘书长古特雷斯呼吁美国与委内瑞拉保持克制，并立即缓和局势。",
@@ -477,17 +542,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "迪拜将3月官方原油价格设定为较阿曼均价贴水0.10美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251218125501281800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "美国原油期货收盘反弹1.2%",
           "url": "https://wallstreetcn.com/livenews/3022586",
           "source": "华尔街见闻-快讯",
@@ -497,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "元宝AI靠人工？腾讯回应",
-          "url": "https://wallstreetcn.com/livenews/3022852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，原油投机者将WTI原油净空头头寸减少2,312手，至50,928手。",
@@ -552,17 +595,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "存储芯片板块午后拉升，万润科技涨停，成都华微涨超10%，大为股份、普冉股份、德明利、江波龙、香农芯创等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3022850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "美国参议院多数议员支持9010亿美元的年度国防政策法案，投票仍在进行中。",
@@ -642,28 +674,15 @@
           "time_info": "09时16分"
         },
         {
-          "title": "摩根大通将美光科技目标价从220美元上调至350美元。",
-          "url": "https://wallstreetcn.com/livenews/3022848",
+          "title": "央行加大跨年流动性投放力度 明年初降准预期升温",
+          "url": "https://wallstreetcn.com/livenews/3022891",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "小米华为理想先后报警 12人被抓",
-          "url": "https://www.toutiao.com/trending/7584842544207953962/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时20分]"
+          "time_info": "14时28分"
         },
         {
           "title": "AI天才少女罗福莉小米首秀",
@@ -721,41 +740,15 @@
           "time_info": "03时18分"
         },
         {
-          "title": "芯片需求旺盛，美光业绩与指引双双“爆表”、提高资本支出，股价盘后大涨逾9% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761597",
-          "source": "华尔街见闻",
+          "title": "日本银行协会会长称，本次日本央行加息的可能性已显著升高。",
+          "url": "https://wallstreetcn.com/livenews/3022889",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时20分]"
-        },
-        {
-          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
-          "url": "https://www.cls.cn/detail/2232914",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时20分]"
-        },
-        {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
@@ -775,7 +768,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -791,16 +784,18 @@
           "time_info": "09时16分"
         },
         {
-          "title": "“台风”登陆南亚，孟加拉国为何购买欧洲“台风”战机？",
-          "url": "https://news.ifeng.com/c/8pB2r4tEiWG",
-          "source": "凤凰网",
+          "title": "中美关系剧透警告｜郑艺：企业界对中美短期走向相对乐观，长期走向有待观察",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32195028",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            16,
+            14,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时20分]"
+          "time_info": "[11时18分 ~ 14时28分]"
         },
         {
           "title": "ThaiSweet樱花舞MV",
@@ -813,6 +808,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时28分 ~ 04时21分]"
+        },
+        {
+          "title": "国家发改委：着力扩大有效投资",
+          "url": "https://www.cls.cn/detail/2233100",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时28分]"
         },
         {
           "title": "周三（12月17日），美联储隔夜逆回购协议（RRP）使用规模为103.61亿美元，上个交易日报15.54亿美元。",
@@ -966,6 +974,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "迪拜将3月官方原油价格设定为较阿曼均价贴水0.10美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251218125501281800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时28分]"
+        },
+        {
           "title": "美光科技：将2026财年资本开支预期提高至200亿美元，公司原本预计180亿美元。",
           "url": "https://wallstreetcn.com/livenews/3022623",
           "source": "华尔街见闻-快讯",
@@ -1000,6 +1020,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时20分]"
+        },
+        {
+          "title": "元宝AI靠人工？腾讯回应",
+          "url": "https://wallstreetcn.com/livenews/3022852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时28分]"
         },
         {
           "title": "美国银行警告称，股市泡沫风险依然存在，但认为人工智能领域仍有更大的上涨空间。",
@@ -1084,6 +1116,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "存储芯片板块午后拉升，万润科技涨停，成都华微涨超10%，大为股份、普冉股份、德明利、江波龙、香农芯创等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3022850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时28分]"
         },
         {
           "title": "2025年最大规模IPO：Medline Inc.（MDLN）美国IPO首日涨21%，报35美元，此前给出的IPO发行价为29美元，融资62.6亿美元。",
@@ -1194,6 +1238,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 12时31分]"
+        },
+        {
+          "title": "摩根大通将美光科技目标价从220美元上调至350美元。",
+          "url": "https://wallstreetcn.com/livenews/3022848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时28分]"
         },
         {
           "title": "据环球邮报：礼来公司下调加拿大热门糖尿病和减肥药物价格。",
@@ -1461,19 +1517,6 @@
           "time_info": "[04时20分 ~ 06时17分]"
         },
         {
-          "title": "中美关系剧透警告｜郑艺：企业界对中美短期走向相对乐观，长期走向有待观察",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32195028",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时20分]"
-        },
-        {
           "title": "美国参议院通过9010亿美元国防授权法案",
           "url": "https://wallstreetcn.com/livenews/3022564",
           "source": "华尔街见闻-快讯",
@@ -1525,6 +1568,19 @@
           "time_info": "[02时28分 ~ 04时21分]"
         },
         {
+          "title": "美光财报会实录：明年HBM订单排满 预计三年后潜在市场达千亿美元",
+          "url": "https://www.cls.cn/detail/2233128",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时28分]"
+        },
+        {
           "title": "甲骨文信用风险指标恐创2009年以来收盘新高，媒体此前报道称，Blue Owl不再支持该公司位于美国密西根的100亿美元规模的数据中心交易。 甲骨文五年期信用违约掉期（CDS）达到155.27个基点——恐创2009年1月份（全球金融危机全面发酵）以来收盘新高，涨幅大约3.8个基点。",
           "url": "https://wallstreetcn.com/livenews/3022552",
           "source": "华尔街见闻-快讯",
@@ -1536,6 +1592,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时21分]"
+        },
+        {
+          "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
+          "url": "https://www.cls.cn/detail/2232856",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时28分]"
         },
         {
           "title": "芯片的原理是什么？",
@@ -1595,18 +1662,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时17分 ~ 06时17分]"
-        },
-        {
-          "title": "国家发改委：着力扩大有效投资",
-          "url": "https://www.cls.cn/detail/2233100",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时20分]"
         },
         {
           "title": "美国财长贝森特：预计最高法院对关税问题的裁决将“微妙”。",
@@ -1824,6 +1879,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "三亚机场首批“零关税”进口货物通关",
+          "url": "https://www.toutiao.com/trending/7585016041089286163/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时28分]"
+        },
+        {
           "title": "美国至12月17日20年期国债竞拍-投标倍数 2.67，前值2.41。",
           "url": "https://flash.jin10.com/detail/20251218020203866800",
           "source": "金十数据",
@@ -1944,8 +2011,20 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
-          "title": "美光财报会实录：明年HBM订单排满 预计三年后潜在市场达千亿美元",
-          "url": "https://www.cls.cn/detail/2233128",
+          "title": "人到中年适当饿一饿或是抗衰黄金窗口",
+          "url": "https://www.toutiao.com/trending/7584664214193356826/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时28分]"
+        },
+        {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
           "source": "财联社热门",
           "ranks": [
             12,
@@ -1953,7 +2032,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时20分]"
+          "time_info": "[13时20分 ~ 14时28分]"
         },
         {
           "title": "美国至12月17日20年期国债竞拍-得标利率配置百分比 3.16%，前值62.39%。",
@@ -2034,17 +2113,6 @@
           "ranks": [
             10,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时20分]"
-        },
-        {
-          "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
-          "url": "https://www.cls.cn/detail/2232856",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -2658,6 +2726,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "30年期国债期货主力合约日内涨0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3022885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "甲骨文带崩美股大盘",
           "url": "https://www.toutiao.com/trending/7584969089827737139/",
           "source": "今日头条",
@@ -2733,6 +2812,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
@@ -2823,17 +2913,6 @@
           "time_info": "09时16分"
         },
         {
-          "title": "人到中年适当饿一饿或是抗衰黄金窗口",
-          "url": "https://www.toutiao.com/trending/7584664214193356826/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "美联储理事沃勒：鉴于当前经济前景，没有必要急于降息",
           "url": "https://wallstreetcn.com/articles/3761583",
           "source": "华尔街见闻",
@@ -2854,6 +2933,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "美国经济数据疲软，CPI能否助攻降息预期丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251218131121319800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "受美封锁油轮影响，委内瑞拉石油储存空间告急",
@@ -2933,6 +3023,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "盛宝银行：黄金日益被视为基石资产",
+          "url": "https://flash.jin10.com/detail/20251218131107644800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "字节宣布AI节省计划",
           "url": "https://wallstreetcn.com/livenews/3022785",
           "source": "华尔街见闻-快讯",
@@ -2944,15 +3045,15 @@
           "time_info": "11时19分"
         },
         {
-          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
-          "url": "https://www.cls.cn/detail/2233153",
-          "source": "财联社热门",
+          "title": "俄罗斯罗斯托夫州长表示，该州遭无人机袭击，一艘货船起火，造成三人死亡。",
+          "url": "https://flash.jin10.com/detail/20251218130811932800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "14时28分"
         },
         {
           "title": "周三（12月17日）纽约尾盘，标普500股指期货最终跌1.01%，道指期货跌0.40%，纳斯达克100股指期货跌1.67%。 罗素2000股指期货跌0.90%。",
@@ -2964,6 +3065,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "特朗普说委内瑞拉抢了美国的石油",
+          "url": "https://wallstreetcn.com/livenews/3022878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "未来30天NAND闪存短缺将明显加剧 国产存储芯片厂商有望迎来爆发",
+          "url": "https://www.cls.cn/detail/2232876",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "丹麦计划在2026年发行650亿丹麦克朗的债券，将重点聚焦于2年期和10年期债券。丹麦将于明年一月发行新的2年期国债。",
@@ -2986,6 +3109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "分析师：英国央行很可能会把任何降息行动描述为渐进的风险管理转变",
+          "url": "https://flash.jin10.com/detail/20251218130711154800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "本田将因芯片短缺削减日本和中国的产量。（日经）",
@@ -3030,6 +3164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "据英国金融时报获悉的提案显示，英国对金融基准提供方的监管规则将大幅放松，该行业约90%的公司将被排除在新规适用范围之外。",
+          "url": "https://flash.jin10.com/detail/20251218130539135800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国非农就业报告发布次日，标普500指数收跌78.83点，跌幅1.16%，报6721.43点。 道琼斯工业平均指数收跌228.29点，跌幅0.47%，报47885.97点。 纳斯达克综合指数（纳指）收跌418.139点，跌幅1.81%，报22693.323点。 纳斯达克100指数收跌485.334点，跌幅1.93%，报24647.606点。",
@@ -3096,6 +3241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "摩根大通：将美光科技(MU.O)目标价从220美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20251218130327654800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国原油期货收盘反弹1.2%，纽约天然气涨超3.5%",
@@ -3272,6 +3428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收跌0.2%报27,468.53点。",
+          "url": "https://wallstreetcn.com/livenews/3022866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "据国际文传电讯社：俄罗斯可能允许将外汇债券置换为卢布债务。",
@@ -3899,17 +4066,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        },
-        {
-          "title": "三亚机场首批“零关税”进口货物通关",
-          "url": "https://www.toutiao.com/trending/7585016041089286163/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至0.8%，标普500指数下跌0.4%。",
