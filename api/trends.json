@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T15:20:13.119312+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2025-12-25T16:24:49.835084+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 327,
+      "match_count": 346,
       "titles": [
         {
           "title": "升级！美国罕见制裁欧盟前官员",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 09时20分]"
+        },
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 16时24分]"
         },
         {
           "title": "贝森特暗示美联储未来方向：通胀“区间制”，取消“点阵图”，支持财政部，回归“幕后”",
@@ -56,17 +67,6 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 15时20分]"
-        },
-        {
           "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
           "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
           "source": "澎湃新闻",
@@ -74,8 +74,45 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 16时24分]"
+        },
+        {
+          "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
+          "url": "https://wallstreetcn.com/articles/3762030",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 16时24分]"
+        },
+        {
+          "title": "法国、英国、德国、加拿大、日本等14国发表联合声明",
+          "url": "https://news.ifeng.com/c/8pMbqslUmBN",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 16时24分]"
+        },
+        {
+          "title": "现在，欧洲情绪很不稳定",
+          "url": "https://news.ifeng.com/c/8pMfuZ5yFGI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 16时24分]"
         },
         {
           "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
@@ -104,30 +141,6 @@
           "time_info": "[00时21分 ~ 09时20分]"
         },
         {
-          "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
-          "url": "https://wallstreetcn.com/articles/3762030",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 15时20分]"
-        },
-        {
-          "title": "法国、英国、德国、加拿大、日本等14国发表联合声明",
-          "url": "https://news.ifeng.com/c/8pMbqslUmBN",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 15时20分]"
-        },
-        {
           "title": "人民币现金收付新规明年2月起施行",
           "url": "https://www.toutiao.com/trending/7586141357673971718/",
           "source": "今日头条",
@@ -142,19 +155,6 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "现在，欧洲情绪很不稳定",
-          "url": "https://news.ifeng.com/c/8pMfuZ5yFGI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 15时20分]"
-        },
-        {
           "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
           "url": "https://www.cls.cn/detail/2239150",
           "source": "财联社热门",
@@ -166,6 +166,37 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 09时20分]"
+        },
+        {
+          "title": "12月25日投资避雷针：3天2板海南板块人气股公告 第三大股东拟减持不超3%",
+          "url": "https://www.cls.cn/detail/2239456",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 16时24分]"
+        },
+        {
+          "title": "印度为啥搞不定化肥产业",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E5%95%A5%E6%90%9E%E4%B8%8D%E5%AE%9A%E5%8C%96%E8%82%A5%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            25,
+            9,
+            26,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 16时24分]"
         },
         {
           "title": "台网友实拍岛内车牌全是“台湾省”",
@@ -195,6 +226,45 @@
           "time_info": "[06时17分 ~ 12时36分]"
         },
         {
+          "title": "离岸人民币兑美元升破7.0大关",
+          "url": "https://www.cls.cn/detail/2239636",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时24分]"
+        },
+        {
+          "title": "人民币升值，“结汇潮”的助推？",
+          "url": "https://wallstreetcn.com/articles/3762001",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 16时24分]"
+        },
+        {
+          "title": "美国未来18个月不对中国芯片加征额外关税，释放什么信号？",
+          "url": "https://news.ifeng.com/c/8pMXDpCmPFM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 16时24分]"
+        },
+        {
           "title": "Clocktower王凯文：白银是当前最高确信度交易，如果美联储“敢”在通胀下降息，那么白银“天上见” | Alpha峰会",
           "url": "https://wallstreetcn.com/articles/3761998",
           "source": "华尔街见闻",
@@ -204,8 +274,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时17分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[06时17分 ~ 16时24分]"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -238,6 +308,18 @@
           "time_info": "[03时14分 ~ 12时36分]"
         },
         {
+          "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
+          "url": "https://wallstreetcn.com/articles/3762015",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 16时24分]"
+        },
+        {
           "title": "4天赚8亿,梅西印度行狂捞金",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348352&amp;topic_name=4%E5%A4%A9%E8%B5%9A8%E4%BA%BF%2C%E6%A2%85%E8%A5%BF%E5%8D%B0%E5%BA%A6%E8%A1%8C%E7%8B%82%E6%8D%9E%E9%87%91",
           "source": "贴吧",
@@ -247,11 +329,12 @@
             14,
             16,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时24分]"
         },
         {
           "title": "现货黄金突破4500美元创新高 避险共识下机构现分歧：到顶了还是仍看涨？",
@@ -278,11 +361,12 @@
             19,
             18,
             21,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 14时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 16时24分]"
         },
         {
           "title": "如何看待华为首款星闪耳机，能否引领音频行业新方向？",
@@ -312,21 +396,6 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "印度为啥搞不定化肥产业",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E5%95%A5%E6%90%9E%E4%B8%8D%E5%AE%9A%E5%8C%96%E8%82%A5%E4%BA%A7%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            25,
-            9,
-            26,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 15时20分]"
-        },
-        {
           "title": "美国结束上届政府针对中国芯片贸易调查 未来18个月不对中国芯片加征额外关税",
           "url": "https://www.cls.cn/detail/2239421",
           "source": "财联社热门",
@@ -338,6 +407,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时20分 ~ 13时21分]"
+        },
+        {
+          "title": "人民币年底升值加速！离岸升破7.0大关，在岸升破7.01关口，均创下去年9月底来新高",
+          "url": "https://wallstreetcn.com/articles/3762050",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时24分]"
         },
         {
           "title": "年薪45万美元程序员半年变流浪汉",
@@ -354,33 +437,6 @@
           "time_info": "[09时20分 ~ 14时28分]"
         },
         {
-          "title": "12月25日投资避雷针：3天2板海南板块人气股公告 第三大股东拟减持不超3%",
-          "url": "https://www.cls.cn/detail/2239456",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 15时20分]"
-        },
-        {
-          "title": "离岸人民币兑美元升破7.0大关",
-          "url": "https://www.cls.cn/detail/2239636",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 15时20分]"
-        },
-        {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
@@ -390,44 +446,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 03时14分]"
-        },
-        {
-          "title": "人民币升值，“结汇潮”的助推？",
-          "url": "https://wallstreetcn.com/articles/3762001",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 15时20分]"
-        },
-        {
-          "title": "美国未来18个月不对中国芯片加征额外关税，释放什么信号？",
-          "url": "https://news.ifeng.com/c/8pMXDpCmPFM",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 15时20分]"
-        },
-        {
-          "title": "央行四季度例会：继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
-          "url": "https://wallstreetcn.com/articles/3762015",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 15时20分]"
         },
         {
           "title": "2025年A股诞生7只十倍股",
@@ -494,17 +512,58 @@
           "time_info": "[11时24分 ~ 15时20分]"
         },
         {
-          "title": "人民币年底升值加速！离岸升破7.0大关，在岸升破7.01关口，均创下去年9月底来新高",
-          "url": "https://wallstreetcn.com/articles/3762050",
-          "source": "华尔街见闻",
+          "title": "年薪45万美元程序员半年变流浪汉",
+          "url": "https://www.toutiao.com/trending/7586892012000804905/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            6,
-            5
+            16,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时24分]"
+        },
+        {
+          "title": "中美关系剧透警告｜董云裳：明年中美元首若能高频会晤，能为潜在冲击“托底”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243431",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时24分]"
+        },
+        {
+          "title": "白银疯涨背后的投资风险",
+          "url": "https://www.douyin.com/hot/2346656",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时24分]"
+        },
+        {
+          "title": "年薪45万美元程序员半年变流浪汉",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%96%AA45%E4%B8%87%E7%BE%8E%E5%85%83%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%8A%E5%B9%B4%E5%8F%98%E6%B5%81%E6%B5%AA%E6%B1%89",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时24分]"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -518,30 +577,18 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "年薪45万美元程序员半年变流浪汉",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%96%AA45%E4%B8%87%E7%BE%8E%E5%85%83%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%8A%E5%B9%B4%E5%8F%98%E6%B5%81%E6%B5%AA%E6%B1%89",
-          "source": "百度热搜",
+          "title": "离岸人民币兑美元升破 7.0 大关，主要受哪些因素影响？「破 7」将带来哪些改变？",
+          "url": "https://www.zhihu.com/question/1987142144352335062",
+          "source": "知乎",
           "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时20分]"
-        },
-        {
-          "title": "白银疯涨背后的投资风险",
-          "url": "https://www.douyin.com/hot/2346656",
-          "source": "抖音",
-          "ranks": [
-            10,
             11,
-            8,
-            7
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时24分]"
         },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
@@ -588,19 +635,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "中美关系剧透警告｜董云裳：明年中美元首若能高频会晤，能为潜在冲击“托底”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243431",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 15时20分]"
-        },
-        {
           "title": "泽连斯基：乌克兰不会放弃加入北约",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8D%E4%BC%9A%E6%94%BE%E5%BC%83%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6",
           "source": "百度热搜",
@@ -612,6 +646,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时20分 ~ 13时21分]"
+        },
+        {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 16时24分]"
         },
         {
           "title": "台湾台东县5.8级地震",
@@ -714,18 +759,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "商务部：坚决反对美对华半导体产品加征301关税 已提出严正交涉",
-          "url": "https://wallstreetcn.com/livenews/3026620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -780,7 +814,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -807,15 +841,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "商务部回应美封锁进出委内瑞拉受制裁油轮：坚决反对“长臂管辖”",
-          "url": "https://wallstreetcn.com/livenews/3026619",
+          "title": "预告：国家发改委将于12月26日10:30举行新闻发布会，介绍国家创业投资引导基金有关工作。",
+          "url": "https://wallstreetcn.com/livenews/3026653",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时24分"
         },
         {
           "title": "美银筛出2026年六大芯片股 看好半导体行业销售额突破1万亿美元",
@@ -844,18 +878,6 @@
           "time_info": "[03时14分 ~ 06时17分]"
         },
         {
-          "title": "年薪45万美元程序员半年变流浪汉",
-          "url": "https://www.toutiao.com/trending/7586892012000804905/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 15时20分]"
-        },
-        {
           "title": "美股行业ETF普遍收涨",
           "url": "https://wallstreetcn.com/livenews/3026322",
           "source": "华尔街见闻-快讯",
@@ -868,6 +890,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时14分 ~ 06时17分]"
+        },
+        {
+          "title": "人民币大幅升值是好事吗",
+          "url": "https://www.toutiao.com/trending/7587663555470560811/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美联储明年1月维持利率不变的概率为84.5%",
@@ -901,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "越南最大的企业集团Vingroup表示，将撤回价值670亿美元的南北高速铁路项目提案。",
+          "url": "https://flash.jin10.com/detail/20251225155415645800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "年内私募机构豪掷59.8亿元参与A股定增",
@@ -996,15 +1040,42 @@
           "time_info": "[02时25分 ~ 05时16分]"
         },
         {
-          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
-          "url": "https://wallstreetcn.com/articles/3762016",
-          "source": "华尔街见闻",
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时24分 ~ 15时20分]"
+          "time_info": "[13时21分 ~ 16时24分]"
+        },
+        {
+          "title": "人民币大升值 有人存美元如今亏钱",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%A4%A7%E5%8D%87%E5%80%BC+%E6%9C%89%E4%BA%BA%E5%AD%98%E7%BE%8E%E5%85%83%E5%A6%82%E4%BB%8A%E4%BA%8F%E9%92%B1",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时24分]"
+        },
+        {
+          "title": "央行最新例会释放下阶段货币政策信号，哪些表述发生了变化？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32246651",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 16时24分]"
         },
         {
           "title": "深扒德国人的环保神话",
@@ -1449,17 +1520,16 @@
           "time_info": "[11时25分 ~ 12时36分]"
         },
         {
-          "title": "离岸人民币兑美元升破 7.0 大关，主要受哪些因素影响？「破 7」将带来哪些改变？",
-          "url": "https://www.zhihu.com/question/1987142144352335062",
-          "source": "知乎",
+          "title": "商务部：坚决反对美对华半导体产品加征301关税 已提出严正交涉",
+          "url": "https://wallstreetcn.com/livenews/3026620",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            9,
-            6
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时20分]"
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时24分]"
         },
         {
           "title": "美至少18个月内不对中国芯片加税",
@@ -1496,6 +1566,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时21分]"
+        },
+        {
+          "title": "商务部回应美封锁进出委内瑞拉受制裁油轮：坚决反对“长臂管辖”",
+          "url": "https://wallstreetcn.com/livenews/3026619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时24分]"
         },
         {
           "title": "美国官员：尽管军事选项依然存在，但重点是首先通过实施制裁施加经济压力，以达成白宫所寻求的结果。",
@@ -1562,18 +1644,6 @@
           "time_info": "[04时19分 ~ 07时17分]"
         },
         {
-          "title": "人民币大升值 有人存美元如今亏钱",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%A4%A7%E5%8D%87%E5%80%BC+%E6%9C%89%E4%BA%BA%E5%AD%98%E7%BE%8E%E5%85%83%E5%A6%82%E4%BB%8A%E4%BA%8F%E9%92%B1",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时20分]"
-        },
-        {
           "title": "八部门推进多边央行数字货币桥项目 数字货币应用有望迎重大进展",
           "url": "https://www.cls.cn/detail/2239424",
           "source": "财联社热门",
@@ -1586,27 +1656,16 @@
           "time_info": "[13时21分 ~ 15时20分]"
         },
         {
-          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
-          "url": "https://www.cls.cn/detail/2239492",
-          "source": "财联社热门",
+          "title": "加拿大厨师做出世界上最薄三明治",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8E%A8%E5%B8%88%E5%81%9A%E5%87%BA%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E8%96%84%E4%B8%89%E6%98%8E%E6%B2%BB",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            11
+            20,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时20分]"
-        },
-        {
-          "title": "央行最新例会释放下阶段货币政策信号，哪些表述发生了变化？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32246651",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 15时20分]"
+          "time_info": "[14时28分 ~ 16时24分]"
         },
         {
           "title": "在岸人民币兑美元升破7.01元关口",
@@ -1880,6 +1939,17 @@
           "time_info": "[03时14分 ~ 05时16分]"
         },
         {
+          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1987426605316924152",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时24分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的48.03亿美元。",
           "url": "https://flash.jin10.com/detail/20251225021645625800",
           "source": "金十数据",
@@ -1969,15 +2039,28 @@
           "time_info": "[03时14分 ~ 06时17分]"
         },
         {
-          "title": "加拿大厨师做出世界上最薄三明治",
-          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8E%A8%E5%B8%88%E5%81%9A%E5%87%BA%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E8%96%84%E4%B8%89%E6%98%8E%E6%B2%BB",
-          "source": "百度热搜",
+          "title": "离岸人民币对美元汇率重回“6”时代",
+          "url": "https://www.toutiao.com/trending/7587644987605519891/",
+          "source": "今日头条",
           "ranks": [
-            20
+            23,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时28分 ~ 15时20分]"
+          "time_info": "[15时19分 ~ 16时24分]"
+        },
+        {
+          "title": "8000多美元存1年亏1000多人民币",
+          "url": "https://www.toutiao.com/trending/7586644776005435398/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时24分]"
         },
         {
           "title": "中方要求美方立即停止“武装台湾”",
@@ -2026,6 +2109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 15时20分]"
+        },
+        {
+          "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3026615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时24分]"
         },
         {
           "title": "现货黄金在亚太早盘涨穿4500美元创历史新高",
@@ -2136,17 +2231,6 @@
           "time_info": "[15时19分 ~ 15时20分]"
         },
         {
-          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1987426605316924152",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
           "title": "美国至12月24日4周国债竞拍-得标利率配置百分比 83.48%，前值2.93%。",
           "url": "https://flash.jin10.com/detail/20251225004517792800",
           "source": "金十数据",
@@ -2229,6 +2313,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时21分]"
+        },
+        {
+          "title": "A股电池板块低开高走，天际股份触达涨停，震裕科技涨超5%，蔚蓝锂芯、容百科技、科达利、博力威、信宇人等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3026603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时24分]"
         },
         {
           "title": "美国至12月24日4周国债竞拍-得标利率 3.57%，前值3.58%。",
@@ -2588,28 +2684,6 @@
           "time_info": "[01时15分 ~ 02时25分]"
         },
         {
-          "title": "离岸人民币对美元汇率重回“6”时代",
-          "url": "https://www.toutiao.com/trending/7587644987605519891/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "8000多美元存1年亏1000多人民币",
-          "url": "https://www.toutiao.com/trending/7586644776005435398/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
           "title": "台湾机车车牌是台湾省",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%9C%BA%E8%BD%A6%E8%BD%A6%E7%89%8C%E6%98%AF%E5%8F%B0%E6%B9%BE%E7%9C%81%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -2676,15 +2750,15 @@
           "time_info": "09时20分"
         },
         {
-          "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3026615",
-          "source": "华尔街见闻-快讯",
+          "title": "事关TikTok、美对华半导体产品加征301关税，商务部回应",
+          "url": "https://www.cls.cn/detail/2239877",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时24分"
         },
         {
           "title": "英国首富、戴森创始人将6.24亿英镑转至新加坡",
@@ -2720,6 +2794,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "北京将实现100个行业大模型落地应用",
+          "url": "https://wallstreetcn.com/livenews/3026644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "日本两年期国债收益率上涨1个基点，至1.11%。",
           "url": "https://flash.jin10.com/detail/20251225115103805800",
           "source": "金十数据",
@@ -2742,6 +2827,17 @@
           "time_info": "13时21分"
         },
         {
+          "title": "俄罗斯国家技术集团 (Rostec)：已制造并向俄罗斯国防部交付了又一批苏-35S多用途战斗机。",
+          "url": "https://flash.jin10.com/detail/20251225153829085800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收跌0.02%，报588.61点。 欧元区STOXX 50指数初步收跌0.05%，报5746.24点。 富时泛欧绩优300指数初步收跌0.04%，报2345.85点。 法国CAC 40指数收跌不到0.01%，报8103.58点。 英国富时100指数收跌0.19%，报9870.68点，富时250指数收跌0.16%，富时350指数收跌0.18%。 荷兰AEX指数收跌0.09%。 德国、意大利、希腊、丹麦股市休市。",
           "url": "https://wallstreetcn.com/livenews/3026288",
           "source": "华尔街见闻-快讯",
@@ -2762,6 +2858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "日本央行行长植田和男：我们正在稳步朝着实现价格目标迈进，同时伴随着工资的增长。",
@@ -2792,7 +2899,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2806,6 +2913,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "去年10月以来首次！离岸人民币对美元收复“7”关口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32245587",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "现货黄金跌破4450美元",
@@ -2839,6 +2957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：鉴于石油消费量的这种增长，各国需要进行投资和合作，以确保市场供应，因为这关系到能源安全。",
+          "url": "https://flash.jin10.com/detail/20251225153134298800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "银河证券：美国2026年仍存在约3次降息空间",
@@ -2885,6 +3014,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "俄罗斯副总理诺瓦克：在过去两年中，我们看到石油消费量每年增长超过100万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251225153111082800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
           "url": "https://wallstreetcn.com/livenews/3026368",
           "source": "华尔街见闻-快讯",
@@ -2896,15 +3036,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "A股电池板块低开高走，天际股份触达涨停，震裕科技涨超5%，蔚蓝锂芯、容百科技、科达利、博力威、信宇人等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3026603",
+          "title": "证监会债券司：前11个月，交易所市场支持通道沿线省企业累计发行公司债券近7000亿元",
+          "url": "https://wallstreetcn.com/livenews/3026636",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时24分"
         },
         {
           "title": "现货黄金跌破4460美元/盎司，日内跌0.58%。现货白银日内跌超1美元，现报70.42美元/盎司，跌幅1.45%。纽约期银日内下跌1.00%，现报70.42美元/盎司。",
@@ -2927,6 +3067,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月25日（周四）收盘下跌0.65%报1003.1元/克；<br/>上海黄金交易所白银T+D 12月25日（周四）收盘上涨0.52%报17411.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251225153056079800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "一半是海水一半是火焰，私募主题投资思路生变",
@@ -3017,6 +3168,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "俄罗斯副总理诺瓦克：到2050年，石油消费量增长可能达到2000万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251225153023585800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "中信证券：看好互联网大厂凭借AI产品力、成熟生态以及投流资金规模优势，率先抢占市场并完成用户AI家医心智培育",
           "url": "https://wallstreetcn.com/livenews/3026404",
           "source": "华尔街见闻-快讯",
@@ -3061,6 +3223,17 @@
           "time_info": "13时21分"
         },
         {
+          "title": "俄罗斯副总理诺瓦克：俄罗斯年通胀率到年底将达到6%或略低于6%。",
+          "url": "https://flash.jin10.com/detail/20251225152936295800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "俄罗斯黑海港口储油罐遭袭起火",
           "url": "https://wallstreetcn.com/livenews/3026460",
           "source": "华尔街见闻-快讯",
@@ -3103,6 +3276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "14国联合声明谴责以色列",
+          "url": "https://www.douyin.com/hot/2346904",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "印度国家软件与服务公司协会（NASSCOM）：对拟议的H-1B签证变更表示担忧。拟议的H-1B变更可能会带来地区和职业方面的扭曲。加权模式可能对中小型企业不利。",
@@ -3188,7 +3372,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -3287,7 +3471,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -3463,7 +3647,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -3551,7 +3735,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -3655,6 +3839,17 @@
           "time_info": "12时36分"
         },
         {
+          "title": "外地消费者为何要去胖东来买黄金",
+          "url": "https://www.toutiao.com/trending/7587639774274391593/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "日本央行行长植田和男：企业积极的薪资设定行为不太可能被扰乱。",
           "url": "https://flash.jin10.com/detail/20251225122629622800",
           "source": "金十数据",
@@ -3672,7 +3867,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -3798,6 +3993,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "人民币升值别期待“一口吃成胖子”",
+          "url": "https://www.toutiao.com/trending/7587437910299774515/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "现货铂金跌逾3%，至2196.1美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251224230054015800",
           "source": "金十数据",
@@ -3831,6 +4037,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "美债抛售潮背后的地缘金融信号",
+          "url": "https://www.toutiao.com/trending/7587662581184073257/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "现货钯金跌5.2%，刷新日低，逼近1750美元，北京时间14:47还曾涨至1962.42美元，之后持续回撤。",
           "url": "https://wallstreetcn.com/livenews/3026251",
           "source": "华尔街见闻-快讯",
@@ -3851,6 +4068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "俄罗斯战斗机工业现状如何",
+          "url": "https://www.toutiao.com/trending/7587663172127952390/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
