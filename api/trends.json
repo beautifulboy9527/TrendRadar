@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:26:28.205151+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2026-01-08T17:26:17.060483+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 455,
+      "match_count": 477,
       "titles": [
         {
           "title": "科技创新活力涌动",
@@ -104,6 +104,18 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 17时26分]"
+        },
+        {
           "title": "美军扣押俄潜艇护航的油轮",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E6%89%A3%E6%8A%BC%E4%BF%84%E6%BD%9C%E8%89%87%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B2%B9%E8%BD%AE",
           "source": "bilibili 热搜",
@@ -116,6 +128,21 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
+          "title": "美国宣布已扣押“贝拉1”号油轮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32336532",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 17时26分]"
+        },
+        {
           "title": "直播电商新规强化AI内容监管",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -125,32 +152,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时27分 ~ 11时27分]"
-        },
-        {
-          "title": "美国宣布已扣押“贝拉1”号油轮",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32336532",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            7,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时26分]"
-        },
-        {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时26分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -176,6 +177,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时22分]"
+        },
+        {
+          "title": "俄谴责美扣押油轮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E8%B0%B4%E8%B4%A3%E7%BE%8E%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 17时26分]"
         },
         {
           "title": "【早报】央行今日开展1.1万亿元买断式逆回购操作；多家上市公司预计2025年业绩亏损",
@@ -216,17 +228,6 @@
           "time_info": "[00时26分 ~ 16时26分]"
         },
         {
-          "title": "俄谴责美扣押油轮",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E8%B0%B4%E8%B4%A3%E7%BE%8E%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 16时26分]"
-        },
-        {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
           "url": "https://www.cls.cn/detail/2251170",
           "source": "财联社热门",
@@ -239,6 +240,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时18分 ~ 15时22分]"
+        },
+        {
+          "title": "美称连扣两艘油轮，其中一艘挂俄国旗，俄方谴责美扣押俄油轮",
+          "url": "https://wallstreetcn.com/articles/3762772",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 17时26分]"
         },
         {
           "title": "央行连续14个月增持黄金",
@@ -256,6 +271,21 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时26分 ~ 15时22分]"
+        },
+        {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 17时26分]"
         },
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -288,6 +318,20 @@
           "time_info": "[04时21分 ~ 13时22分]"
         },
         {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时37分 ~ 17时26分]"
+        },
+        {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
           "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
@@ -312,6 +356,18 @@
           "time_info": "[00时26分 ~ 09时22分]"
         },
         {
+          "title": "委内瑞拉临时总统：美军对委发动袭击给两国关系留下“污点”",
+          "url": "https://news.ifeng.com/c/8pk80gsD2Bu",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 17时26分]"
+        },
+        {
           "title": "俄罗斯谴责美国扣押油轮",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE",
           "source": "百度热搜",
@@ -322,21 +378,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时22分]"
-        },
-        {
-          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
-          "url": "https://www.cls.cn/detail/2251233",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时26分]"
         },
         {
           "title": "A股14连阳",
@@ -356,19 +397,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时22分]"
-        },
-        {
-          "title": "美称连扣两艘油轮，其中一艘挂俄国旗，俄方谴责美扣押俄油轮",
-          "url": "https://wallstreetcn.com/articles/3762772",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时26分]"
         },
         {
           "title": "美军扣押俄潜艇护航的油轮",
@@ -413,17 +441,15 @@
           "time_info": "[06时18分 ~ 14时29分]"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
+          "title": "台湾问题轮不到民族败类说三道四",
+          "url": "https://www.toutiao.com/trending/7592172747745312787/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            5,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
         },
         {
           "title": "美国在约半小时内宣称扣押两艘油轮",
@@ -545,15 +571,16 @@
           "time_info": "[11时27分 ~ 16时26分]"
         },
         {
-          "title": "台湾问题轮不到民族败类说三道四",
-          "url": "https://www.toutiao.com/trending/7592172747745312787/",
-          "source": "今日头条",
+          "title": "万斯：符合美国的国家利益，委内瑞拉才能卖石油",
+          "url": "https://news.ifeng.com/c/8pk6RERKOE8",
+          "source": "凤凰网",
           "ranks": [
-            1
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 17时26分]"
         },
         {
           "title": "1月8日投资避雷针：4连板人气股提示风险 参股的商业航天公司前三季度仍亏损",
@@ -563,17 +590,6 @@
             7,
             6,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 16时26分]"
-        },
-        {
-          "title": "委内瑞拉临时总统：美军对委发动袭击给两国关系留下“污点”",
-          "url": "https://news.ifeng.com/c/8pk80gsD2Bu",
-          "source": "凤凰网",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -594,6 +610,19 @@
           "time_info": "[12时37分 ~ 15时22分]"
         },
         {
+          "title": "5000万桶石油只是开始？美国宣称：将“无限期”控制委内瑞拉石油销售",
+          "url": "https://www.cls.cn/detail/2251321",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时37分 ~ 17时26分]"
+        },
+        {
           "title": "美军动用直升机和海岸警卫队舰艇，扣押俄潜艇护航的“水手”号油轮",
           "url": "https://www.cls.cn/detail/2251068",
           "source": "财联社热门",
@@ -609,15 +638,16 @@
           "time_info": "[04时21分 ~ 11时27分]"
         },
         {
-          "title": "万斯：符合美国的国家利益，委内瑞拉才能卖石油",
-          "url": "https://news.ifeng.com/c/8pk6RERKOE8",
-          "source": "凤凰网",
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
           "ranks": [
-            9
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时27分 ~ 16时26分]"
+          "time_info": "[12时37分 ~ 17时26分]"
         },
         {
           "title": "美国财政部顾问Lavorgna：预计到2026年，美国财政赤字占GDP的比重将进一步下降。",
@@ -714,7 +744,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -786,6 +816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "委内瑞拉原油在亚洲料难“破冰” 大幅折扣或成唯一敲门砖",
+          "url": "https://flash.jin10.com/detail/20260108171421112800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
@@ -871,7 +912,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -926,7 +967,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -940,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "美股军工股盘前普涨，雷神技术盘前涨超5%，洛克希德马丁涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3033169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1003,9 +1055,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统佩泽希齐扬警告，任何囤积或哄抬物价的行为都将受到“严肃而果断”的处理。",
+          "url": "https://flash.jin10.com/detail/20260108171337391800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "白宫新闻秘书Leavitt：被美国截获的油轮Bella 1的船员们将被起诉。 必要时将被掳到美国。",
@@ -1036,22 +1099,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "5000万桶石油只是开始？美国宣称：将“无限期”控制委内瑞拉石油销售",
-          "url": "https://www.cls.cn/detail/2251321",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 16时26分]"
         },
         {
           "title": "特朗普退出联合国机构一览表",
@@ -1066,18 +1116,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时22分 ~ 16时26分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 16时26分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -1102,6 +1140,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时27分 ~ 16时26分]"
+        },
+        {
+          "title": "美国扣押俄罗斯油轮意欲何为",
+          "url": "https://www.toutiao.com/trending/7592517037668794418/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时26分]"
+        },
+        {
+          "title": "李在明驳斥中方干预韩选举荒唐言论",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A9%B3%E6%96%A5%E4%B8%AD%E6%96%B9%E5%B9%B2%E9%A2%84%E9%9F%A9%E9%80%89%E4%B8%BE%E8%8D%92%E5%94%90%E8%A8%80%E8%AE%BA%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
         },
         {
           "title": "周三（1月7日），美联储隔夜逆回购协议（RRP）使用规模为45.82亿美元（交易对手8家），上个交易日报25.82亿美元。",
@@ -1140,6 +1204,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时21分]"
+        },
+        {
+          "title": "不讲武德!美强行扣押大鹅油轮",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348831&amp;topic_name=%E4%B8%8D%E8%AE%B2%E6%AD%A6%E5%BE%B7%21%E7%BE%8E%E5%BC%BA%E8%A1%8C%E6%89%A3%E6%8A%BC%E5%A4%A7%E9%B9%85%E6%B2%B9%E8%BD%AE",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
         },
         {
           "title": "伊朗谴责以色列外长进入索马里兰",
@@ -1238,18 +1315,6 @@
           "time_info": "[11时27分 ~ 12时37分]"
         },
         {
-          "title": "李在明驳斥中方干预韩选举荒唐言论",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A9%B3%E6%96%A5%E4%B8%AD%E6%96%B9%E5%B9%B2%E9%A2%84%E9%9F%A9%E9%80%89%E4%B8%BE%E8%8D%92%E5%94%90%E8%A8%80%E8%AE%BA%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时26分]"
-        },
-        {
           "title": "德国柏林西南部电网遭纵火破坏，供电正逐步恢复",
           "url": "https://wallstreetcn.com/livenews/3032641",
           "source": "华尔街见闻-快讯",
@@ -1333,18 +1398,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时17分]"
-        },
-        {
-          "title": "不讲武德!美强行扣押大鹅油轮",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348831&amp;topic_name=%E4%B8%8D%E8%AE%B2%E6%AD%A6%E5%BE%B7%21%E7%BE%8E%E5%BC%BA%E8%A1%8C%E6%89%A3%E6%8A%BC%E5%A4%A7%E9%B9%85%E6%B2%B9%E8%BD%AE",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时26分]"
         },
         {
           "title": "加拿大总理卡尼将出席1月19-21日举行的达沃斯全球经济论坛（WEF）。",
@@ -1660,19 +1713,6 @@
           "time_info": "[13时22分 ~ 14时29分]"
         },
         {
-          "title": "美国扣押俄罗斯油轮意欲何为",
-          "url": "https://www.toutiao.com/trending/7592517037668794418/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 16时26分]"
-        },
-        {
           "title": "Anthropic按3500亿美元估值融资100亿美元。 由GIC和Coatue Management领投。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3032639",
           "source": "华尔街见闻-快讯",
@@ -1725,6 +1765,18 @@
           "time_info": "[02时27分 ~ 04时21分]"
         },
         {
+          "title": "存储芯片价格失控！华尔街再调预期：2026年DRAM或暴涨88%，NAND涨74%",
+          "url": "https://wallstreetcn.com/articles/3762731",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -1762,6 +1814,43 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时22分 ~ 15时22分]"
+        },
+        {
+          "title": "NVIDIA专场发布会解析",
+          "url": "https://search.bilibili.com/all?keyword=NVIDIA%E4%B8%93%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 17时26分]"
+        },
+        {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
+        },
+        {
+          "title": "美国硅谷富豪圈流行用胚胎筛选技术等手段「订制婴儿」，打造完美后代，真的靠谱吗？可能存在哪些潜在问题？",
+          "url": "https://www.zhihu.com/question/1992280649986438924",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
         },
         {
           "title": "法外长：美攻击北约国家违背自身利益",
@@ -1811,6 +1900,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "商务部回应审查Meta收购Manus：企业从事对外投资等活动须符合中国法律法规",
+          "url": "https://www.cls.cn/detail/2251725",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
@@ -2041,17 +2142,6 @@
           "time_info": "[11时27分 ~ 12时37分]"
         },
         {
-          "title": "存储芯片价格失控！华尔街再调预期：2026年DRAM或暴涨88%，NAND涨74%",
-          "url": "https://wallstreetcn.com/articles/3762731",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时26分]"
-        },
-        {
           "title": "加拿大阿尔伯塔省省长表示，委内瑞拉的事件凸显了建设管道的迫切需求。",
           "url": "https://flash.jin10.com/detail/20260108032541384800",
           "source": "金十数据",
@@ -2256,18 +2346,6 @@
           "time_info": "[12时37分 ~ 13时22分]"
         },
         {
-          "title": "NVIDIA专场发布会解析",
-          "url": "https://search.bilibili.com/all?keyword=NVIDIA%E4%B8%93%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时22分]"
-        },
-        {
           "title": "两名巴基斯坦消息人士称，巴基斯坦和沙特正在就将约20亿美元的沙特贷款转化为购买战斗机的交易进行谈判。这是在两国去年签署共同防御协议数月后，双方军事合作进一步深化的举措。",
           "url": "https://flash.jin10.com/detail/20260108015317410800",
           "source": "金十数据",
@@ -2302,18 +2380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时19分]"
-        },
-        {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时26分]"
         },
         {
           "title": "英证实参与美北大西洋扣押油轮行动",
@@ -2352,16 +2418,15 @@
           "time_info": "[02时27分 ~ 03时19分]"
         },
         {
-          "title": "美国硅谷富豪圈流行用胚胎筛选技术等手段「订制婴儿」，打造完美后代，真的靠谱吗？可能存在哪些潜在问题？",
-          "url": "https://www.zhihu.com/question/1992280649986438924",
+          "title": "按现在的消耗，石油还够全世界用多少年？",
+          "url": "https://www.zhihu.com/question/315491961",
           "source": "知乎",
           "ranks": [
-            15,
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时26分]"
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "马斯克：中国AI算力领先世界",
@@ -2460,6 +2525,30 @@
           "time_info": "[02时27分 ~ 03时19分]"
         },
         {
+          "title": "房贷利率又迎下调",
+          "url": "https://www.douyin.com/hot/2360618",
+          "source": "抖音",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
+        },
+        {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
+        },
+        {
           "title": "沙特阿拉伯对也门多地发动空袭",
           "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E5%AF%B9%E4%B9%9F%E9%97%A8%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD",
           "source": "百度热搜",
@@ -2482,6 +2571,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时17分]"
+        },
+        {
+          "title": "外交部回应美扣押悬挂俄国旗油轮",
+          "url": "https://www.toutiao.com/trending/7592650184207646739/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
@@ -2580,7 +2681,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -2668,7 +2769,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -2704,6 +2805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "广州：以汽车企业应用为牵引 推动自主可控汽车芯片的规模化应用",
+          "url": "https://wallstreetcn.com/livenews/3033160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "伊朗军方说不会对美威胁置之不理",
@@ -2778,7 +2890,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -2965,9 +3077,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
+          "url": "https://flash.jin10.com/detail/20260108171213389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "维持1万亿美元军费？特朗普称2027年美军事预算应是1.5万亿美元",
@@ -3075,7 +3198,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3100,6 +3223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "丹麦议员：被枪指头还谈什么，美国此举只会让欧洲盟友倒向中国",
+          "url": "https://news.ifeng.com/c/8pkRVinl29t",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "俄罗斯要求美方尊重“水手”号油轮上的俄公民权益",
@@ -3163,7 +3297,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3218,7 +3352,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3273,7 +3407,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3322,15 +3456,15 @@
           "time_info": "07时18分"
         },
         {
-          "title": "商务部回应审查Meta收购Manus：企业从事对外投资等活动须符合中国法律法规",
-          "url": "https://www.cls.cn/detail/2251725",
+          "title": "【午报】三大指数震荡整理涨跌不一，商业航天、AI应用等热门赛道反复活跃",
+          "url": "https://www.cls.cn/detail/2251507",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时26分"
         },
         {
           "title": "白宫新闻秘书莱维特：索菲亚号（油轮）正被护送至美国。",
@@ -3416,7 +3550,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3471,7 +3605,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3515,9 +3649,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "增长稳健但风险犹存 印度央行或暂缓降息以保留政策弹药",
+          "url": "https://flash.jin10.com/detail/20260108170637799800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "法国10年期国债收益率跌超3个基点，10年期希债收益率跌约4个基点",
@@ -3614,7 +3759,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3691,18 +3836,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "按现在的消耗，石油还够全世界用多少年？",
-          "url": "https://www.zhihu.com/question/315491961",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3779,7 +3913,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3878,7 +4012,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -3925,6 +4059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "欧洲央行：11月消费者支出心态趋向谨慎 劳动力市场前景总体稳定",
+          "url": "https://flash.jin10.com/detail/20260108170418466800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美能源部长宣称：将“无限期”控制委内瑞拉石油销售",
@@ -3988,9 +4133,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "润建股份：与京东科技签订战略合作框架协议，双方就人工智能（AI）应用、云计算、智能算力等领域的合作，双方共同投入核心资源，在南宁五象云谷智算中心合作部署京东云专属高性能智算节点，计划联合打造广西云服务节点。",
+          "url": "https://wallstreetcn.com/livenews/3033147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "AI大模型上市第一股",
@@ -4059,6 +4215,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "欧洲央行：通胀预期连续十月持稳 各收入阶层感知差异趋于同步",
+          "url": "https://flash.jin10.com/detail/20260108170303094800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "俄罗斯谴责美国扣押油轮",
           "url": "https://wallstreetcn.com/livenews/3032578",
           "source": "华尔街见闻-快讯",
@@ -4123,6 +4290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "换旗、追逐、武力登船，跨大西洋博弈下美军扣押俄罗斯油轮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341494",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "俄罗斯外交部：莫斯科正密切关注有关美军登上悬挂俄罗斯国旗的“Marinera”号船只的报道。",
@@ -4235,6 +4413,28 @@
           "time_info": "15时22分"
         },
         {
+          "title": "招商轮船：预计2025年净利润为人民币60万~66亿元 ， 同比增加17%~29%；2025年四季度净利润预计同比增加55%~90%。",
+          "url": "https://wallstreetcn.com/livenews/3033143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "我国外汇储备创十年新高，黄金连续第 14 个月增加，对此你怎么看，贸易顺差额和外储之间有何关联？",
+          "url": "https://www.zhihu.com/question/1992516548166959212",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260108050614770800",
           "source": "金十数据",
@@ -4285,7 +4485,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -4356,17 +4556,6 @@
           "time_info": "09时22分"
         },
         {
-          "title": "房贷利率又迎下调",
-          "url": "https://www.douyin.com/hot/2360618",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "美称在国际水域扣押一艘无国籍油轮",
           "url": "https://flash.jin10.com/detail/20260108014211391800",
           "source": "金十数据",
@@ -4417,7 +4606,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -4466,17 +4655,6 @@
           "time_info": "09时22分"
         },
         {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "德国外长瓦德富尔：毫无疑问，北约将一如既往，继续作为一个成功的联盟存在。",
           "url": "https://flash.jin10.com/detail/20260108010845698800",
           "source": "金十数据",
@@ -4519,6 +4697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "欧元区11月欧洲央行3年CPI预期 2.5%，预期2.5%，前值2.50%。",
+          "url": "https://flash.jin10.com/detail/20260108170051096800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "德国失业率连续三年上升",
@@ -4582,9 +4771,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "现货钯金跌破1700美元/盎司，日内跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3033137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "伊朗德黑兰局势暂缓 大巴扎复市",
@@ -4631,6 +4831,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "欧元区11月欧洲央行1年CPI预期 2.8%，预期2.7%，前值2.80%。",
+          "url": "https://flash.jin10.com/detail/20260108170048431800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "俄交通部确认美军登船，称与“马里涅拉号”失去联系",
           "url": "https://wallstreetcn.com/livenews/3032572",
           "source": "华尔街见闻-快讯",
@@ -4662,6 +4873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "碧桂园地产集团三支债券自1月9日开市起复牌",
+          "url": "https://wallstreetcn.com/livenews/3033136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "国际金价为何一路狂飙",
@@ -4730,6 +4952,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "欧洲央行调查：消费者对经济增长更加悲观，预计未来经济将出现更大萎缩。",
+          "url": "https://flash.jin10.com/detail/20260108170036884800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：被美国截获的油轮Bella 1的船员们将被起诉，必要时他们将被掳到美国。 这艘油轮没有国籍，悬挂的国旗是假的。 Sophia油轮正被王美国押送。",
           "url": "https://wallstreetcn.com/livenews/3032619",
           "source": "华尔街见闻-快讯",
@@ -4783,17 +5016,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
-        },
-        {
-          "title": "外交部回应美扣押悬挂俄国旗油轮",
-          "url": "https://www.toutiao.com/trending/7592650184207646739/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "EOG Resources：委内瑞拉供应过剩正压低页岩油价格，这一趋势还将持续数个季度。",
@@ -4868,7 +5090,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -4923,7 +5145,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -4937,6 +5159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "美国扣押俄罗斯油轮意欲何为",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E4%BF%84%E7%BD%97%E6%96%AF%E6%B2%B9%E8%BD%AE%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "乌克兰副总理表示，港口设施和储存植物油的仓库受损。",
@@ -5033,9 +5266,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "数字人民币App上线“碳普惠”服务 “碳积分”兑换“真金白银”",
+          "url": "https://wallstreetcn.com/livenews/3033133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "1704公里小鹏G7续航长长长长长长长长",
+          "url": "https://s.weibo.com/weibo?q=%231704%E5%85%AC%E9%87%8C%E5%B0%8F%E9%B9%8FG7%E7%BB%AD%E8%88%AA%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "白宫就扣押油轮发表声明：该船船员现已受到起诉。",
@@ -5121,7 +5376,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -5187,7 +5442,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
