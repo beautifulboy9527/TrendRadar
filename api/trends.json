@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T09:25:11.491652+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-01-22T11:45:43.720815+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 331,
+      "match_count": 364,
       "titles": [
         {
           "title": "加拿大总理卡尼重磅演讲：基于规则的秩序已死，中等强国应团结行动，抵制某些大国胁迫",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 11时45分]"
         },
         {
           "title": "乌克兰重建计划因欧美分歧推迟公布",
@@ -67,31 +67,6 @@
           "time_info": "[00时40分 ~ 06时22分]"
         },
         {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时25分]"
-        },
-        {
-          "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
-          "url": "https://wallstreetcn.com/articles/3763814",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时25分]"
-        },
-        {
           "title": "联合国警告全球“水破产”时代来临",
           "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%85%A8%E7%90%83%E2%80%9C%E6%B0%B4%E7%A0%B4%E4%BA%A7%E2%80%9D%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
           "source": "百度热搜",
@@ -102,6 +77,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时40分 ~ 09时25分]"
+        },
+        {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 11时45分]"
         },
         {
           "title": "中国 GDP 首破 140 万亿增速 5%，140 万亿意味着什么？在全球经济中处于什么水平？",
@@ -119,6 +108,19 @@
           "time_info": "[00时40分 ~ 09时25分]"
         },
         {
+          "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
+          "url": "https://wallstreetcn.com/articles/3763814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 11时45分]"
+        },
+        {
           "title": "达沃斯闭门晚宴上，美商务部长痛批欧洲“缺乏竞争力”，拉加德愤而离席",
           "url": "https://wallstreetcn.com/articles/3763845",
           "source": "华尔街见闻",
@@ -129,8 +131,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 11时45分]"
+        },
+        {
+          "title": "科学家首次捕捉黄金生长过程",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E6%8D%95%E6%8D%89%E9%BB%84%E9%87%91%E7%94%9F%E9%95%BF%E8%BF%87%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            30,
+            12,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时38分 ~ 11时45分]"
         },
         {
           "title": "联合国警告水破产时代已来临",
@@ -180,8 +197,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 11时45分]"
         },
         {
           "title": "现货黄金首次站上4800",
@@ -195,6 +212,19 @@
           "time_info": "[00时40分 ~ 07时22分]"
         },
         {
+          "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
+          "url": "https://www.cls.cn/detail/2265637",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时52分 ~ 11时45分]"
+        },
+        {
           "title": "这一次，欧洲会“就范”吗？",
           "url": "https://news.ifeng.com/c/8q6EvFmWUyw",
           "source": "凤凰网",
@@ -202,8 +232,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 11时45分]"
         },
         {
           "title": "美总统威胁将伊朗从地球上抹去",
@@ -219,20 +249,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时52分 ~ 07时22分]"
-        },
-        {
-          "title": "科学家首次捕捉黄金生长过程",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E6%8D%95%E6%8D%89%E9%BB%84%E9%87%91%E7%94%9F%E9%95%BF%E8%BF%87%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            30,
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时38分 ~ 09时25分]"
         },
         {
           "title": "贵金属集体飙升，黄金白银双双刷新历史新高，这背后反映了哪些经济信号？",
@@ -278,18 +294,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
-          "url": "https://www.cls.cn/detail/2265637",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时52分 ~ 09时25分]"
         },
         {
           "title": "中方回应马克龙称需要中国投资欧洲",
@@ -348,8 +352,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 11时45分]"
         },
         {
           "title": "加拿大总理卡尼：中等强国再不“上桌”，恐成美国霸权盘中餐",
@@ -361,8 +365,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 11时45分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -382,11 +386,27 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349431&amp;topic_name=%E5%B7%9D%E6%99%AE%E6%94%B6%E5%B0%8F%E5%BC%9F%2C%E5%8C%97%E7%BA%A6%E8%80%81%E5%A4%A7%E7%A7%92%E6%8A%95%E9%99%8D",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 11时45分]"
+        },
+        {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            29,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 11时45分]"
         },
         {
           "title": "【每日收评】科创50涨超3.5%，半导体产业链全线爆发，贵金属板块强者恒强",
@@ -399,20 +419,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 06时22分]"
-        },
-        {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            29,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 09时25分]"
         },
         {
           "title": "中方回应马克龙呼吁中国加大对欧投资",
@@ -459,6 +465,30 @@
           "time_info": "[00时40分 ~ 06时22分]"
         },
         {
+          "title": "美欧“对轰”实录：当盟友为格陵兰岛“发神经”，欧洲要脸还是要命？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32433989",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时21分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
+        },
+        {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
           "url": "https://wallstreetcn.com/articles/3763773",
           "source": "华尔街见闻",
@@ -470,27 +500,15 @@
           "time_info": "[02时38分 ~ 07时22分]"
         },
         {
-          "title": "美欧“对轰”实录：当盟友为格陵兰岛“发神经”，欧洲要脸还是要命？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32433989",
-          "source": "澎湃新闻",
+          "title": "美国正式退出世卫组织，仍欠2.6亿美元会费",
+          "url": "https://news.ifeng.com/c/8q779STJZau",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时21分 ~ 09时25分]"
-        },
-        {
-          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
         },
         {
           "title": "美军大举向中东增兵",
@@ -504,15 +522,28 @@
           "time_info": "[09时24分 ~ 09时25分]"
         },
         {
-          "title": "美国正式退出世卫组织，仍欠2.6亿美元会费",
-          "url": "https://news.ifeng.com/c/8q779STJZau",
-          "source": "凤凰网",
+          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2265761",
+          "source": "财联社热门",
           "ranks": [
-            4
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时45分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -554,9 +585,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）富时中国A50指数成分股午盘收盘行情一览：保险、半导体板块下跌，石油、煤炭板块走强",
+          "url": "https://flash.jin10.com/detail/20260122113231842800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "Anthropic的收入在2025年年底超过90亿美元。",
@@ -579,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "黄仁勋谈AI如何改变经济",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国至1月21日20年期国债竞拍-得标利率配置百分比 3.89%，前值3.16%。",
@@ -620,21 +673,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2265761",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时25分]"
         },
         {
           "title": "亚特兰大联储GDPNow模型预计美国2025年第四季度GDP增速为5.4%，此前预计为5.3%。",
@@ -687,9 +728,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260122113126446800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -709,9 +761,56 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "美国退出世卫组织，仍欠 2.6 亿美元会费，世卫组织能要回这笔钱吗？美国退出对公共卫生体系有哪些影响？",
+          "url": "https://www.zhihu.com/question/1997579003989553651",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "西贝获新荣记创始人等多方投资，注册资本增至 1 亿元，如何看待此次资本注入？能救西贝于水火吗？",
+          "url": "https://www.zhihu.com/question/1997355058367595292",
+          "source": "知乎",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
+          "url": "https://www.cls.cn/detail/2265754",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
+        },
+        {
+          "title": "“徐州为何没有官宣GDP过万亿？”市委书记回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32434511",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
         },
         {
           "title": "美国至1月21日4个月国债竞拍-得标利率配置百分比 50.47%，前值43.95%。",
@@ -753,7 +852,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -769,16 +868,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
+          "title": "xAI工程师因泄密被马斯克解雇",
+          "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国至1月21日4个月国债竞拍-得标利率 3.58%，前值3.56%。",
@@ -831,7 +929,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -845,6 +943,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.02%，10年期主力合约跌0.02%，5年期主力合约跌0.01%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3041722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "特朗普称欧洲的“方向不对”",
@@ -1065,6 +1174,18 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
+          "url": "https://wallstreetcn.com/articles/3763857",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时45分]"
+        },
+        {
           "title": "美股收盘：特朗普助力 三大股指涨超1%",
           "url": "https://flash.jin10.com/detail/20260122050202493800",
           "source": "金十数据",
@@ -1161,16 +1282,74 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
-          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
-          "url": "https://wallstreetcn.com/articles/3763857",
-          "source": "华尔街见闻",
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时25分]"
+          "time_info": "[09时24分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
+          "url": "https://www.zhihu.com/question/1997263966708196399",
+          "source": "知乎",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
+        },
+        {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
+        },
+        {
+          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
+          "url": "https://www.cls.cn/detail/2265632",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
+        },
+        {
+          "title": "美国暂时取消对欧洲8国加征关税",
+          "url": "https://www.toutiao.com/trending/7597951405407604230/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 11时45分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -1183,39 +1362,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 04时28分]"
-        },
-        {
-          "title": "“徐州为何没有官宣GDP过万亿？”市委书记回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32434511",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
-          "url": "https://www.zhihu.com/question/1997263966708196399",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
-          "url": "https://www.cls.cn/detail/2265754",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "美国最高法院或拒绝特朗普罢免美联储理事库克的请求",
@@ -1245,17 +1391,6 @@
           "title": "联合国警告全球“水破产”时代已来临",
           "url": "https://www.toutiao.com/trending/7597623124242628627/",
           "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
-          "url": "https://www.cls.cn/detail/2265674",
-          "source": "财联社热门",
           "ranks": [
             8
           ],
@@ -1372,28 +1507,6 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "西贝获新荣记创始人等多方投资，注册资本增至 1 亿元，如何看待此次资本注入？能救西贝于水火吗？",
-          "url": "https://www.zhihu.com/question/1997355058367595292",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：很高兴有这么多优秀的美联储候选人 ，预计美联储的调查会迅速推进。",
           "url": "https://flash.jin10.com/detail/20260122010023437800",
           "source": "金十数据",
@@ -1487,17 +1600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时52分]"
-        },
-        {
-          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
-          "url": "https://wallstreetcn.com/articles/3763828",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：美联储对特朗普的批评与独立性不符。",
@@ -1653,17 +1755,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
-        },
-        {
-          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
-          "url": "https://www.cls.cn/detail/2265632",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "俄罗斯总统普京：俄罗斯主要将和平委员会视为解决中东问题的手段。",
@@ -1987,17 +2078,6 @@
           "time_info": "[09时24分 ~ 09时25分]"
         },
         {
-          "title": "美国暂时取消对欧洲8国加征关税",
-          "url": "https://www.toutiao.com/trending/7597951405407604230/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
           "title": "台湾博主柳杰克：两岸同属一个中国",
           "url": "https://www.toutiao.com/trending/7597287271968899114/",
           "source": "今日头条",
@@ -2029,6 +2109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "英国政府谈中国“超级大使馆”",
+          "url": "https://news.ifeng.com/c/8q7LkuJI0fc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国至1月21日4个月国债竞拍-投标倍数 2.99，前值3。",
@@ -2092,9 +2183,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "高盛上调年底金价目标至5400美元 央行需求持续增强",
+          "url": "https://flash.jin10.com/detail/20260122112443891800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国总统特朗普：心中对美联储主席有一个人选。 希望哈塞特继续担任白宫顾问。 （除了哈塞特，剩下的四名候选人）可能会缩减至三个、两个、可能一个。 赞赏财长贝森特，他希望继续担任财长。",
@@ -2125,9 +2227,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "贵州发行10年期一般债地方债，规模107.6294亿元，发行利率1.9800%，边际倍数4.89倍，倍数预期2.02； 贵州发行20年期普通专项地方债，规模52.1877亿元，发行利率2.4500%，边际倍数1.81倍，倍数预期2.44。",
+          "url": "https://wallstreetcn.com/livenews/3041718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "日本车企联手芯片商建立数据库 防止断供、地缘政治冲击",
@@ -2191,9 +2304,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "高盛：随着新兴市场央行很可能继续将其储备从其他资产结构性地多元化配置至黄金，各国央行在2026年的平均黄金购买量预计将达到每月60吨。",
+          "url": "https://flash.jin10.com/detail/20260122111911396800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国众议院监督管理委员会主席James Comer：本委员会将作废2月9日针对Ghislaine Maxwell的安排。 代理律师称Ghislaine Maxwell将保持沉默（在宣誓证词/录取口供时援引宪法第五修正案拒绝回答）。",
@@ -2235,9 +2359,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "进出口行发行15月期债券，规模130亿元，发行利率1.4226%，预期1.4200%，投标倍数2.63倍，边际倍数1.15倍； 进出口行发行66月期债券，规模25亿元，发行利率1.7028%，预期1.7900%，投标倍数6.74倍，边际倍数3.67倍。",
+          "url": "https://wallstreetcn.com/livenews/3041717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：印度和欧盟峰会“必须兑现”。",
@@ -2260,6 +2395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "纽约期银突破93美元/盎司，日内涨0.39%。",
+          "url": "https://flash.jin10.com/detail/20260122111707631800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "超威半导体（AMD）股价上涨8.3％。",
@@ -2301,7 +2447,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -2345,9 +2491,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "高盛：私营部门向黄金多元化配置已开始显现成效。",
+          "url": "https://flash.jin10.com/detail/20260122111652414800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "国际金价屡创新高，专家称回调风险需警惕",
@@ -2367,7 +2524,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -2438,6 +2595,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2265774",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "据日经新闻：丰田及其他日本汽车制造商将共享芯片数据，以应对日益加剧的供应风险。",
           "url": "https://flash.jin10.com/detail/20260122002018855800",
           "source": "金十数据",
@@ -2477,7 +2645,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -2488,9 +2656,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "1月22日投资避雷针：2连板化工板块人气股预计2025年年度业绩由盈转亏",
+          "url": "https://www.cls.cn/detail/2265836",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟将推进与印度的安全与防务伙伴关系。",
@@ -2543,7 +2733,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -2576,9 +2766,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "高盛将黄金今年底目标价从每盎司4900美元上调至5400美元",
+          "url": "https://wallstreetcn.com/livenews/3041710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "黄金价格会崩吗",
+          "url": "https://www.toutiao.com/trending/7597976651418308122/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "联合声明：沙特、土耳其、埃及、约旦、印尼、巴基斯坦、卡塔尔接受邀请，加入美国总统特朗普的和平委员会；各国将根据本国法律程序签署加入文件。",
@@ -2642,7 +2854,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -2678,6 +2890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "俄罗斯愿拨10亿美元给和平委员会",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%84%BF%E6%8B%A810%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BB%99%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美军表示，部队在叙利亚发起行动，将“伊斯兰国”囚犯转移至伊拉克。",
@@ -2752,9 +2975,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "新加坡金管局：将于1月29日发布货币政策声明。",
+          "url": "https://flash.jin10.com/detail/20260122110058411800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "复旦团队顶刊发文：研发出“纤维芯片”，可以像普通纱线一样织进布料",
@@ -2777,6 +3011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "Swift称12月美元在全球支付中的占比跃升至新高",
+          "url": "https://wallstreetcn.com/livenews/3041704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "特朗普：已就格陵兰岛问题形成了协议框架 有关关税不会生效",
@@ -2818,7 +3063,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -2843,6 +3088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "农业农村部：将持续推动人工智能等在农业领域应用",
+          "url": "https://wallstreetcn.com/livenews/3041702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "大额存单利率降至0字头区间",
@@ -2917,7 +3173,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -2972,7 +3228,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3016,9 +3272,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元，原因是各国央行及交易所交易基金纷纷买入。",
+          "url": "https://flash.jin10.com/detail/20260122105858083800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国总统特朗普：明天将会见乌克兰总统泽连斯基。",
@@ -3038,9 +3305,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "农业农村部：粮食安全总体有保障，但粮食产需紧平衡的态势没有改变",
+          "url": "https://wallstreetcn.com/livenews/3041700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "白宫人工智能报告：研究估计人工智能可使GDP增长1%至45%以上。",
@@ -3082,7 +3360,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3137,9 +3415,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "特朗普飞抵欧洲“训话”都说了什么",
+          "url": "https://www.toutiao.com/trending/7597354747284176938/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "英国央行副行长伍兹：监管机构正在考虑一种自动指数化工具，以确定一家银行是否具有系统重要性。",
@@ -3225,7 +3514,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3302,7 +3591,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3346,9 +3635,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "国开行发行3年期债券，规模60亿元，发行利率1.6683%，预期1.6600%，投标倍数2.85倍，边际倍数5.88倍； 国开行发行7年期债券，规模40亿元，发行利率1.8772%，预期1.9000%，投标倍数3.83倍，边际倍数1.30倍。",
+          "url": "https://wallstreetcn.com/livenews/3041693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：在谈论用人工智能保护儿童时，我们必须谨慎一些。",
@@ -3401,9 +3701,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）上海金早盘价为1074.09元/克，较国际金价(1071.51元/克)，高2.58元/克",
+          "url": "https://flash.jin10.com/detail/20260122105434061800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "英特尔涨幅扩大至近11%，创最近大约四年盘中新高。 美股存储概念新高不断，美光、西数、希捷、闪迪齐创历史新高。",
@@ -3434,7 +3745,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3478,9 +3789,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "特朗普称暂不对欧洲8国加关税，现货黄金、现货白银依然多头占优。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260122105331953800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "纽约银日内跌幅达1.5%，报93.18美元/盎司。",
@@ -3500,7 +3822,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3544,7 +3866,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3588,7 +3910,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3643,7 +3965,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3665,9 +3987,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，贵金属、半导体芯片、电池、保险等方向跌幅居前，沪深京三市下跌个股超1800只。",
+          "url": "https://wallstreetcn.com/livenews/3041689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普今天将与北约秘书长吕特会面。",
@@ -3687,9 +4020,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "韩国官员表示不会推迟200亿美元的首笔对美投资",
+          "url": "https://flash.jin10.com/detail/20260122104929068800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "法国推迟举行可能讨论美国关税威胁的G7财长会议，此前特朗普拒绝参加G7紧急会议的邀请",
@@ -3720,9 +4064,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "欧洲网民怒斥北约秘书长是“叛徒”",
+          "url": "https://www.toutiao.com/trending/7597728814210744361/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：西方国家对人工智能的乐观情绪较低。",
@@ -3764,7 +4119,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -3808,9 +4163,31 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "易方达基金张坤四季度股票仓位基本稳定，对结构进行调整",
+          "url": "https://wallstreetcn.com/livenews/3041682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     }
