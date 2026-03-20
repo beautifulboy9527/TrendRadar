@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-20T14:50:27.565331+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-03-20T15:44:02.459877+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 532,
+      "match_count": 563,
       "titles": [
+        {
+          "title": "俄记者在黎巴嫩遭以色列导弹袭击，俄方发表声明",
+          "url": "https://news.ifeng.com/c/8rdKzCFjHGp",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时24分 ~ 15时44分]"
+        },
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
           "url": "https://news.ifeng.com/c/8rckc3J46aj",
@@ -43,6 +55,40 @@
           "time_info": "[00时55分 ~ 09时50分]"
         },
         {
+          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
+          "url": "https://www.cls.cn/detail/2318884",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时27分 ~ 15时44分]"
+        },
+        {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
+        },
+        {
+          "title": "【早报】深夜跳水，黄金、白银全线重挫；央行：坚定维护金融市场平稳运行",
+          "url": "https://www.cls.cn/detail/2318909",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
+        },
+        {
           "title": "海湾能源设施又遭伊朗攻击 沙特红海炼厂首次遭袭 国际油价飙升",
           "url": "https://www.cls.cn/detail/2318364",
           "source": "财联社热门",
@@ -55,16 +101,29 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
-          "title": "俄记者在黎巴嫩遭以色列导弹袭击，俄方发表声明",
-          "url": "https://news.ifeng.com/c/8rdKzCFjHGp",
-          "source": "凤凰网",
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
           "ranks": [
+            1,
             2,
             3
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[06时24分 ~ 14时50分]"
+          "time_info": "[09时50分 ~ 15时44分]"
+        },
+        {
+          "title": "事关A股资金端，吴清召集五大类投资机构座谈会，明确哪些方向？",
+          "url": "https://www.cls.cn/detail/2318943",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
         },
         {
           "title": "【数据看盘】机构大量甩卖通源石油，太华路席位3.07亿元抢筹中油资本",
@@ -89,8 +148,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 15时44分]"
+        },
+        {
+          "title": "伊朗称若基础设施再遭袭将不再克制、击中美F-35战机，美军或夺岛迫使伊开放霍尔木兹",
+          "url": "https://wallstreetcn.com/articles/3767953",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
         },
         {
           "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
@@ -104,8 +175,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
           "title": "中东局势重大升级！除了原油，所有资产都在跌！",
@@ -117,6 +188,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 06时24分]"
+        },
+        {
+          "title": "F35神话破灭,遭伊朗重创迫降",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352110&amp;topic_name=F35%E7%A5%9E%E8%AF%9D%E7%A0%B4%E7%81%AD%2C%E9%81%AD%E4%BC%8A%E6%9C%97%E9%87%8D%E5%88%9B%E8%BF%AB%E9%99%8D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 15时44分]"
         },
         {
           "title": "伊朗对美相关能源设施发动大规模导弹袭击，列明中东三国目标，卡塔尔称“全球最大LNG设施遭严重破坏”",
@@ -131,18 +213,6 @@
           "time_info": "[00时55分 ~ 06时24分]"
         },
         {
-          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
-          "url": "https://www.cls.cn/detail/2318884",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 14时50分]"
-        },
-        {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -153,6 +223,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 09时50分]"
+        },
+        {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[05时32分 ~ 15时44分]"
         },
         {
           "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
@@ -210,40 +294,6 @@
           "time_info": "[00时55分 ~ 09时50分]"
         },
         {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
-        },
-        {
-          "title": "【早报】深夜跳水，黄金、白银全线重挫；央行：坚定维护金融市场平稳运行",
-          "url": "https://www.cls.cn/detail/2318909",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
-        },
-        {
           "title": "以军：继续“追杀”伊朗所有高层",
           "url": "https://news.ifeng.com/c/8rcaCfnZ2H3",
           "source": "凤凰网",
@@ -253,18 +303,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 05时32分]"
-        },
-        {
-          "title": "事关A股资金端，吴清召集五大类投资机构座谈会，明确哪些方向？",
-          "url": "https://www.cls.cn/detail/2318943",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
         },
         {
           "title": "美是石油净出口国 为何遏制油价上涨",
@@ -280,34 +318,34 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
+          "title": "美联储维持利率不变有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            8,
-            6,
-            3
+            10,
+            2,
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时32分 ~ 14时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 15时44分]"
         },
         {
-          "title": "伊朗称若基础设施再遭袭将不再克制、击中美F-35战机，美军或夺岛迫使伊开放霍尔木兹",
-          "url": "https://wallstreetcn.com/articles/3767953",
-          "source": "华尔街见闻",
+          "title": "伊朗称美军F35被击中后或坠毁 国际贵金属价格暴跌 | 环球市场",
+          "url": "https://www.cls.cn/detail/2318918",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -321,6 +359,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时55分 ~ 12时12分]"
+        },
+        {
+          "title": "人民日报：请给AI起个中文名字",
+          "url": "https://www.toutiao.com/trending/7618806460609200137/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            4,
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
         },
         {
           "title": "沙特能源出口欲绕开霍尔木兹海峡，调整路径恢复逾5成原油出口",
@@ -350,15 +402,15 @@
           "time_info": "[00时55分 ~ 14时50分]"
         },
         {
-          "title": "F35神话破灭,遭伊朗重创迫降",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352110&amp;topic_name=F35%E7%A5%9E%E8%AF%9D%E7%A0%B4%E7%81%AD%2C%E9%81%AD%E4%BC%8A%E6%9C%97%E9%87%8D%E5%88%9B%E8%BF%AB%E9%99%8D",
-          "source": "贴吧",
+          "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时11分 ~ 14时50分]"
+          "time_info": "[13时49分 ~ 15时44分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -386,11 +438,12 @@
           "ranks": [
             11,
             12,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
           "title": "现货黄金白银暴跌",
@@ -437,8 +490,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
           "title": "战火蔓延!伊朗猛攻海湾油库",
@@ -447,11 +500,12 @@
           "ranks": [
             13,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
           "title": "如何看待非洲杯冠军改判",
@@ -463,11 +517,12 @@
             19,
             22,
             20,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 14时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
           "title": "黄金跌破4800,韭菜又被割",
@@ -479,8 +534,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 14时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
           "title": "鲍威尔：通胀改善前不会降息，调查期间不会离开美联储，必要时将以临时主席身份履职（附全文）",
@@ -492,6 +547,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 04时33分]"
+        },
+        {
+          "title": "卡塔尔：伊朗袭击致17%的液化天然气产能瘫痪，恢复需3-5年",
+          "url": "https://news.ifeng.com/c/8rduuj18GCO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 15时44分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -534,6 +600,29 @@
           "time_info": "[02时53分 ~ 07时27分]"
         },
         {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时27分 ~ 15时44分]"
+        },
+        {
+          "title": "欧盟外长：战争像恋爱，陷入易，抽身难",
+          "url": "https://news.ifeng.com/c/8rdzaVUJR4E",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 15时44分]"
+        },
+        {
           "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
           "url": "https://www.zhihu.com/question/2017913786695186154",
           "source": "知乎",
@@ -561,19 +650,6 @@
           "time_info": "[00时55分 ~ 13时50分]"
         },
         {
-          "title": "人民日报：请给AI起个中文名字",
-          "url": "https://www.toutiao.com/trending/7618806460609200137/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
-        },
-        {
           "title": "美以伊战争丨伊朗发布击中美军F-35隐形战机视频",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -583,6 +659,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时53分 ~ 05时32分]"
+        },
+        {
+          "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
+          "url": "https://wallstreetcn.com/articles/3767885",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时27分 ~ 15时44分]"
         },
         {
           "title": "一觉醒来黄金挂坠亏了2000元",
@@ -664,6 +752,17 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
+          "title": "伊朗称击中美军F35战机",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%86%9BF35%E6%88%98%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 20 天，当前局势如何？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2017692346066630422",
           "source": "知乎",
@@ -673,6 +772,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 07时27分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 21 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2018125516700426373",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
         },
         {
           "title": "三星电子或遭史上最大规模罢工，全球半导体产供链恐受冲击",
@@ -687,29 +797,29 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
-          "title": "伊朗称美军F35被击中后或坠毁 国际贵金属价格暴跌 | 环球市场",
-          "url": "https://www.cls.cn/detail/2318918",
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
           "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            9,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
         },
         {
-          "title": "美联储维持利率不变有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
+          "title": "伊朗称击中美军F-35战机",
+          "url": "https://www.toutiao.com/trending/7618363759882485769/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            2,
-            3
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
         },
         {
           "title": "伊朗称打击命中美第五舰队",
@@ -724,17 +834,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 07时27分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时50分]"
         },
         {
           "title": "多家香港银行避谈“千亿中东资本涌港”传闻，金融业内：无数据可佐证，但关注度却有明显提升",
@@ -761,6 +860,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时49分 ~ 14时50分]"
+        },
+        {
+          "title": "伊朗击中F35后让美以期待更多惊喜",
+          "url": "https://www.toutiao.com/trending/7619015208602288191/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
+        },
+        {
+          "title": "3月20日投资避雷针：2连板人气股提示风险 目前数据中心业务暂未提供算力",
+          "url": "https://www.cls.cn/detail/2318962",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
         },
         {
           "title": "美联储宣布维持利率不变",
@@ -803,6 +928,20 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
+          "title": "伊朗称以色列密谋袭击沙特石油设施",
+          "url": "https://www.toutiao.com/trending/7619103330027163163/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            18,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 15时44分]"
+        },
+        {
           "title": "油价狂涨释放了什么信号",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%B9%E4%BB%B7%E7%8B%82%E6%B6%A8%E9%87%8A%E6%94%BE%E4%BA%86%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7",
           "source": "bilibili 热搜",
@@ -830,38 +969,40 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
-          "title": "卡塔尔：伊朗袭击致17%的液化天然气产能瘫痪，恢复需3-5年",
-          "url": "https://news.ifeng.com/c/8rduuj18GCO",
+          "title": "击中F-35战机后，伊朗让美以期待更多“惊喜”",
+          "url": "https://news.ifeng.com/c/8rdmFE8d49p",
           "source": "凤凰网",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时50分]"
+          "time_info": "[14时50分 ~ 15时44分]"
         },
         {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
+          "title": "“乱世买黄金”不管用了？一文解析：美伊战火中金银缘何惨遭“血洗”",
+          "url": "https://www.cls.cn/detail/2319114",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            8,
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时27分 ~ 14时50分]"
+          "time_info": "[12时11分 ~ 15时44分]"
         },
         {
-          "title": "欧盟外长：战争像恋爱，陷入易，抽身难",
-          "url": "https://news.ifeng.com/c/8rdzaVUJR4E",
-          "source": "凤凰网",
+          "title": "观众跑光,LOL欧洲赛区躺平",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352122&amp;topic_name=%E8%A7%82%E4%BC%97%E8%B7%91%E5%85%89%2CLOL%E6%AC%A7%E6%B4%B2%E8%B5%9B%E5%8C%BA%E8%BA%BA%E5%B9%B3",
+          "source": "贴吧",
           "ranks": [
-            5
+            27,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 15时44分]"
         },
         {
           "title": "美以伊战争丨伊朗称命中美国第五舰队",
@@ -886,18 +1027,6 @@
           "time_info": "[06时24分 ~ 07时27分]"
         },
         {
-          "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
-          "url": "https://wallstreetcn.com/articles/3767885",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 14时50分]"
-        },
-        {
           "title": "中东新一轮“备胎”计划：海湾国家正探索陆上数据走廊方案",
           "url": "https://www.cls.cn/detail/2318211",
           "source": "财联社热门",
@@ -908,6 +1037,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 06时24分]"
+        },
+        {
+          "title": "金价暴跌 有金店一天狂卖3斤黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E9%87%91%E5%BA%97%E4%B8%80%E5%A4%A9%E7%8B%82%E5%8D%963%E6%96%A4%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            13,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 15时44分]"
+        },
+        {
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 15时44分]"
         },
         {
           "title": "美联储按兵不动：中东局势影响不确定，暗示今年降息1次（附声明全文）",
@@ -950,15 +1107,17 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
-          "title": "伊朗称击中美军F-35战机",
-          "url": "https://www.toutiao.com/trending/7618363759882485769/",
-          "source": "今日头条",
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2436866",
+          "source": "抖音",
           "ranks": [
-            6
+            22,
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 15时44分]"
         },
         {
           "title": "击中F35后 伊朗让美以期待更多惊喜",
@@ -972,38 +1131,15 @@
           "time_info": "[09时50分 ~ 14时50分]"
         },
         {
-          "title": "伊朗称击中美军F35战机",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%86%9BF35%E6%88%98%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 21 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2018125516700426373",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
-        },
-        {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "日本拉美国开采海底稀土靠谱吗",
@@ -1093,7 +1229,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1115,9 +1251,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
+          "url": "https://wallstreetcn.com/livenews/3073900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -1144,31 +1291,6 @@
           "time_info": "[09时50分 ~ 14时50分]"
         },
         {
-          "title": "伊朗击中F35后让美以期待更多惊喜",
-          "url": "https://www.toutiao.com/trending/7619015208602288191/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
-        },
-        {
-          "title": "3月20日投资避雷针：2连板人气股提示风险 目前数据中心业务暂未提供算力",
-          "url": "https://www.cls.cn/detail/2318962",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
-        },
-        {
           "title": "伊朗最高领袖：血债将很快得到清算",
           "url": "https://www.toutiao.com/trending/7618732232047627827/",
           "source": "今日头条",
@@ -1180,20 +1302,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 06时24分]"
-        },
-        {
-          "title": "伊朗称以色列密谋袭击沙特石油设施",
-          "url": "https://www.toutiao.com/trending/7619103330027163163/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            18,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时50分]"
         },
         {
           "title": "金价",
@@ -1235,17 +1343,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 07时27分]"
-        },
-        {
-          "title": "击中F-35战机后，伊朗让美以期待更多“惊喜”",
-          "url": "https://news.ifeng.com/c/8rdmFE8d49p",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "惠誉：伊朗战争对消费金融构成有限风险。",
@@ -1309,7 +1406,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1386,9 +1483,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "A股收评：沪指震荡回落收跌1.24% 失守4000点整数关口",
+          "url": "https://flash.jin10.com/detail/20260320151155527800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "美国批准部分俄罗斯原油的交付与销售。 国际油价直线跳水，美油主力合约跌超3%，跌破93美元/桶。",
@@ -1430,7 +1538,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1507,7 +1615,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -1529,32 +1637,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "“乱世买黄金”不管用了？一文解析：美伊战火中金银缘何惨遭“血洗”",
-          "url": "https://www.cls.cn/detail/2319114",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 14时50分]"
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
-          "title": "黄金暴涨暴跌核心逻辑是什么",
-          "url": "https://www.toutiao.com/trending/7619192418595769919/",
-          "source": "今日头条",
+          "title": "联合国：中东冲突使阿拉伯地区经济损失重大",
+          "url": "https://wallstreetcn.com/livenews/3073896",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "15时44分"
         },
         {
           "title": "英镑兑美元GBP/USD向上触及1.34，日内涨1.08%。",
@@ -1629,9 +1725,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "分析：中东冲突对马来西亚出口影响喜忧参半",
+          "url": "https://flash.jin10.com/detail/20260320150836904800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "澳新银行预测新西兰2026年GDP增长率为2.1%，此前预测为2.8%。",
@@ -1656,6 +1763,41 @@
           "time_info": "13时50分"
         },
         {
+          "title": "中国军方下周将与欧盟及北约会谈，有何期待？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3073895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "黄金白银为何暴跌？",
+          "url": "https://wallstreetcn.com/articles/3767962",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 15时44分]"
+        },
+        {
+          "title": "黄金暴涨暴跌核心逻辑是什么",
+          "url": "https://www.toutiao.com/trending/7619192418595769919/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 15时44分]"
+        },
+        {
           "title": "美国打伊朗，两周烧掉委内瑞拉去年七分之一 GDP，这是什么概念？美国还能「烧」多少钱？",
           "url": "https://www.zhihu.com/question/2017546059308606187",
           "source": "知乎",
@@ -1670,31 +1812,17 @@
           "time_info": "[03时44分 ~ 07时27分]"
         },
         {
-          "title": "金价暴跌 有金店一天狂卖3斤黄金",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E9%87%91%E5%BA%97%E4%B8%80%E5%A4%A9%E7%8B%82%E5%8D%963%E6%96%A4%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
+          "title": "揭秘AI投毒运作原理",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            20,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 14时50分]"
-        },
-        {
-          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
             17,
-            19
+            21,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时27分 ~ 14时50分]"
+          "time_info": "[13时49分 ~ 15时44分]"
         },
         {
           "title": "900克黄金被前男友偷走 3年后报警",
@@ -1748,19 +1876,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时50分 ~ 13时50分]"
-        },
-        {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2436866",
-          "source": "抖音",
-          "ranks": [
-            22,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 14时50分]"
         },
         {
           "title": "美财长称或解除对海上伊朗石油的制裁",
@@ -2485,16 +2600,49 @@
           "time_info": "[02时53分 ~ 07时27分]"
         },
         {
-          "title": "黄金白银为何暴跌？",
-          "url": "https://wallstreetcn.com/articles/3767962",
+          "title": "隔夜市场关键转折点！内塔尼亚胡：暂停空袭伊朗能源设施，战争或“比预期更早”结束",
+          "url": "https://wallstreetcn.com/articles/3767966",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时50分]"
+          "time_info": "[14时50分 ~ 15时44分]"
+        },
+        {
+          "title": "日本拉美国开采海底稀土，靠谱吗？",
+          "url": "https://news.ifeng.com/c/8rdeuwfkoWL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 15时44分]"
+        },
+        {
+          "title": "百亿又百亿！PCB厂商开启高端产能投资竞赛 多业内人士称暂无过剩风险",
+          "url": "https://www.cls.cn/detail/2319279",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 15时44分]"
+        },
+        {
+          "title": "2026 阿贝尔奖颁给德国数学家法尔廷斯，他对数学有哪些重大贡献？",
+          "url": "https://www.zhihu.com/question/2018046305981716018",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 15时44分]"
         },
         {
           "title": "伊朗要求阿联酋作出赔偿",
@@ -2522,6 +2670,18 @@
           "time_info": "[09时50分 ~ 13时50分]"
         },
         {
+          "title": "美国家庭净资产按季增加2.2万亿美元",
+          "url": "https://www.toutiao.com/trending/7619010110178345003/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时50分 ~ 15时44分]"
+        },
+        {
           "title": "伊朗启动“真实承诺4”第66轮行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%AF%E5%8A%A8%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC66%E8%BD%AE%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -2534,27 +2694,15 @@
           "time_info": "[09时50分 ~ 12时12分]"
         },
         {
-          "title": "揭秘AI投毒运作原理",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
-          "source": "bilibili 热搜",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时50分]"
-        },
-        {
-          "title": "观众跑光,LOL欧洲赛区躺平",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352122&amp;topic_name=%E8%A7%82%E4%BC%97%E8%B7%91%E5%85%89%2CLOL%E6%AC%A7%E6%B4%B2%E8%B5%9B%E5%8C%BA%E8%BA%BA%E5%B9%B3",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时50分]"
+          "time_info": "[14时50分 ~ 15时44分]"
         },
         {
           "title": "匈牙利总理欧尔班：我们坚持了立场。我们有权拒绝乌克兰的战争贷款。只要乌克兰不解除石油封锁，他们就不会从布鲁塞尔获得任何资金。没有石油=没有钱。",
@@ -2854,6 +3002,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 13时50分]"
+        },
+        {
+          "title": "下周国内成品油价或全面涨至“9元时代”",
+          "url": "https://www.cls.cn/detail/2319278",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗政权可能会存活下来。",
@@ -3180,6 +3339,17 @@
           "time_info": "[02时53分 ~ 03时44分]"
         },
         {
+          "title": "LPR 连续 10 个月保持不变，这背后有什么原因？今年降息空间有多大？",
+          "url": "https://www.zhihu.com/question/2018253234674905423",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
           "title": "伊朗高官接连遇害如何影响战局走向",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E6%8E%A5%E8%BF%9E%E9%81%87%E5%AE%B3%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%88%98%E5%B1%80%E8%B5%B0%E5%90%91",
           "source": "百度热搜",
@@ -3212,6 +3382,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "A股半日放量1392亿",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E6%94%BE%E9%87%8F1392%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "美元兑瑞郎USD/CHF回落至0.79下方，日内跌0.40%。",
@@ -3264,9 +3445,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "德意志银行：这一新基准（预测 ）存在双向风险，如果中东紧张局势迅速缓解，欧洲央行有可能完全不会加息。或者，如果能源供应出现更持久的中断，2.50%的利率可能只是迈向明显紧缩区间的一个过渡阶段。",
+          "url": "https://flash.jin10.com/detail/20260320150826539800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "欧盟谴责以色列单方面扩大在约旦河西岸行动",
@@ -3341,9 +3533,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "美以袭击已致伊朗洛雷斯坦省144人死亡",
+          "url": "https://flash.jin10.com/detail/20260320150716078800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌5.83%，报341.31点，逼近2025年12月18日收盘位338.36点，较2月27日所创收盘历史最高位累计回撤27.44%。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌6.63%，报2395.68点，逼近12月16日收盘位2378.54点，较3月2日所创收盘历史最高位累计回撤27.57%。 在美股时段交易的原材料指数收跌2.67%，金属与矿业指数收跌0.86%。",
@@ -3385,9 +3588,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "交易员下调对英国央行加息押注，预计到年底将加息65个基点。",
+          "url": "https://wallstreetcn.com/livenews/3073892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "哈萨克斯坦黄金开采商Solidcore首席执行官：公司计划在2026年上半年售出其累积的库存储备。",
@@ -3511,6 +3725,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：现在看到伊朗冲突带来更大影响的风险。 欧洲央行有能力在需要时采取充分行动。 欧洲央行可能会比更新预测更频繁地调整情景分析。",
+          "url": "https://wallstreetcn.com/livenews/3073891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
           "source": "澎湃新闻",
@@ -3605,7 +3830,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -3652,17 +3877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
-        },
-        {
-          "title": "隔夜市场关键转折点！内塔尼亚胡：暂停空袭伊朗能源设施，战争或“比预期更早”结束",
-          "url": "https://wallstreetcn.com/articles/3767966",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "<span class=\"section-news\">德国DAX30指数3月19日（周四）收盘下跌699.13点，跌幅2.97%，报22828.50点；</span><br/><span class=\"section-news\">英国富时100指数3月19日（周四）收盘下跌250.37点，跌幅2.43%，报10054.92点；</span><br/><span class=\"section-news\">法国CAC40指数3月19日（周四）收盘下跌162.01点，跌幅2.03%，报7807.87点；</span><br/><span class=\"section-news\">欧洲斯托克50指数3月19日（周四）收盘下跌127.60点，跌幅2.22%，报5609.25点；</span><br/><span class=\"section-news\">西班牙IBEX35指数3月19日（周四）收盘下跌411.13点，跌幅2.38%，报16886.67点；</span><br/><span class=\"section-news\">意大利富时MIB指数3月19日（周四）收盘下跌1080.84点，跌幅2.42%，报43660.50点。</span>",
@@ -3748,7 +3962,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -3784,17 +3998,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "日本拉美国开采海底稀土，靠谱吗？",
-          "url": "https://news.ifeng.com/c/8rdeuwfkoWL",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "伊朗革命卫队：已用导弹袭击了以色列的海法和阿什杜德炼油厂。",
@@ -3869,7 +4072,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -4028,6 +4231,17 @@
           "time_info": "13时50分"
         },
         {
+          "title": "分析师：油价飙升或致美国资产遭到抛售",
+          "url": "https://flash.jin10.com/detail/20260320150558491800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "阿根廷MERVAL指数收涨2.78%，报276.9万点。",
           "url": "https://wallstreetcn.com/livenews/3073565",
           "source": "华尔街见闻-快讯",
@@ -4078,7 +4292,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -4092,17 +4306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "百亿又百亿！PCB厂商开启高端产能投资竞赛 多业内人士称暂无过剩风险",
-          "url": "https://www.cls.cn/detail/2319279",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
@@ -4177,9 +4380,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "德意志银行：预计欧央行将在6月和9月各加息25个基点，而此前的预测是2026年维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260320150508445800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "以军称过去一天打击超130个伊朗目标",
@@ -4213,6 +4427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "外交部：中方欢迎印度新任驻华大使，期待两国关系持续改",
+          "url": "https://wallstreetcn.com/livenews/3073885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "黎巴嫩电力局称，以色列袭击导致宾特吉贝勒主要变电站停运。",
@@ -4312,17 +4537,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        },
-        {
-          "title": "2026 阿贝尔奖颁给德国数学家法尔廷斯，他对数学有哪些重大贡献？",
-          "url": "https://www.zhihu.com/question/2018046305981716018",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "英国航空：目前正在为其787-8机队安装星链卫星互联网系统。",
@@ -4430,7 +4644,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -4474,9 +4688,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "伊朗革命卫队称导弹生产“没有任何担忧”",
+          "url": "https://wallstreetcn.com/livenews/3073883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -4562,9 +4787,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "港股恒生科技指数加速下挫跌超3%，恒生指数跌1.44%，小米集团(01810.HK)跌超8%，阿里巴巴(09988.HK)跌超7%，小鹏汽车(09868.HK)、中芯国际(00981.HK)均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260320150305047800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "周四（3月19日，美联储宣布按兵不动的次日）纽约尾盘，美国10年期基准国债收益率跌1.57个基点，报4.2493%，日内交投于4.3221%-4.2356%区间，在英国央行宣布按兵不动之后刷新日高，北京时间03:00出现一波显著的跳水行情。 两年期美债收益率涨1.74个基点，报3.7924%，日内交投于3.7565%-3.9532%区间，英国央行宣布政策利率决定之后迅速扩大涨幅。",
@@ -4595,7 +4831,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -4609,17 +4845,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "美国家庭净资产按季增加2.2万亿美元",
-          "url": "https://www.toutiao.com/trending/7619010110178345003/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
         },
         {
           "title": "英国首相办公室：首相与卡塔尔埃米尔通话，谴责伊朗对卡塔尔能源设施的袭击。",
@@ -4705,9 +4930,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "外交部：中方将继续为停火止战奔走斡旋 早日还中东和平与稳定",
+          "url": "https://wallstreetcn.com/livenews/3073881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作日本偷袭珍珠港，如何解读这一言论？如何看待当前美日关系？",
@@ -4848,7 +5084,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -4895,6 +5131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "伊朗最高领袖发电文哀悼遇袭身亡的伊情报部长",
+          "url": "https://wallstreetcn.com/livenews/3073879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "王毅同英国外交大臣库珀通电话，双方重点就中东局势交换意见",
@@ -5040,6 +5287,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "工商银行发布关于修订代理个人客户贵金属竞价交易业务协议并明确强平保证金比例的公告，其中提到，强平保证金比例暂按上海黄金交易所规定的最低交易保证金比例执行。",
+          "url": "https://wallstreetcn.com/livenews/3073878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "前男友偷走900克黄金 女子3年后报警",
           "url": "https://www.toutiao.com/trending/7617759591993655350/",
           "source": "今日头条",
@@ -5145,9 +5403,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "VIP·9折解锁黄金异动雷达",
+          "url": "https://flash.jin10.com/detail/20260320150124979800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "美加速向中东部署数千海军陆战队员及水兵",
+          "url": "https://wallstreetcn.com/livenews/3073877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "美国总统特朗普：与日本的讨论也涉及阿拉斯加的能源和石油。",
@@ -5255,9 +5535,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/hzkeQPRuNx4V4kG_vzCHA.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260320150123630800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "美国总统特朗普：将与日本首相高市早苗讨论贸易等问题。 相信日本将在伊朗问题上挺身而出。 （在支持美国和以色列发动伊朗战争问题上）日本与北约不同。 （美国）在伊朗的“冒险”很快就会结束。 伊朗领导层已经完了。 我们随时都可以拿下（伊朗石油出口的）哈尔克岛。",
@@ -5376,7 +5667,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -5420,18 +5711,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -5513,6 +5793,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。液化石油气（LPG）涨超8%，锰硅涨超3%，苹果、烧碱、纸浆、淀粉、乙二醇（EG）涨超2%；跌幅方面，低硫燃料油（LU）跌超8%，沪银、瓶片跌超6%，PTA、PX、燃料油跌超4%，沥青、沪金跌近4%。",
+          "url": "https://flash.jin10.com/detail/20260320150050918800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "WTI原油期货价格涨幅扩大，突破100美元/桶。 据Politico报道，一名美国官员在会见石油行业高管们时宣称，美国不会实施原油出口禁令。",
           "url": "https://wallstreetcn.com/livenews/3073469",
           "source": "华尔街见闻-快讯",
@@ -5555,6 +5846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "德意志银行：预计欧洲央行将在2026年6月和9月分别加息25个基点",
+          "url": "https://wallstreetcn.com/livenews/3073870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "欧元区债券收益率继续走高，此前有消息人士表示，欧洲央行可能需要在四月份开始讨论加息事宜。",
@@ -5651,9 +5953,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "英国2月公共部门净借款 143.29亿英镑，预期85亿英镑，前值-304亿英镑。",
+          "url": "https://flash.jin10.com/detail/20260320150050188800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "标普500指数跌幅迅速收窄至0.2%，此前一度跌1.0%。 纳斯达克100指数跌幅迅速收窄至0.3%，此前一度跌1.3%。",
@@ -5695,7 +6008,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -5761,7 +6074,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -5854,6 +6167,17 @@
           "time_info": "13时50分"
         },
         {
+          "title": "挂单报告：国际现货黄金短线回落 美日上方空单占优",
+          "url": "https://flash.jin10.com/detail/20260320150032743800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "美媒称美军或夺岛以迫使伊朗开放霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3073465",
           "source": "华尔街见闻-快讯",
@@ -5904,7 +6228,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -5986,6 +6310,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "德国2月PPI年率 -3.3%，预期-2.70%，前值-3.00%。",
+          "url": "https://flash.jin10.com/detail/20260320150009833800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "疑被伊朗击中！美军一架F-35战机紧急迫降，伊朗革命卫队予以确认",
           "url": "https://wallstreetcn.com/livenews/3073462",
           "source": "华尔街见闻-快讯",
@@ -6041,6 +6376,17 @@
           "time_info": "13时50分"
         },
         {
+          "title": "德国2月PPI月率 -0.5%，预期0.30%，前值-0.60%。",
+          "url": "https://flash.jin10.com/detail/20260320150009855800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "以色列巴赞炼油厂特拉维夫股价重挫8%，媒体报道称，伊朗发射的导弹击中海法炼油厂，未造成人员伤亡。",
           "url": "https://wallstreetcn.com/livenews/3073461",
           "source": "华尔街见闻-快讯",
@@ -6069,7 +6415,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -6129,6 +6475,17 @@
           "time_info": "13时50分"
         },
         {
+          "title": "英国2月政府收支短差 76.1亿英镑，前值由-593亿英镑修正为-594.02亿英镑。",
+          "url": "https://flash.jin10.com/detail/20260320150004171800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股市两天重挫超6.2%，金价同期已跌约8%",
           "url": "https://wallstreetcn.com/livenews/3073460",
           "source": "华尔街见闻-快讯",
@@ -6168,7 +6525,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
