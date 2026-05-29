@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T10:49:31.752472+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-05-29T14:52:40.354995+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 214,
+      "match_count": 265,
       "titles": [
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
@@ -88,6 +88,18 @@
           "time_info": "[02时34分 ~ 07时12分]"
         },
         {
+          "title": "能源通胀加剧，美国4月PCE物价指数同比3.8%创三年新高，核心指数同比加速至3.3%",
+          "url": "https://wallstreetcn.com/articles/3773373",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 14时52分]"
+        },
+        {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
@@ -121,28 +133,37 @@
           "time_info": "[02时34分 ~ 05时06分]"
         },
         {
-          "title": "烫嘴!印度自来水飙到51度",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354655&amp;topic_name=%E7%83%AB%E5%98%B4%21%E5%8D%B0%E5%BA%A6%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%A3%99%E5%88%B051%E5%BA%A6",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 10时49分]"
-        },
-        {
-          "title": "能源通胀加剧，美国4月PCE物价指数同比3.8%创三年新高，核心指数同比加速至3.3%",
-          "url": "https://wallstreetcn.com/articles/3773373",
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 10时49分]"
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
+          "url": "https://www.zhihu.com/question/2043426122491286329",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
         },
         {
           "title": "美伊达成 60 天停火备忘录框架，霍尔木兹海峡恢复无限制通航，油价跳水，黄金转涨，哪些信息值得关注？",
@@ -152,11 +173,49 @@
             14,
             5,
             3,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 10时49分]"
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 14时52分]"
+        },
+        {
+          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
+          "url": "https://wallstreetcn.com/articles/3773378",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 14时52分]"
+        },
+        {
+          "title": "烫嘴!印度自来水飙到51度",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354655&amp;topic_name=%E7%83%AB%E5%98%B4%21%E5%8D%B0%E5%BA%A6%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%A3%99%E5%88%B051%E5%BA%A6",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 14时52分]"
+        },
+        {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
         },
         {
           "title": "黄金为什么暴涨暴跌",
@@ -172,6 +231,30 @@
           "time_info": "[02时34分 ~ 07时12分]"
         },
         {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 14时52分]"
+        },
+        {
+          "title": "乌克兰拆解“榛树”导弹残骸发现秘密",
+          "url": "https://www.toutiao.com/trending/7645141884238581289/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
@@ -181,28 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：西方消息人士称伊朗与美国之间的谅解备忘录已达成的报道不属实。伊朗尚未通知巴基斯坦调解方文本已最终确定，一旦最终确定，伊朗将向巴基斯坦调解方和公众宣布此事。",
@@ -225,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "法国5月CPI年率初值 2.4%，预期2.50%，前值2.20%。",
+          "url": "https://flash.jin10.com/detail/20260529144635420800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "伊朗媒体：关于西方消息说伊朗与美国已经敲定谅解备忘录的报道不实。",
@@ -260,15 +332,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
-          "url": "https://www.zhihu.com/question/2043426122491286329",
-          "source": "知乎",
+          "title": "法国5月CPI环比初值 0.1%，预期 0.2%，前值 1%。",
+          "url": "https://wallstreetcn.com/livenews/3111209",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时52分"
         },
         {
           "title": "美国财长贝森特：近2000艘船只在海湾等待出港，石油市场另一端的供应将非常充足。",
@@ -291,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "法国5月CPI月率初值 0.1%，预期0.3%，前值1.00%。",
+          "url": "https://flash.jin10.com/detail/20260529144625574800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "周四（5月28日），韩元兑美元最终涨0.43%，报1493.48韩元。",
@@ -332,33 +415,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 10时49分]"
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
-          "title": "伊朗称击落一架美军飞机，美方回应",
-          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
-          "source": "凤凰网",
+          "title": "法国一季度GDP季环比终值 -0.1%，预期 0%，初值 0%。",
+          "url": "https://wallstreetcn.com/livenews/3111208",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时52分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引谈判团队内部消息人士称，潜在谅解备忘录的文本尚未最终确定或确认。",
@@ -370,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "日本央行前委员：日本央行6月加息至关重要，否则将落后于通胀形势",
+          "url": "https://flash.jin10.com/detail/20260529144553348800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
@@ -411,9 +492,43 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "法国5月CPI同比初值 2.4%，预期 2.5%，前值 2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3111207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
+          "url": "https://wallstreetcn.com/articles/3773322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 14时52分]"
+        },
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "黎巴嫩卫生部：自3月2日以来，以色列对黎巴嫩的袭击已造成3324人死亡。",
@@ -425,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "法国4月家庭消费支出年率 -0.4%，预期-0.30%，前值0.50%。",
+          "url": "https://flash.jin10.com/detail/20260529144541865800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "Anthropic在H轮融资按9650亿美元估值募集650亿美元，含之前承诺的投资。 Altimeter Capital领投。 美光科技、三星、SK海力士加入本轮投资。 公司算力已经显著扩张。",
@@ -460,6 +586,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "法国4月家庭消费支出同比 -0.4%，预期 -0.3%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3111206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "如何看待华为培训会要求销售认识代言人时代少年团，包括成员的姓名生日番位，还要闭卷默写考核？",
           "url": "https://www.zhihu.com/question/2042605213383485415",
           "source": "知乎",
@@ -480,9 +617,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "中国芯片又传来好消息",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%8F%88%E4%BC%A0%E6%9D%A5%E5%A5%BD%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "阿根廷队世界杯26人名单",
@@ -491,7 +639,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -505,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "法国5月调和CPI年率初值 2.8%，预期2.90%，前值2.50%。",
+          "url": "https://flash.jin10.com/detail/20260529144502620800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "无人机制造商Unusual Machines Inc.（UMAC）维持超过68%的涨幅，持稳于盘中历史新高32美元附近，媒体报道称，美国总统特朗普的政府考虑注资该公司，从而提高美国的产量、降低成本。",
@@ -527,6 +686,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "法国4月家庭消费支出环比 -0.5%，预期 -0.2%，前值 0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3111203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "AI会带来怎样的社会变革",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 14时52分]"
+        },
+        {
+          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 14时52分]"
+        },
+        {
+          "title": "解析印度极端高温现象",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E5%8D%B0%E5%BA%A6%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E7%8E%B0%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 14时52分]"
         },
         {
           "title": "大V：极致高温正在摧毁印度",
@@ -555,18 +766,6 @@
           "time_info": "[02时34分 ~ 07时12分]"
         },
         {
-          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
-          "url": "https://wallstreetcn.com/articles/3773322",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 10时49分]"
-        },
-        {
           "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
           "url": "https://flash.jin10.com/detail/20260529045159520800",
           "source": "金十数据",
@@ -591,29 +790,28 @@
           "time_info": "[05时06分 ~ 07时12分]"
         },
         {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
+          "title": "“中东破冰”迷雾重重：有关“谅解备忘录”，美伊再次释放相反信号！",
+          "url": "https://www.cls.cn/detail/2384835",
           "source": "财联社热门",
           "ranks": [
-            8,
+            9,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时12分 ~ 10时49分]"
+          "time_info": "[10时49分 ~ 14时52分]"
         },
         {
-          "title": "AI会带来怎样的社会变革",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9",
-          "source": "bilibili 热搜",
+          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.cls.cn/detail/2384760",
+          "source": "财联社热门",
           "ranks": [
             8,
-            7,
-            19
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 10时49分]"
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
         },
         {
           "title": "比亚迪发布中国首款4nm智驾芯片",
@@ -651,19 +849,6 @@
           "time_info": "[02时34分 ~ 10时49分]"
         },
         {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 10时49分]"
-        },
-        {
           "title": "AI改写黑袍纠察队结局",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
           "source": "bilibili 热搜",
@@ -694,19 +879,6 @@
           "source": "贴吧",
           "ranks": [
             18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 10时49分]"
-        },
-        {
-          "title": "解析印度极端高温现象",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E5%8D%B0%E5%BA%A6%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E7%8E%B0%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            23,
             22
           ],
           "is_new": false,
@@ -869,6 +1041,30 @@
           "time_info": "[02时34分 ~ 07时12分]"
         },
         {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
           "title": "香港加码内地投资者投资账户监管",
           "url": "https://www.douyin.com/hot/2514702",
           "source": "抖音",
@@ -879,6 +1075,121 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 07时12分]"
+        },
+        {
+          "title": "92岁老艺术家手搓AI写了封情书",
+          "url": "https://www.douyin.com/hot/2515594",
+          "source": "抖音",
+          "ranks": [
+            22,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "为什么印度顶着50℃高温，也要抵制中国空调？",
+          "url": "https://news.ifeng.com/c/8tW3b34Cf8M",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
+          "url": "https://www.cls.cn/detail/2384804",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "5月29日投资避雷针：高盛测算显示全球原油库存逼近“百日警戒线”",
+          "url": "https://www.cls.cn/detail/2384833",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.baidu.com/s?wd=Anthropic%E5%AE%98%E5%AE%A3%E4%BC%B0%E5%80%BC%E5%8D%87%E8%87%B39650%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "你们有没有跟 AI 吵过架，是因为什么事情才跟它吵起来的？是它的认知或者观点跟你的不一样吗？",
+          "url": "https://www.zhihu.com/question/2033211575792841118",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时52分]"
+        },
+        {
+          "title": "最高105亿美元！信达生物、辉瑞达成多模式合作 创新药出海迎来新路径？",
+          "url": "https://www.cls.cn/detail/2384856",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "戴尔(DELL.N)首席运营官杰夫·克拉克：公司的人工智能工厂客户数量超过5000家，涵盖新云、主权客户和企业客户的增长。",
@@ -901,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "法国第一季度GDP季率终值 -0.1%，预期0.00%，前值0.00%。",
+          "url": "https://flash.jin10.com/detail/20260529144502618800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "伊朗国家媒体：Bushehr听到爆炸声。",
@@ -931,20 +1253,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
         {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
+          "title": "法国5月调和CPI环比初值 0.1%，预期 0.2%，前值 1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3111205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "玉渊谭天：欧盟若执意推动“产能过剩工具”，中方必将反制",
+          "url": "https://www.cls.cn/detail/2385079",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时52分"
+        },
+        {
+          "title": "加拿大总理：人民币要增加全球权重，我们能帮忙",
+          "url": "https://news.ifeng.com/c/8tW2Imh0ad4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "加拿大政府间事务部长多米尼克·勒布朗：在过去几个月里，我和我的同事们与行业代表以及各省和地区进行了会晤，以确保达成一项符合加拿大企业和工人最佳利益的协议。",
@@ -956,6 +1300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "法国4月家庭消费支出月率 -0.5%，预期-0.1%，前值由0.70%修正为0.9%。",
+          "url": "https://flash.jin10.com/detail/20260529144502610800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
@@ -980,26 +1335,15 @@
           "time_info": "05时06分"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
+          "title": "法国一季度GDP同比终值 0.9%，预期 1.1%，初值 1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3111204",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.cls.cn/detail/2384760",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时52分"
         },
         {
           "title": "美国财长贝森特：石油价格将低于冲突前水平。",
@@ -1041,7 +1385,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1079,26 +1423,26 @@
           "time_info": "07时12分"
         },
         {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
-          "source": "华尔街见闻",
+          "title": "法国5月调和CPI同比初值 2.8%，预期 2.9%，前值 2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3111202",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时52分"
         },
         {
-          "title": "“中东破冰”迷雾重重：有关“谅解备忘录”，美伊再次释放相反信号！",
-          "url": "https://www.cls.cn/detail/2384835",
-          "source": "财联社热门",
+          "title": "奚梦瑶何猷君将在法国办婚礼",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%9A%E6%A2%A6%E7%91%B6%E4%BD%95%E7%8C%B7%E5%90%9B%E5%B0%86%E5%9C%A8%E6%B3%95%E5%9B%BD%E5%8A%9E%E5%A9%9A%E7%A4%BC",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时52分"
         },
         {
           "title": "Anthropic：本月初我们的年化收入超过了470亿美元。",
@@ -1145,15 +1489,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "为什么印度顶着50℃高温，也要抵制中国空调？",
-          "url": "https://news.ifeng.com/c/8tW3b34Cf8M",
-          "source": "凤凰网",
+          "title": "法国一季度私营部门就业人数季环比终值 -0.1%，预期 -0.1%，初值 -0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3111201",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时52分"
         },
         {
           "title": "Anthropic在H轮融资中筹得650亿美元，投后估值达9650亿美元。",
@@ -1228,18 +1572,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
-          "url": "https://www.cls.cn/detail/2384732",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1294,20 +1627,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
         {
-          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
-          "url": "https://www.cls.cn/detail/2384804",
+          "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
+          "url": "https://www.cls.cn/detail/2384829",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时52分"
         },
         {
           "title": "据英国金融时报：亚马逊(AMZN.O)取消人工智能排行榜，以阻止员工追求使用分数。",
@@ -1349,18 +1682,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "5月29日投资避雷针：高盛测算显示全球原油库存逼近“百日警戒线”",
-          "url": "https://www.cls.cn/detail/2384833",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1404,9 +1726,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "“两倍海力士”登顶全球第一，单票杠杆ETF规模一个半月翻倍突破600亿美元",
+          "url": "https://flash.jin10.com/detail/20260529143959307800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美联储Musalem：FOMC货币政策似乎处于、或略微低于长期中性利率。 美国国债收益率上涨，有75%是由于预计中性利率上升。 我曾在4月份（FOMC货币政策会议上）认为，决议声明中的宽松基调不再与形势吻合。 无论美联储加息、降息、或按兵不动，都有必要取决于美国的经济形势。（彭博）",
@@ -1429,6 +1762,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "国产AI芯片三国杀",
+          "url": "https://www.toutiao.com/trending/7645160711315787327/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "危地马拉政府表示，未有任何协议授权外国在危地马拉境内进行军事行动。",
@@ -1503,9 +1847,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "港股智谱涨超22%，市值超8800亿港元，本月累涨超125%。",
+          "url": "https://wallstreetcn.com/livenews/3111189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "日本自卫队员将赴德就俄乌冲突取经",
+          "url": "https://www.toutiao.com/trending/7645156431772450859/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美联储穆萨莱姆：沃什将会提出关于美联储运作的深刻问题。这真让人耳目一新。",
@@ -1552,6 +1918,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "A股三大指数持续下挫，沪指跌超1%，深成指、创业板指均跌超2%。半导体、光学光电子、光刻胶板块跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3111188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "美联储穆萨莱姆：我们考虑加息的可能性大于零。",
           "url": "https://flash.jin10.com/detail/20260529012715250800",
           "source": "金十数据",
@@ -1572,6 +1949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "受芯片股推动，韩国KOSPI指数本月已累计上涨28%。",
+          "url": "https://flash.jin10.com/detail/20260529143700541800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.290%（4月28日为4.175%），投标倍数2.52（前次为2.51）。",
@@ -1602,18 +1990,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.baidu.com/s?wd=Anthropic%E5%AE%98%E5%AE%A3%E4%BC%B0%E5%80%BC%E5%8D%87%E8%87%B39650%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1638,6 +2015,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "法国外长表示，法国已要求检察官调查近期加沙船队中法国公民所受待遇。",
+          "url": "https://flash.jin10.com/detail/20260529143558000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "Autodesk将按大约36亿美元现金收购Maintainx。",
@@ -1668,9 +2056,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席卡什卡利：伊朗冲突令通胀前景变得不明朗。 由于伊朗冲突，现在不清楚货币政策的未来路径会如何。 在4月PCE通胀数据公布后，就断定我们需要立即加息还为时过早。 （PCE）数据让我进一步关注通胀风险。 无论在最好或最坏的情况下，都存在通货膨胀延长的风险。 通胀预期面临失控的风险。",
+          "url": "https://wallstreetcn.com/livenews/3111185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "奕派M8满配搭载华为乾崑",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%95%E6%B4%BEM8%E6%BB%A1%E9%85%8D%E6%90%AD%E8%BD%BD%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美联储穆萨莱姆：近期债券市场大部分波动源于对中性利率上升的预期。",
@@ -1695,6 +2105,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "高盛“二把手”公开警示：通胀是当前经济头号风险",
+          "url": "https://flash.jin10.com/detail/20260529143538725800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
           "url": "https://wallstreetcn.com/livenews/3110872",
           "source": "华尔街见闻-快讯",
@@ -1717,6 +2138,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "澳大利亚S&P/ASX 200指数收盘上涨1.6%，报8731.70点。",
+          "url": "https://wallstreetcn.com/livenews/3111183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "印度 空调外机",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%20%E7%A9%BA%E8%B0%83%E5%A4%96%E6%9C%BA&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1734,9 +2166,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "日本自卫队员赴德就俄乌冲突“取经”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262119",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美联储穆萨莱姆：债券市场表明经济具有韧性且通胀预期上升。",
@@ -1800,9 +2243,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "前日本央行委员：日本央行可能会在六月提高利率。",
+          "url": "https://wallstreetcn.com/livenews/3111182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "黄仁勋谈AI：浪费Token没事别浪费时间",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%EF%BC%9A%E6%B5%AA%E8%B4%B9Token%E6%B2%A1%E4%BA%8B%E5%88%AB%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "以色列称中断与联合国秘书长所有联系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33258742",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "闪迪CTO：新型AI内存HBF将在年底送样，配备控制器的完整产品预计于明年正式推出。",
@@ -1836,6 +2312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "法国第一季度GDP年率终值、5月CPI月率初值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260529143500000800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "Anthropic：推出Claude Opus 4.8，收费为10美元/100万tokens。 对常规使用Opus 4.7的收费维持现状不变。",
@@ -1877,9 +2364,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "A股三大指数持续下挫，创业板指日内跌幅达2%，深证成指跌.75%，沪指跌0.85%，存储芯片、先进封装概念跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3111181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "阿根廷队世界杯26人名单",
@@ -1888,18 +2386,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "你们有没有跟 AI 吵过架，是因为什么事情才跟它吵起来的？是它的认知或者观点跟你的不一样吗？",
-          "url": "https://www.zhihu.com/question/2033211575792841118",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1932,9 +2419,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "罗马尼亚总统：绝不接受俄罗斯对乌克兰发动的军事行动波及本国公民。",
+          "url": "https://flash.jin10.com/detail/20260529143405782800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "欧盟严阵以待，将与Anthropic就获取Mythos AI模型展开谈判",
@@ -1998,7 +2496,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -2020,31 +2518,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "德国4月进口价格指数环比 1.2%，预期 1.1%，前值 3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3111176",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "92岁老艺术家手搓AI写了封情书",
-          "url": "https://www.douyin.com/hot/2515594",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时52分"
         },
         {
           "title": "美联储穆萨莱姆：是否加息、降息或维持利率不变将取决于经济形势的发展。",
@@ -2075,7 +2562,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -2100,6 +2587,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "德国4月进口价格指数同比 5.3%，预期 5.3%，前值 2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3111177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "徐直军谈华为芯片突围始末",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%9B%B4%E5%86%9B%E8%B0%88%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E7%AA%81%E5%9B%B4%E5%A7%8B%E6%9C%AB%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "印度首都圈水危机加剧",
+          "url": "https://www.toutiao.com/trending/7644437400810405939/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "伊朗武装部队向霍尔木兹海峡附近4艘船只发出警告性射击",
@@ -2141,9 +2661,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "A股银行板块逆势拉升，重庆银行涨超4%，创5年多新高，宁波银行、兴业银行、招商银行、工商银行、平安银行等涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3111172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览（美股收盘）",
@@ -2174,7 +2705,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -2234,6 +2765,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "联发科：着眼于2026年从AI芯片业务获得20亿美元营收，2027年获得至多120亿美元营收。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3111169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "广东90后女生用AI接了400万大单",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C90%E5%90%8E%E5%A5%B3%E7%94%9F%E7%94%A8AI%E6%8E%A5%E4%BA%86400%E4%B8%87%E5%A4%A7%E5%8D%95%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -2251,9 +2793,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "史上首款2nm芯片性能分析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE2nm%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
@@ -2284,9 +2837,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "央行科技司司长李伟履新央行北京市分行党委书记、行长",
+          "url": "https://wallstreetcn.com/livenews/3111167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "A股集体大涨原因",
@@ -2306,7 +2870,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -2339,7 +2903,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -2350,9 +2914,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "港股创新药概念股拉升，信达生物涨超12%，石药集团涨超6%，荣昌生物涨近6%，诺诚健华涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3111165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "阿根廷男足仍未公布世界杯大名单",
