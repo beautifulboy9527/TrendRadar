@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T07:25:46.039832+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-06-02T11:34:26.023028+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 174,
+      "match_count": 230,
       "titles": [
         {
           "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
@@ -15,8 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3773592",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
+          "url": "https://www.cls.cn/detail/2387611",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
         },
         {
           "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
@@ -53,34 +76,11 @@
           "time_info": "[01时31分 ~ 07时25分]"
         },
         {
-          "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3773592",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
           "title": "英媒发文：欧洲正疲于应对一个“虚幻的中国威胁”",
           "url": "https://news.ifeng.com/c/8tbYuXze8HC",
           "source": "凤凰网",
           "ranks": [
             2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
-          "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
-          "url": "https://www.cls.cn/detail/2387611",
-          "source": "财联社热门",
-          "ranks": [
             3
           ],
           "is_new": false,
@@ -162,11 +162,12 @@
           "ranks": [
             6,
             2,
-            4
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -178,6 +179,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 05时28分]"
+        },
+        {
+          "title": "印度遭遇罕见热浪突破百年来最高纪录德里逼近 50 度，这将对当地带来怎样的灾难？",
+          "url": "https://www.zhihu.com/question/533194550",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 11时34分]"
         },
         {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
@@ -203,15 +228,51 @@
           "time_info": "[01时31分 ~ 07时25分]"
         },
         {
+          "title": "4家A股公司，撤销风险警示",
+          "url": "https://www.cls.cn/detail/2387556",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
           "title": "六神包装“撞脸”人民币",
           "url": "https://www.toutiao.com/trending/7646392563909266990/",
           "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "台湾岛内统一声浪持续高涨",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%86%85%E7%BB%9F%E4%B8%80%E5%A3%B0%E6%B5%AA%E6%8C%81%E7%BB%AD%E9%AB%98%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "特朗普：以黎将立即停火",
@@ -225,6 +286,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "中方敦促以色列：立即全面撤军",
+          "url": "https://news.ifeng.com/c/8tcasAQNcQf",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
           "url": "https://flash.jin10.com/detail/20260602050120532800",
           "source": "金十数据",
@@ -234,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美国提议对巴西部分商品征收25%关税",
+          "url": "https://flash.jin10.com/detail/20260602111548238800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "俄罗斯据悉考虑进口航空燃料。（俄罗斯商业通讯社）",
@@ -253,9 +336,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "伊朗向以色列发出最新警告",
+          "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：黎巴嫩真主党表示，如果以色列停止侵略并撤军，我们将遵守停火协议。",
@@ -280,6 +385,39 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美国贸易代表办公室：已确定巴西在数字贸易、某些关税和非法砍伐方面的政策符合301条款的可诉性。",
+          "url": "https://flash.jin10.com/detail/20260602111141981800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美国贸易代表办公室：提议对来自巴西的所有进口商品征收25%的关税，但已受《232条款》国家安全关税限制的商品除外。牛肉、咖啡、某些水果和坚果、香料、石油以及金属矿石将免于被征收惩罚性关税。",
+          "url": "https://wallstreetcn.com/livenews/3112793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
+          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "据以色列第12频道：黎巴嫩真主党向特朗普表示，他们将同意停火，且同意停火不设任何先决条件。",
           "url": "https://flash.jin10.com/detail/20260602005552363800",
           "source": "金十数据",
@@ -302,15 +440,37 @@
           "time_info": "05时28分"
         },
         {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
-          "source": "财联社热门",
+          "title": "重庆发行7年期一般债地方债，规模33.3800亿元，发行利率1.6200%，边际倍数4.47倍，倍数预期1.62； 重庆发行20年期普通专项地方债，规模67.0000亿元，发行利率2.3300%，边际倍数3.43倍，倍数预期2.33。",
+          "url": "https://wallstreetcn.com/livenews/3112792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "11时34分"
+        },
+        {
+          "title": "英伟达发布个人AI超算",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BAAI%E8%B6%85%E7%AE%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "航运数据显示，委内瑞拉对美国的石油出口在五月增加至约55.8桶/日",
@@ -324,6 +484,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "澳洲联储票委：长期通胀预期上升 需采取强力行动防止失锚",
+          "url": "https://flash.jin10.com/detail/20260602111037775800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "伊朗暂停通过中间人同美国对话",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -335,6 +506,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 07时25分]"
+        },
+        {
+          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
+          "url": "https://wallstreetcn.com/articles/3773561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7646419297488604708/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
+          "url": "https://www.cls.cn/detail/2387782",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "航运数据显示，委内瑞拉对印度的石油出口在五月增至约42.7万桶/日。",
@@ -365,7 +571,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -387,20 +593,109 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
         {
-          "title": "伊朗：彻底封锁霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7646419297488604708/",
-          "source": "今日头条",
+          "title": "宇树科技科创板IPO过会，从受理到上会用时仅73天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33280884",
+          "source": "澎湃新闻",
           "ranks": [
+            10,
+            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "7月1日起海外投资新规正式实施",
+          "url": "https://www.douyin.com/hot/2519816",
+          "source": "抖音",
+          "ranks": [
+            21,
+            18,
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "释新闻｜以色列占领十字军建造的黎巴嫩战略堡垒，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33280009",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.douyin.com/hot/2520417",
+          "source": "抖音",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "印度提议炸掉喜马拉雅山",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354749&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%8F%90%E8%AE%AE%E7%82%B8%E6%8E%89%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
+        },
+        {
+          "title": "日企黑科技:塑料变石油",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时34分]"
         },
         {
           "title": "这个周末，美伊忙着“改条件”，以色列忙着打黎巴嫩",
@@ -438,18 +733,6 @@
           "time_info": "[01时31分 ~ 07时25分]"
         },
         {
-          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
-          "url": "https://wallstreetcn.com/articles/3773561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
           "title": "俄罗斯等四国让亚美尼亚二选一，怎么回事？",
           "url": "https://news.ifeng.com/c/8tbcvcOFUfh",
           "source": "凤凰网",
@@ -468,17 +751,6 @@
           "ranks": [
             15,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -535,18 +807,6 @@
           "time_info": "[05时28分 ~ 07时25分]"
         },
         {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
           "title": "伯克希尔“新王”上任“第一把火”：85亿美元！卖油气，买地产",
           "url": "https://wallstreetcn.com/articles/3773528",
           "source": "华尔街见闻",
@@ -581,31 +841,6 @@
           "time_info": "[05时28分 ~ 07时25分]"
         },
         {
-          "title": "4家A股公司，撤销风险警示",
-          "url": "https://www.cls.cn/detail/2387556",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
-          "title": "宇树科技科创板IPO过会，从受理到上会用时仅73天",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33280884",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
           "title": "两大芯片巨头互攻",
           "url": "https://www.toutiao.com/trending/7646324933521313323/",
           "source": "今日头条",
@@ -619,63 +854,6 @@
           "time_info": "[01时31分 ~ 07时25分]"
         },
         {
-          "title": "印度遭遇罕见热浪突破百年来最高纪录德里逼近 50 度，这将对当地带来怎样的灾难？",
-          "url": "https://www.zhihu.com/question/533194550",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
-          "title": "释新闻｜以色列占领十字军建造的黎巴嫩战略堡垒，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33280009",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
-          "title": "伊朗：彻底封锁霍尔木兹海峡",
-          "url": "https://www.douyin.com/hot/2520417",
-          "source": "抖音",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
-          "title": "印度提议炸掉喜马拉雅山",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354749&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%8F%90%E8%AE%AE%E7%82%B8%E6%8E%89%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
-          "title": "日企黑科技:塑料变石油",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
           "title": "华为nova 16价格公布",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAnova+16%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
@@ -683,19 +861,6 @@
             14,
             24,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
-        },
-        {
-          "title": "7月1日起海外投资新规正式实施",
-          "url": "https://www.douyin.com/hot/2519816",
-          "source": "抖音",
-          "ranks": [
-            21,
-            18,
-            22
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -738,6 +903,18 @@
           "time_info": "[01时31分 ~ 07时25分]"
         },
         {
+          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
+          "url": "https://wallstreetcn.com/articles/3773555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 11时34分]"
+        },
+        {
           "title": "阿根廷国家队入驻B站",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
@@ -748,6 +925,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 05时28分]"
+        },
+        {
+          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 11时34分]"
         },
         {
           "title": "热身赛德国4:0芬兰",
@@ -796,15 +985,28 @@
           "time_info": "[01时31分 ~ 01时32分]"
         },
         {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
-          "source": "华尔街见闻",
+          "title": "宇树科技科创板IPO过会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E8%BF%87%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 11时34分]"
+        },
+        {
+          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
+          "url": "https://www.zhihu.com/question/2044719064757397392",
+          "source": "知乎",
+          "ranks": [
+            14,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时25分]"
+          "time_info": "[05时28分 ~ 11时34分]"
         },
         {
           "title": "美以袭击伊朗进入第 94 天，当前局势如何？哪些信息值得关注？",
@@ -827,17 +1029,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 01时32分]"
-        },
-        {
-          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时25分]"
         },
         {
           "title": "伊朗计划彻底封锁霍尔木兹",
@@ -875,6 +1066,17 @@
           "time_info": "[05时28分 ~ 07时25分]"
         },
         {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "航运数据显示，5月份委内瑞拉输往加勒比地区用于储存的石油出口量降至约5.8万桶/日。",
           "url": "https://flash.jin10.com/detail/20260602005201621800",
           "source": "金十数据",
@@ -903,7 +1105,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -917,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "台湾岛以东，中国海警编队向日菲亮剑立威",
+          "url": "https://news.ifeng.com/c/8tcHF5gmsxj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "航运数据显示，委内瑞拉5月份的石油出口量上升至125万桶/日。",
@@ -947,7 +1160,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -974,6 +1187,50 @@
           "time_info": "05时28分"
         },
         {
+          "title": "以色列议会一读通过解散议会法案",
+          "url": "https://wallstreetcn.com/livenews/3112784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "台湾网红“馆长”打卡都江堰水利工程",
+          "url": "https://www.toutiao.com/trending/7645840433045766180/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "6月2日投资避雷针：晋控电力、深南电A等电力股密集澄清 不涉及算电协同业务",
+          "url": "https://www.cls.cn/detail/2387785",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "哈尔滨为何同时出现多种极端天气",
+          "url": "https://www.douyin.com/hot/2520458",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "欧盟准备给予各国预算灵活性，以缓解能源成本压力。",
           "url": "https://flash.jin10.com/detail/20260602044929377800",
           "source": "金十数据",
@@ -983,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "“中立”不再是护身符：美国逼阿曼选边站，切断与伊朗关系",
+          "url": "https://flash.jin10.com/detail/20260602110821976800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "Anthropic将向欧盟开放其先进模型Mythos的访问权限",
@@ -996,15 +1264,48 @@
           "time_info": "05时28分"
         },
         {
-          "title": "宇树科技科创板IPO过会",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E8%BF%87%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "乌克兰首都基辅连续传出剧烈爆炸声",
+          "url": "https://www.toutiao.com/trending/7645848883202441279/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "11时34分"
+        },
+        {
+          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
+          "url": "https://wallstreetcn.com/articles/3773569",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "事关美联储加息！华尔街老将震撼预言：应该就在7月份",
+          "url": "https://www.cls.cn/detail/2387779",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "美国搞新联盟抗衡中国，欧盟宁可“被殖民”也求加入",
+          "url": "https://news.ifeng.com/c/8tcdMywEF0J",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "市场消息：俄罗斯联邦兽医和植物检疫监督局将从6月2日起限制从亚美尼亚进口樱桃、甜樱桃、杏、李子、桃、油桃和葡萄。",
@@ -1035,7 +1336,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1068,9 +1369,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.11%，深成指涨0.93%，算力硬件、AI PC、存储芯片等方向领涨，沪深京三市上涨个股超1500只。",
+          "url": "https://wallstreetcn.com/livenews/3112781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
+          "url": "https://wallstreetcn.com/articles/3773584",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "42架军机接连损毁！专家：美军严重误判",
+          "url": "https://news.ifeng.com/c/8tcgmYzto0U",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "巴基斯坦政府：巴基斯坦总理还向欧盟高级代表阐述了巴基斯坦对南亚地区局势以及阿富汗问题的看法。",
@@ -1101,7 +1435,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1126,6 +1460,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "日本鸡肉价格创新高 每公斤售价约65元人民币",
+          "url": "https://wallstreetcn.com/livenews/3112779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
+          "url": "https://www.cls.cn/detail/2387700",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "巴基斯坦政府：巴基斯坦总理会见了欧盟外交与安全政策高级代表卡拉斯。总理表示，巴基斯坦热切希望进一步加强与欧盟之间的多方面伙伴关系。总理对今天早些时候举行的第八轮欧盟-巴基斯坦战略对话表示满意，同时重申巴基斯坦致力于在贸易与投资、气候变化、安全、移民、可持续发展和互联互通等关键领域加强与欧盟的合作。",
@@ -1172,6 +1528,28 @@
           "time_info": "05时28分"
         },
         {
+          "title": "网友称摸起来很像人民币 六神回应",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%91%B8%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%83%8F%E4%BA%BA%E6%B0%91%E5%B8%81+%E5%85%AD%E7%A5%9E%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "告别“永不卖出”策略！Strategy披露出售比特币 卖出32枚套现250万美元",
+          "url": "https://www.cls.cn/detail/2387674",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "金十图示：2026年06月01日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260602003959802800",
           "source": "金十数据",
@@ -1200,7 +1578,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1214,6 +1592,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "国开行发行3年期债券，规模30亿元，发行利率1.3630%，预期1.3700%，投标倍数5.61倍，边际倍数3.00倍； 国开行发行10年期债券，规模130亿元，发行利率1.7208%，预期1.7200%，投标倍数3.56倍，边际倍数4.14倍。",
+          "url": "https://wallstreetcn.com/livenews/3112773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
+          "url": "https://www.cls.cn/detail/2387742",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "贞德作为一位农家女子，她是如何获取皇室和法国军民的信任呢？",
+          "url": "https://www.zhihu.com/question/31159091",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "据以色列第12频道：以色列总理内塔尼亚胡和特朗普进行通话。",
@@ -1233,7 +1644,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1266,20 +1677,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
         {
-          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
-          "url": "https://www.zhihu.com/question/2044719064757397392",
-          "source": "知乎",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "11时34分"
         },
         {
           "title": "本届世界杯阿根廷的阵容已经公布，他们卫冕的概率有多大？",
@@ -1288,7 +1699,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1315,6 +1726,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "以色列议会一读通过解散议会法案",
+          "url": "https://flash.jin10.com/detail/20260602105929728800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美股光通信概念股Credo股价盘后跌超15%。 最新业绩报告显示，该公司第四财季营收4.37亿美元，分析师预期4.325亿美元。 第四财季调整后每股收益（EPS）为1.16美元，分析师预期1美元。 预计第一财季营收4.65亿-4.75亿美元，分析师预期4.605亿美元。",
           "url": "https://wallstreetcn.com/livenews/3112639",
           "source": "华尔街见闻-快讯",
@@ -1324,6 +1746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "A股开盘：宇树机器人概念股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A6%82%E5%BF%B5%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "伊朗伊斯兰革命卫队称对美以船只实施打击",
@@ -1354,9 +1787,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "A股电力股局部异动，韶能股份直线涨停，湖南发展冲击涨停，大唐发电、淮河能源、晋控电力、华电辽能涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3112770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "金十图示：2026年06月01日（周一）热门中概股行情一览（美股盘中）",
@@ -1376,7 +1831,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1420,7 +1875,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1453,7 +1908,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1475,7 +1930,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1497,9 +1952,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "A股半导体板块震荡拉升，颀中科技、江丰电子、源杰科技、杰华特涨超10%，寒武纪涨超5%，凯华材料、芯海科技、强一股份、阿石创、雅克科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260602105539038800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "【特朗普称尚未收到伊朗关于暂停谈判的消息】美国总统特朗普表示，关于伊朗问题，他尚未收到伊朗方面暂停谈判的消息。 当地时间1日，伊朗方面有消息称，鉴于以色列在黎巴嫩的持续军事行动，并考虑到黎巴嫩停火是伊美停火的先决条件之一，伊朗谈判团队暂停通过中间人同美国的对话和文本交换。 消息称，伊朗官员和谈判代表表示，以色列必须立即停止在加沙地带和黎巴嫩的侵略和残暴的军事行动，并必须从黎巴嫩完全撤军。伊朗官员表示，在此要求得到满足前，伊朗不会举行任何谈判。（央视）",
@@ -1546,6 +2012,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "A股有色金属板块震荡回升，华锡有色逼近涨停，锡业股份、江西铜业、北方铜业、西部矿业、兴业银锡跟涨。",
+          "url": "https://flash.jin10.com/detail/20260602105003054800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "Salesforce对Anthropic投资的估值大约为50亿美元。",
           "url": "https://wallstreetcn.com/livenews/3112573",
           "source": "华尔街见闻-快讯",
@@ -1563,9 +2040,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "报道：腾讯更加接近推出微信AI助手",
+          "url": "https://wallstreetcn.com/livenews/3112760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "加拿大央行高级副行长罗杰斯：连续两个季度的年化GDP收缩符合衰退的一种定义，但不应过于依赖任何单一指标。",
@@ -1585,7 +2073,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1618,7 +2106,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1651,7 +2139,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1684,9 +2172,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，创业板指此前一度涨近1.7%，影视、体育、光伏设备、电池等方向跌幅居前，沪深京三市下跌个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3112754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "据美国财经媒体Semafor：Luma AI正在筹建一个机器人实验室，将允许任何人利用其软件来训练机器人。",
@@ -1706,9 +2205,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "俄罗斯地方政府表示，克拉斯诺达尔地区的伊尔斯基石油炼油厂在无人机袭击后发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260602104621354800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "中共中央政治局委员、外交部长王毅1日在北京同巴西外长维埃拉举行第五次中巴外长级全面战略对话。（央视）",
@@ -1728,7 +2238,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1761,9 +2271,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "A股存储芯片概念盘中回暖，云汉芯城涨近15%，中电港一度触及涨停，强一股份、太极实业、雅创电子、香农芯创跟涨。",
+          "url": "https://flash.jin10.com/detail/20260602104607249800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美联储：比起AI，远程办公对年轻毕业生求职影响更大",
@@ -1799,6 +2320,28 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美股芯片股狂飙",
+          "url": "https://www.toutiao.com/trending/7646434050596438057/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "美国总统特朗普在接受NBC新闻记者采访时表示，他尚未收到伊朗关于暂停谈判的消息。",
           "url": "https://flash.jin10.com/detail/20260602001302121800",
           "source": "金十数据",
@@ -1821,6 +2364,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "伊朗媒体新发布最高领袖照片",
+          "url": "https://flash.jin10.com/detail/20260602104555788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "黎巴嫩议会议长：真主党已准备好和以色列达成停火协议",
           "url": "https://wallstreetcn.com/livenews/3112567",
           "source": "华尔街见闻-快讯",
@@ -1830,6 +2384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "A股CPO概念股盘初拉升，意华股份涨停，联特科技涨超10%，凯格精机、智立方、新易盛、东山精密涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3112744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "美国中央司令部：数千名美国海军、空军和陆军人员正在海上、空中以及陆地上为美国对伊朗的持续封锁行动提供支持。截至6月1日，部队已指示121艘商船改道，并对5艘船只实施了停运措施，以确保相关行动的顺利进行。",
@@ -1876,6 +2441,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "A股机器人概念股开盘活跃，中大力德涨停，五洋自控、格林精密涨超10%，科达自控、盈峰环境、长盛轴承、昊志机电跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3112742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：自波斯湾航道管理局于5月初正式开展工作以来，已有超过300艘非伊朗籍船只提交信息，申请获取安全通过霍尔木兹海峡的通行许可，其中绝大多数为油轮。",
           "url": "https://flash.jin10.com/detail/20260602040514778800",
           "source": "金十数据",
@@ -1909,6 +2485,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "伊朗叫停与美谈判并威胁再封一海峡！特朗普声称“已扭转局面”；欧佩克或提高7月原油产量配额，伯克希尔计划向谷歌投资百亿美元……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260602104104178800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "Anthropic已保密提交IPO注册文件草案，最快今秋登陆美股",
           "url": "https://wallstreetcn.com/livenews/3112564",
           "source": "华尔街见闻-快讯",
@@ -1931,6 +2518,28 @@
           "time_info": "05时28分"
         },
         {
+          "title": "国债期货开盘，30年期主力合约跌0.05%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3112738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "中方代表：呼吁立即实现停火止战",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E5%AE%9E%E7%8E%B0%E5%81%9C%E7%81%AB%E6%AD%A2%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：伊方耐心有限，绝不允许海上封锁继续",
           "url": "https://wallstreetcn.com/livenews/3112562",
           "source": "华尔街见闻-快讯",
@@ -1940,6 +2549,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "揭秘印度极端高温背后真相",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E5%8D%B0%E5%BA%A6%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E8%83%8C%E5%90%8E%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "A股CPO概念盘中震荡反弹，源杰科技、光库科技双双涨超10%，联特科技、联讯仪器、东山精密、新易盛均涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260602103711787800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         },
         {
           "title": "伊朗哈塔姆安比亚中央司令部向以色列发出警告",
