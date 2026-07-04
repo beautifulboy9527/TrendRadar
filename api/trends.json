@@ -1,27 +1,52 @@
 {
-  "generated_at": "2026-07-04T06:11:37.024717+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-04T12:32:23.371883+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 150,
+      "match_count": 208,
       "titles": [
-        {
-          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
         {
           "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
           "url": "https://www.cls.cn/detail/2416860",
           "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
+        },
+        {
+          "title": "刷新年内最大降幅！今晚油价下调，加满一箱油将少花37.5元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33510571",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
+        },
+        {
+          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
+          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
+        },
+        {
+          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
@@ -35,28 +60,6 @@
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
-          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
-          "title": "刷新年内最大降幅！今晚油价下调，加满一箱油将少花37.5元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33510571",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -116,6 +119,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
         },
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
@@ -183,9 +199,97 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "阿根廷3比2艰难战胜佛得角",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AF%942%E8%89%B0%E9%9A%BE%E6%88%98%E8%83%9C%E4%BD%9B%E5%BE%97%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
+          "url": "https://www.cls.cn/detail/2417029",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
+          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "金十图示：2026年07月04日（周六）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260704121117014800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "欧盟委员会主席：以色列扩建定居点不可接受",
+          "url": "https://wallstreetcn.com/livenews/3128887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "虽败犹荣!佛得角憾负阿根廷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355880&amp;topic_name=%E8%99%BD%E8%B4%A5%E7%8A%B9%E8%8D%A3%21%E4%BD%9B%E5%BE%97%E8%A7%92%E6%86%BE%E8%B4%9F%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "极限过关！世界杯 1/16 决赛，阿根廷 3-2 险胜佛得角，佛得角门将屡次救险再次封神，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056419001685599487",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "澳大利亚vs埃及",
@@ -206,9 +310,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "《数据产权登记工作指引（试行）》印发 促进数据安全合规高效流通",
+          "url": "https://flash.jin10.com/detail/20260704114226897800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "斯洛伐克称不会承担北约峰会上提出的任何援乌义务",
@@ -217,9 +332,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "《数据产权登记工作指引（试行）》印发 促进数据安全合规高效流通",
+          "url": "https://wallstreetcn.com/livenews/3128886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "佛得角门将沃齐尼亚凭一己之力将阿根廷逼入加时赛，如何评价他的表现？",
+          "url": "https://www.zhihu.com/question/2056651923759915138",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "沃齐尼亚如何把阿根廷逼到绝境",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%83%E9%BD%90%E5%B0%BC%E4%BA%9A%E5%A6%82%E4%BD%95%E6%8A%8A%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%BC%E5%88%B0%E7%BB%9D%E5%A2%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
+          "url": "https://flash.jin10.com/detail/20260704113342386800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -239,9 +398,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "攻防稀烂,阿根廷纯熬老头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355883&amp;topic_name=%E6%94%BB%E9%98%B2%E7%A8%80%E7%83%82%2C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%BA%AF%E7%86%AC%E8%80%81%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "手舞足蹈卖力演奏，高市早苗试弹印度乐器，莫迪带头鼓掌",
+          "url": "https://v.ifeng.com/c/8uSdi3abnDm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
         },
         {
           "title": "秘鲁全国选举委员会宣布藤森庆子当选总统",
@@ -262,7 +443,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -273,7 +454,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -296,9 +477,102 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "三国前外长：以色列的所作所为已超越人性界线",
+          "url": "https://news.ifeng.com/c/8uTlYnSBLXr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "非农仅增5.7万，美联储为何不能轻易转鸽？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260704112616327800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "印度政府：正调查苹果手机信息泄露事件",
+          "url": "https://wallstreetcn.com/livenews/3128883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "中国空调凭啥在欧洲这么夯",
+          "url": "https://www.douyin.com/hot/2557077",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
+          "url": "https://www.cls.cn/detail/2416647",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
+        },
+        {
+          "title": "女子印度游,脑子长出寄生虫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355864&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%8D%B0%E5%BA%A6%E6%B8%B8%2C%E8%84%91%E5%AD%90%E9%95%BF%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月3日（周五）晚盘收盘上涨0.41%报910.7元/克；<br/>上海黄金交易所白银T+D 7月3日（周五）晚盘收盘上涨0.76%报15207.0元/千克。",
@@ -313,6 +587,19 @@
           "time_info": "[03时14分 ~ 06时11分]"
         },
         {
+          "title": "烧穿了,法国人因高温避暑溺亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355866&amp;topic_name=%E7%83%A7%E7%A9%BF%E4%BA%86%2C%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%9B%A0%E9%AB%98%E6%B8%A9%E9%81%BF%E6%9A%91%E6%BA%BA%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
+        },
+        {
           "title": "拉加德将罕见亲自出席下周的欧盟经济和财政事务理事会会议",
           "url": "https://flash.jin10.com/detail/20260704022128126800",
           "source": "金十数据",
@@ -323,6 +610,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 06时11分]"
+        },
+        {
+          "title": "媒体为印度人发声:莫以偏概全",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355852&amp;topic_name=%E5%AA%92%E4%BD%93%E4%B8%BA%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%8F%91%E5%A3%B0%3A%E8%8E%AB%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
+        },
+        {
+          "title": "热浪扛不住,法国买3万台空调",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355856&amp;topic_name=%E7%83%AD%E6%B5%AA%E6%89%9B%E4%B8%8D%E4%BD%8F%2C%E6%B3%95%E5%9B%BD%E4%B9%B03%E4%B8%87%E5%8F%B0%E7%A9%BA%E8%B0%83",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
+        },
+        {
+          "title": "欧洲热到爆,空调全靠中国造",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355836&amp;topic_name=%E6%AC%A7%E6%B4%B2%E7%83%AD%E5%88%B0%E7%88%86%2C%E7%A9%BA%E8%B0%83%E5%85%A8%E9%9D%A0%E4%B8%AD%E5%9B%BD%E9%80%A0",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 12时32分]"
         },
         {
           "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
@@ -349,18 +675,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 06时11分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
         },
         {
           "title": "法国气温升至 43 度，持续热浪给在法华人生活带来了哪些具体影响？",
@@ -412,17 +726,6 @@
           "time_info": "[01时21分 ~ 06时11分]"
         },
         {
-          "title": "手舞足蹈卖力演奏，高市早苗试弹印度乐器，莫迪带头鼓掌",
-          "url": "https://v.ifeng.com/c/8uSdi3abnDm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
           "title": "摩根大通：预计黄金短期内将维持区间震荡，随后回升，2026年第三季度均价为4,300美元/盎司，第四季度均价为4,500美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260704011652357800",
           "source": "金十数据",
@@ -454,30 +757,6 @@
           "ranks": [
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
-          "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
-          "url": "https://www.cls.cn/detail/2416647",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
-          "title": "女子印度游,脑子长出寄生虫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355864&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%8D%B0%E5%BA%A6%E6%B8%B8%2C%E8%84%91%E5%AD%90%E9%95%BF%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -532,16 +811,16 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
-          "title": "烧穿了,法国人因高温避暑溺亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355866&amp;topic_name=%E7%83%A7%E7%A9%BF%E4%BA%86%2C%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%9B%A0%E9%AB%98%E6%B8%A9%E9%81%BF%E6%9A%91%E6%BA%BA%E4%BA%A1",
-          "source": "贴吧",
+          "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
+          "url": "https://wallstreetcn.com/articles/3776164",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            9
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 12时32分]"
         },
         {
           "title": "英国首相候选人伯纳姆：确认不会提前召开大选。",
@@ -616,59 +895,12 @@
           "time_info": "[01时21分 ~ 06时11分]"
         },
         {
-          "title": "媒体为印度人发声:莫以偏概全",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355852&amp;topic_name=%E5%AA%92%E4%BD%93%E4%B8%BA%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%8F%91%E5%A3%B0%3A%E8%8E%AB%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
-          "title": "热浪扛不住,法国买3万台空调",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355856&amp;topic_name=%E7%83%AD%E6%B5%AA%E6%89%9B%E4%B8%8D%E4%BD%8F%2C%E6%B3%95%E5%9B%BD%E4%B9%B03%E4%B8%87%E5%8F%B0%E7%A9%BA%E8%B0%83",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
           "title": "阿根廷vs佛得角",
           "url": "https://www.douyin.com/hot/2556915",
           "source": "抖音",
           "ranks": [
             17,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
-          "title": "欧洲热到爆,空调全靠中国造",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355836&amp;topic_name=%E6%AC%A7%E6%B4%B2%E7%83%AD%E5%88%B0%E7%88%86%2C%E7%A9%BA%E8%B0%83%E5%85%A8%E9%9D%A0%E4%B8%AD%E5%9B%BD%E9%80%A0",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -960,6 +1192,17 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
+          "title": "热浪期间，法国家中死亡人数激增90%",
+          "url": "https://news.ifeng.com/c/8uTFykgn7t1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 12时32分]"
+        },
+        {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
           "url": "https://wallstreetcn.com/articles/3776099",
           "source": "华尔街见闻",
@@ -1230,15 +1473,48 @@
           "time_info": "[01时21分 ~ 03时14分]"
         },
         {
+          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
+          "url": "https://www.toutiao.com/trending/7658230002110119978/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "埃及点球大战5比3淘汰澳大利亚",
           "url": "https://www.baidu.com/s?wd=%E5%9F%83%E5%8F%8A%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%985%E6%AF%943%E6%B7%98%E6%B1%B0%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "佛得角两度扳平阿根廷",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "阿根廷3-2佛得角",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E4%BD%9B%E5%BE%97%E8%A7%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "周五（7月3日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7853元，较周四纽约尾盘涨35点，日内整体交投于6.7901-6.7811元区间。 本周，离岸人民币累计上涨大约190点，涨幅0.29%。",
@@ -1247,9 +1523,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
+          "url": "https://wallstreetcn.com/livenews/3128882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "埃及点球大战淘汰澳大利亚",
@@ -1258,7 +1545,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -1269,7 +1556,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -1280,9 +1567,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "阿根廷赛后点赞佛得角：伟大的对手",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B5%9B%E5%90%8E%E7%82%B9%E8%B5%9E%E4%BD%9B%E5%BE%97%E8%A7%92%EF%BC%9A%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%AF%B9%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "巴西政府：数据显示，6月原油出口量为848万吨，上年同期为795万吨。",
@@ -1302,9 +1611,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "世界杯 1/16 决赛，埃及点球 5-3 澳大利亚，澳大利亚 119 分钟换门将，埃及 4 罚全中，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056418799423680843",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "澳大利亚点球前换门将失败",
@@ -1313,20 +1633,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
         {
-          "title": "热浪期间，法国家中死亡人数激增90%",
-          "url": "https://news.ifeng.com/c/8uTFykgn7t1",
-          "source": "凤凰网",
+          "title": "佛得角对阵阿根廷 裁判操作引争议",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%AF%B9%E9%98%B5%E9%98%BF%E6%A0%B9%E5%BB%B7+%E8%A3%81%E5%88%A4%E6%93%8D%E4%BD%9C%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "12时32分"
+        },
+        {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "乌克兰或用弹道导弹袭击莫斯科，“回合制”互袭首都愈演愈烈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33513389",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "拆解阿根廷险胜佛得角",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%99%A9%E8%83%9C%E4%BD%9B%E5%BE%97%E8%A7%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "惠誉：中东局势仍对全球企业构成风险",
@@ -1351,15 +1704,37 @@
           "time_info": "03时14分"
         },
         {
-          "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
-          "url": "https://wallstreetcn.com/articles/3776164",
-          "source": "华尔街见闻",
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "12时32分"
+        },
+        {
+          "title": "首款神经动力学芯片问世，有助于脑机接口等技术发展",
+          "url": "https://wallstreetcn.com/livenews/3128879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "阿根廷 假摔",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E5%81%87%E6%91%94&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "世界周侃谈欧洲极端高温",
@@ -1384,13 +1759,24 @@
           "time_info": "01时21分"
         },
         {
+          "title": "首款神经动力学芯片问世 有助于脑机接口等技术发展",
+          "url": "https://flash.jin10.com/detail/20260704105802342800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "阿根廷对阵佛得角最大悬念",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%AF%B9%E9%98%B5%E4%BD%9B%E5%BE%97%E8%A7%92%E6%9C%80%E5%A4%A7%E6%82%AC%E5%BF%B5%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -1404,6 +1790,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://wallstreetcn.com/livenews/3128877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "阿根廷率先破门",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%8E%87%E5%85%88%E7%A0%B4%E9%97%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "惠誉评级：为期60天的临时协议十分脆弱，加之以色列未参与其中，这表明中东冲突继续对企业发行人构成威胁。",
@@ -1428,6 +1836,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "阿根廷并列世界杯史上加时赛最多球队",
+          "url": "https://www.toutiao.com/trending/7658174014603624511/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "詹俊预测阿根廷对战佛得角",
           "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E9%A2%84%E6%B5%8B%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%AF%B9%E6%88%98%E4%BD%9B%E5%BE%97%E8%A7%92",
           "source": "bilibili 热搜",
@@ -1437,6 +1856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
+          "url": "https://www.cls.cn/detail/2417055",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
@@ -1461,6 +1891,28 @@
           "time_info": "03时14分"
         },
         {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://flash.jin10.com/detail/20260704103120519800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "欧洲零售巨头 GAME 发文硬刚索尼「我们绝不坐以待毙」，如何看待索尼停产光盘引发的实体业抗争？",
+          "url": "https://www.zhihu.com/question/2056053564435439693",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "惠誉评级：强调2026年基准油价假设面临下行风险。",
           "url": "https://flash.jin10.com/detail/20260704003945678800",
           "source": "金十数据",
@@ -1470,6 +1922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "当甲亢哥看到佛得角扳平阿根廷",
+          "url": "https://www.douyin.com/hot/2557843",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -1494,6 +1957,39 @@
           "time_info": "03时14分"
         },
         {
+          "title": "中国海警位中国台湾岛以东海域开展常态化执法巡查",
+          "url": "https://wallstreetcn.com/livenews/3128873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "阿根廷连刷6大纪录",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9E%E5%88%B76%E5%A4%A7%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "埃及点球战胜澳大利亚，晋级世界杯16强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33516500",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
           "url": "https://flash.jin10.com/detail/20260704012107426800",
           "source": "金十数据",
@@ -1503,6 +1999,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "刚知道北洋舰队主力舰竟然是从德国买的，德国有海军吗，当时海上霸主是英国，为什么不从英国买？",
+          "url": "https://www.zhihu.com/question/2001420908707993510",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "美军大肆囤积弹药臆测解放军攻台",
+          "url": "https://www.toutiao.com/trending/7657947689292431401/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "德国2027预算借款超2030亿欧元 军费大幅上升",
@@ -1527,15 +2045,48 @@
           "time_info": "03时14分"
         },
         {
+          "title": "中国海警位中国台湾岛以东海域开展常态化执法巡查",
+          "url": "https://flash.jin10.com/detail/20260704100454905800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "世界杯 1/16 决赛，澳大利亚 vs 埃及，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2056418799423680843",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "韩红基金会回应八大问题，涉及电脑采购、人员薪资、投资理财等，能挽回公众信任吗？",
+          "url": "https://www.zhihu.com/question/2056125863993914328",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "甲亢哥现场看阿根廷战胜佛得角",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B2%E4%BA%A2%E5%93%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
@@ -1547,6 +2098,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "常州市市长周伟调研人工智能上游产业",
+          "url": "https://flash.jin10.com/detail/20260704100159012800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "媒体：欧洲各种胶质东西都被热化了",
@@ -1604,6 +2166,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260704095032353800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "SQM合资企业寻求智利30亿美元锂项目获批",
           "url": "https://wallstreetcn.com/livenews/3128786",
           "source": "华尔街见闻-快讯",
@@ -1613,6 +2186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "佛得角门将回应输阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E5%9B%9E%E5%BA%94%E8%BE%93%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "欧洲央行管委内格尔：德国在改革方面迈出了非常重要的一步。",
@@ -1637,6 +2221,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "阿根廷加时3:2战胜佛得角",
+          "url": "https://www.douyin.com/hot/2556915",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "英国央行行长贝利：英国央行寻求在不损害产出的情况下实现通胀目标。",
           "url": "https://flash.jin10.com/detail/20260703234854735800",
           "source": "金十数据",
@@ -1659,6 +2254,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "圆脸解读欧洲空调事件",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%A7%A3%E8%AF%BB%E6%AC%A7%E6%B4%B2%E7%A9%BA%E8%B0%83%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "英国央行行长贝利：如果没有战争，英国通胀将达到目标。",
           "url": "https://flash.jin10.com/detail/20260703234548672800",
           "source": "金十数据",
@@ -1668,6 +2274,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "佛得角抢走阿根廷粉丝",
+          "url": "https://www.toutiao.com/trending/7657786326565289990/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "佛得角踢疯了也赢不了阿根廷",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E8%B8%A2%E7%96%AF%E4%BA%86%E4%B9%9F%E8%B5%A2%E4%B8%8D%E4%BA%86%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "油价三连降预期后的全球能源周期转向",
@@ -1703,6 +2331,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "阿根廷3-2佛得角",
+          "url": "https://www.toutiao.com/trending/7658181042662834186/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "胡塞武装称沙特战机侵犯也门领空",
           "url": "https://wallstreetcn.com/livenews/3128779",
           "source": "华尔街见闻-快讯",
@@ -1723,6 +2362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "泽连斯基呼吁在乌克兰生产“爱国者”导弹",
+          "url": "https://wallstreetcn.com/livenews/3128856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.67%，报652.70点，继续创收盘历史新高，本周累计上涨约2.7%。 欧元区STOXX 50指数初步收涨0.89%，报6417.13点。 富时泛欧绩优300指数初步收涨0.69%，报2614.02点。",
