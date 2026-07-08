@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T16:21:49.540525+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-07-08T19:02:29.450292+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 444,
+      "match_count": 483,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -56,11 +56,12 @@
             1,
             2,
             11,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时49分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[03时49分 ~ 19时02分]"
         },
         {
           "title": "阿根廷 脏",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时49分 ~ 13时47分]"
+        },
+        {
+          "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 19时02分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -137,17 +149,6 @@
           "time_info": "[01时10分 ~ 05时20分]"
         },
         {
-          "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
-          "url": "https://wallstreetcn.com/articles/3776355",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 16时21分]"
-        },
-        {
           "title": "阿根廷15分钟连进3球 完成惊天逆转",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B715%E5%88%86%E9%92%9F%E8%BF%9E%E8%BF%9B3%E7%90%83+%E5%AE%8C%E6%88%90%E6%83%8A%E5%A4%A9%E9%80%86%E8%BD%AC",
           "source": "百度热搜",
@@ -200,6 +201,30 @@
           "time_info": "[07时57分 ~ 16时21分]"
         },
         {
+          "title": "如何看待 2026 年世界杯 1/8 阿根廷对埃及比赛最后 5 分钟内，主裁判不吹罚阿根廷队禁区犯规？",
+          "url": "https://www.zhihu.com/question/2058011125409699747",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 19时02分]"
+        },
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 19时02分]"
+        },
+        {
           "title": "美军：开始对伊朗发动系列打击",
           "url": "https://www.cls.cn/detail/2419769",
           "source": "财联社热门",
@@ -226,6 +251,20 @@
           "time_info": "[03时49分 ~ 07时57分]"
         },
         {
+          "title": "阿根廷3-2绝杀埃及",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%8F%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时49分 ~ 19时02分]"
+        },
+        {
           "title": "三星财报引发全球芯片股回调 纳斯达克100指数期货跌近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2419563",
           "source": "财联社热门",
@@ -238,29 +277,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时10分 ~ 10时28分]"
-        },
-        {
-          "title": "如何看待 2026 年世界杯 1/8 阿根廷对埃及比赛最后 5 分钟内，主裁判不吹罚阿根廷队禁区犯规？",
-          "url": "https://www.zhihu.com/question/2058011125409699747",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 16时21分]"
-        },
-        {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 16时21分]"
         },
         {
           "title": "2026 年美加墨世界杯 1/8 决赛阿根廷 3:2 埃及，如何评价这场比赛？",
@@ -287,16 +303,18 @@
           "time_info": "[01时10分 ~ 07时57分]"
         },
         {
-          "title": "黑哨!埃及怒喷阿根廷保送",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355986&amp;topic_name=%E9%BB%91%E5%93%A8%21%E5%9F%83%E5%8F%8A%E6%80%92%E5%96%B7%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BF%9D%E9%80%81",
-          "source": "贴吧",
+          "title": "两球落后上演绝地大逆转！阿根廷击败埃及晋级世界杯八强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33538044",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            4
+            12,
+            6,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 19时02分]"
         },
         {
           "title": "世界杯 1/8 决赛，阿根廷 vs 埃及，如何评价本场比赛？",
@@ -311,17 +329,17 @@
           "time_info": "[01时10分 ~ 06时57分]"
         },
         {
-          "title": "阿根廷3-2绝杀埃及",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E7%BB%9D%E6%9D%80%E5%9F%83%E5%8F%8A",
-          "source": "bilibili 热搜",
+          "title": "黑哨!埃及怒喷阿根廷保送",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355986&amp;topic_name=%E9%BB%91%E5%93%A8%21%E5%9F%83%E5%8F%8A%E6%80%92%E5%96%B7%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BF%9D%E9%80%81",
+          "source": "贴吧",
           "ranks": [
-            6,
-            9,
-            11
+            1,
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时49分 ~ 13时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 19时02分]"
         },
         {
           "title": "世界杯 1/8 决赛，阿根廷 3-2 逆转绝杀埃及，如何评价本场比赛？",
@@ -363,6 +381,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时49分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
+        },
+        {
+          "title": "埃及足协起诉,裁判偏袒阿根廷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355993&amp;topic_name=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E8%B5%B7%E8%AF%89%2C%E8%A3%81%E5%88%A4%E5%81%8F%E8%A2%92%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
         },
         {
           "title": "伊朗严正警告美国",
@@ -557,40 +600,16 @@
           "time_info": "[10时27分 ~ 10时28分]"
         },
         {
-          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
+          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
           "source": "凤凰网",
           "ranks": [
-            2
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
-        },
-        {
-          "title": "两球落后上演绝地大逆转！阿根廷击败埃及晋级世界杯八强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33538044",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 16时21分]"
-        },
-        {
-          "title": "埃及足协起诉,裁判偏袒阿根廷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355993&amp;topic_name=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E8%B5%B7%E8%AF%89%2C%E8%A3%81%E5%88%A4%E5%81%8F%E8%A2%92%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
+          "time_info": "[16时21分 ~ 19时02分]"
         },
         {
           "title": "如何看待阿根廷 3:2 逆转埃及挺进 8 强？",
@@ -629,18 +648,6 @@
           "time_info": "[03时49分 ~ 06时57分]"
         },
         {
-          "title": "阿根廷球迷对哈桑举以国旗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355991&amp;topic_name=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E5%AF%B9%E5%93%88%E6%A1%91%E4%B8%BE%E4%BB%A5%E5%9B%BD%E6%97%97",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
-        },
-        {
           "title": "曾被中方制裁的荷兰大臣率团访华，这些议题受关注",
           "url": "https://news.ifeng.com/c/8uZ1HZOwIbO",
           "source": "凤凰网",
@@ -674,20 +681,35 @@
           "time_info": "[10时27分 ~ 10时28分]"
         },
         {
-          "title": "俄罗斯：不会主动挑起第三次世界大战",
-          "url": "https://news.ifeng.com/c/8uaYXFLf9C4",
+          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
+          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
           "source": "凤凰网",
           "ranks": [
+            4,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
+          "time_info": "[16时21分 ~ 19时02分]"
         },
         {
-          "title": "埃及球员怒喷裁判不公正称世界杯被内定，大量球迷吐槽阿根廷脏，这场裁判真的有问题吗？",
-          "url": "https://www.zhihu.com/question/2058086533609911207",
-          "source": "知乎",
+          "title": "头条世界杯｜惊天逆转让阿根廷泪奔，埃及将帅抨击比赛被操控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539156",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 19时02分]"
+        },
+        {
+          "title": "俄罗斯：不会主动挑起第三次世界大战",
+          "url": "https://news.ifeng.com/c/8uaYXFLf9C4",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
@@ -742,17 +764,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
-        },
-        {
-          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
-          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我对通过谈判终止伊朗核计划持怀疑态度。",
@@ -827,9 +838,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "黎巴嫩总统：我必须采取一项能够阻止以色列破坏与屠杀、并最终结束占领的举措。",
+          "url": "https://flash.jin10.com/detail/20260708184940247800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.179%（6月9日为4.192%），投标倍数2.60（前次为2.64）。",
@@ -874,6 +896,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "中国央行：统筹好总供给和总需求的关系，着力扩大内需、优化供给",
+          "url": "https://wallstreetcn.com/livenews/3130640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "阿根廷球迷对哈桑举以国旗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355991&amp;topic_name=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E5%AF%B9%E5%93%88%E6%A1%91%E4%B8%BE%E4%BB%A5%E5%9B%BD%E6%97%97",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
         },
         {
           "title": "智驾芯片70%自主化新规系谣言",
@@ -992,7 +1038,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1006,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "中国央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://wallstreetcn.com/livenews/3130639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "史诗级逆转！阿根廷3-2绝杀埃及",
@@ -1032,15 +1089,15 @@
           "time_info": "[07时57分 ~ 13时47分]"
         },
         {
-          "title": "巴西队出局回国仅1人乘机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355998&amp;topic_name=%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%87%BA%E5%B1%80%E5%9B%9E%E5%9B%BD%E4%BB%851%E4%BA%BA%E4%B9%98%E6%9C%BA",
-          "source": "贴吧",
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "19时02分"
         },
         {
           "title": "2026人工智能大会将启幕",
@@ -1137,7 +1194,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1175,6 +1232,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "中国央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
+          "url": "https://wallstreetcn.com/livenews/3130638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "球迷吐槽“裁判穿阿根廷球衣”",
           "url": "https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E5%90%90%E6%A7%BD%E2%80%9C%E8%A3%81%E5%88%A4%E7%A9%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%A1%A3%E2%80%9D",
           "source": "百度热搜",
@@ -1192,7 +1260,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1219,15 +1287,15 @@
           "time_info": "13时47分"
         },
         {
-          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
-          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
-          "source": "凤凰网",
+          "title": "法国主裁社媒遭万人网暴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356011&amp;topic_name=%E6%B3%95%E5%9B%BD%E4%B8%BB%E8%A3%81%E7%A4%BE%E5%AA%92%E9%81%AD%E4%B8%87%E4%BA%BA%E7%BD%91%E6%9A%B4",
+          "source": "贴吧",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "19时02分"
         },
         {
           "title": "法国球员回应全阿根廷裁判组执法",
@@ -1236,7 +1304,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1302,7 +1370,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1340,6 +1408,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "中国央行：规范信贷市场经营行为，降低融资中间费用，促进社会综合融资成本低位运行",
+          "url": "https://wallstreetcn.com/livenews/3130635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "阿根廷逆转埃及赛后球评",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%86%E8%BD%AC%E5%9F%83%E5%8F%8A%E8%B5%9B%E5%90%8E%E7%90%83%E8%AF%84",
           "source": "bilibili 热搜",
@@ -1363,6 +1442,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时57分 ~ 10时28分]"
+        },
+        {
+          "title": "埃及球员怒喷裁判不公正称世界杯被内定，大量球迷吐槽阿根廷脏，这场裁判真的有问题吗？",
+          "url": "https://www.zhihu.com/question/2058086533609911207",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
         },
         {
           "title": "阿根廷主帅赛后泪崩",
@@ -1441,7 +1532,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1516,6 +1607,20 @@
           "time_info": "[03时49分 ~ 07时57分]"
         },
         {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 19时02分]"
+        },
+        {
           "title": "学者：俄罗斯只能接受印度天价油",
           "url": "https://www.toutiao.com/trending/7659695138427375123/",
           "source": "今日头条",
@@ -1544,6 +1649,44 @@
           "time_info": "[01时10分 ~ 07时57分]"
         },
         {
+          "title": "阿根廷对阵埃及判罚争议",
+          "url": "https://www.douyin.com/hot/2562741",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 19时02分]"
+        },
+        {
+          "title": "今夜全球市场瞩目！沃什首秀将迎美联储纪要“终极解密”",
+          "url": "https://www.cls.cn/detail/2420256",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时02分]"
+        },
+        {
+          "title": "事关SpaceX，华尔街“被泼冷水”！传奇投资人：崩盘概率达90%",
+          "url": "https://www.cls.cn/detail/2420038",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
+        },
+        {
           "title": "周二（7月7日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8035元，较周一纽约尾盘跌93点，日内整体交投于6.7892-6.8050元区间。",
           "url": "https://wallstreetcn.com/livenews/3130177",
           "source": "华尔街见闻-快讯",
@@ -1566,6 +1709,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时57分]"
+        },
+        {
+          "title": "巴西队出局回国仅1人乘机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355998&amp;topic_name=%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%87%BA%E5%B1%80%E5%9B%9E%E5%9B%BD%E4%BB%851%E4%BA%BA%E4%B9%98%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时02分]"
         },
         {
           "title": "伊朗外交部通过官方Telegram频道驳斥卡塔尔关于船只遇袭的指称。",
@@ -1604,17 +1759,17 @@
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
-          "title": "头条世界杯｜惊天逆转让阿根廷泪奔，埃及将帅抨击比赛被操控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539156",
-          "source": "澎湃新闻",
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
           "ranks": [
-            14,
-            7,
-            6
+            5,
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
         },
         {
           "title": "LME期铜收跌38美元，报13366美元/吨。 LME期铝收涨22美元，报3138美元/吨。 LME期锌收跌19美元，报3572美元/吨。 LME期铅收涨4美元，报1884美元/吨。 LME期镍收跌74美元，报16348美元/吨。 LME期锡收涨286美元，报53350美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -1690,18 +1845,6 @@
           "time_info": "[05时20分 ~ 06时57分]"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
-        },
-        {
           "title": "英国天然气期货涨超7.2%，卡塔尔LNG船只在霍尔木兹海峡遇袭",
           "url": "https://wallstreetcn.com/livenews/3130109",
           "source": "华尔街见闻-快讯",
@@ -1727,19 +1870,6 @@
           "time_info": "[06时57分 ~ 10时28分]"
         },
         {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 16时21分]"
-        },
-        {
           "title": "美军时隔10天再袭伊朗",
           "url": "https://www.douyin.com/hot/2562712",
           "source": "抖音",
@@ -1751,18 +1881,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时57分 ~ 16时21分]"
-        },
-        {
-          "title": "阿根廷对阵埃及判罚争议",
-          "url": "https://www.douyin.com/hot/2562741",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 16时21分]"
         },
         {
           "title": "美军称开始对伊朗发动一系列有力打击",
@@ -1789,6 +1907,19 @@
           "time_info": "[10时27分 ~ 13时47分]"
         },
         {
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗多地传出爆炸声",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
           "source": "百度热搜",
@@ -1801,6 +1932,18 @@
           "time_info": "[07时57分 ~ 10时28分]"
         },
         {
+          "title": "阿根廷埃及战主裁关闭社媒",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9F%83%E5%8F%8A%E6%88%98%E4%B8%BB%E8%A3%81%E5%85%B3%E9%97%AD%E7%A4%BE%E5%AA%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
+        },
+        {
           "title": "阿根廷总统：我揪心得要命",
           "url": "https://www.toutiao.com/trending/7659836319006818347/",
           "source": "今日头条",
@@ -1811,6 +1954,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时57分 ~ 10时28分]"
+        },
+        {
+          "title": "联合国大会交锋一幕，古巴代表多次猛烈敲桌硬刚美方",
+          "url": "https://news.ifeng.com/c/8uac4LXnrSi",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
+        },
+        {
+          "title": "印度开源,华强北抢发苹果18",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355989&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%BC%80%E6%BA%90%2C%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8A%A2%E5%8F%91%E8%8B%B9%E6%9E%9C18",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
         },
         {
           "title": "阿根廷绝杀埃及",
@@ -1847,6 +2014,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时57分 ~ 10时28分]"
+        },
+        {
+          "title": "“出埃及记”：极限反杀！经典和争议中，阿根廷队还活着",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539432",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 19时02分]"
         },
         {
           "title": "阿根廷让二追三",
@@ -1896,17 +2076,6 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "阿根廷埃及战主裁关闭社媒",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9F%83%E5%8F%8A%E6%88%98%E4%B8%BB%E8%A3%81%E5%85%B3%E9%97%AD%E7%A4%BE%E5%AA%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
-        },
-        {
           "title": "阿根廷vs埃及",
           "url": "https://www.douyin.com/hot/2562551",
           "source": "抖音",
@@ -1951,6 +2120,30 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
+          "title": "三星一纸财报带崩全球芯片股？华尔街科技分析师：投资者反应过度！",
+          "url": "https://www.cls.cn/detail/2419990",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时02分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时02分]"
+        },
+        {
           "title": "欧盟旨在减少对进口大豆及油籽的依赖以保障畜牧业发展",
           "url": "https://wallstreetcn.com/livenews/3130108",
           "source": "华尔街见闻-快讯",
@@ -1972,18 +2165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
         },
         {
           "title": "DR007重回政策利率下方，资金面进入均衡修复期",
@@ -2010,39 +2191,16 @@
           "time_info": "[13时47分 ~ 16时21分]"
         },
         {
-          "title": "联合国大会交锋一幕，古巴代表多次猛烈敲桌硬刚美方",
-          "url": "https://news.ifeng.com/c/8uac4LXnrSi",
-          "source": "凤凰网",
+          "title": "韩国股市跌入技术性熊市，监管紧急开会：半导体板块过度集中加剧市场波动",
+          "url": "https://wallstreetcn.com/articles/3776441",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
-        },
-        {
-          "title": "事关SpaceX，华尔街“被泼冷水”！传奇投资人：崩盘概率达90%",
-          "url": "https://www.cls.cn/detail/2420038",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
-        },
-        {
-          "title": "印度开源,华强北抢发苹果18",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355989&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%BC%80%E6%BA%90%2C%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8A%A2%E5%8F%91%E8%8B%B9%E6%9E%9C18",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
+          "time_info": "[16时21分 ~ 19时02分]"
         },
         {
           "title": "乌克兰首都基辅传出两轮强烈爆炸声",
@@ -2115,6 +2273,17 @@
           "time_info": "[13时47分 ~ 16时21分]"
         },
         {
+          "title": "西班牙媒体警告：“对华脱钩”将让欧洲付出代价",
+          "url": "https://news.ifeng.com/c/8uaktKG9TjT",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时02分]"
+        },
+        {
           "title": "41家机构参与，香港黄金中央清算系统试运营",
           "url": "https://wallstreetcn.com/livenews/3130196",
           "source": "华尔街见闻-快讯",
@@ -2172,18 +2341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
-        },
-        {
-          "title": "“出埃及记”：极限反杀！经典和争议中，阿根廷队还活着",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539432",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 16时21分]"
         },
         {
           "title": "阿根廷埃及球迷爆发冲突",
@@ -2275,6 +2432,18 @@
           "time_info": "[10时27分 ~ 10时28分]"
         },
         {
+          "title": "A股再现天价离婚案",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时02分]"
+        },
+        {
           "title": "从澳大利亚进口的牛肉价格为何暴涨",
           "url": "https://www.toutiao.com/trending/7659768195582004762/",
           "source": "今日头条",
@@ -2347,18 +2516,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -2424,7 +2582,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -2479,18 +2637,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "今夜全球市场瞩目！沃什首秀将迎美联储纪要“终极解密”",
-          "url": "https://www.cls.cn/detail/2420256",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -2539,6 +2686,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "伊朗海军上将西亚里：无论美方发表何种言辞，都无法让美军有胆量采取侵略行动。",
+          "url": "https://flash.jin10.com/detail/20260708183643150800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7942元，较周一夜盘收盘跌18点。成交量512.73亿美元。",
           "url": "https://wallstreetcn.com/livenews/3130138",
           "source": "华尔街见闻-快讯",
@@ -2578,7 +2736,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -2666,7 +2824,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -2732,9 +2890,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "中东战火再燃，美股期指跌超1%，韩股入熊，油价大涨6%，金银跳水",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
@@ -2809,9 +2989,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "英伟达启用以色列贝尔谢巴研发中心",
+          "url": "https://flash.jin10.com/detail/20260708183541980800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "上期所原油期货2608合约夜盘收涨2.82%，报451.80元人民币/桶。 沪金夜盘收涨0.08%，沪银收跌0.70%。",
@@ -2858,15 +3049,37 @@
           "time_info": "10时28分"
         },
         {
-          "title": "韩国股市跌入技术性熊市，监管紧急开会：半导体板块过度集中加剧市场波动",
-          "url": "https://wallstreetcn.com/articles/3776441",
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "19时02分"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "懂球人锐评阿根廷埃及夯拉榜",
+          "url": "https://www.douyin.com/hot/2563663",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
@@ -2924,6 +3137,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "伊朗海军上将西亚里：美方的言论旨在将伊朗海岸线描绘成易受军事干预的目标，美国正通过反复发表公开声明，对伊朗人民发动心理战。",
+          "url": "https://flash.jin10.com/detail/20260708183532759800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "德债收益率至少涨4个基点，三艘船只遇袭让投资者重新聚焦霍尔木兹海峡局势",
           "url": "https://wallstreetcn.com/livenews/3130104",
           "source": "华尔街见闻-快讯",
@@ -2974,7 +3198,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3095,18 +3319,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "三星一纸财报带崩全球芯片股？华尔街科技分析师：投资者反应过度！",
-          "url": "https://www.cls.cn/detail/2419990",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3120,17 +3333,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
-        },
-        {
-          "title": "西班牙媒体警告：“对华脱钩”将让欧洲付出代价",
-          "url": "https://news.ifeng.com/c/8uaktKG9TjT",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "据伊朗新闻电视台：一名官员称，美国任何“挑衅性行动”都将遭到伊朗立即且坚决的回应。",
@@ -3205,7 +3407,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3241,6 +3443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
+          "url": "https://www.cls.cn/detail/2420505",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据伊朗新闻电视台：一名官员称，霍尔木兹海峡的航运通行正按照伊朗的安排进行。",
@@ -3298,6 +3511,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "比利时国防大臣：北约在霍尔木兹海峡的行动是基于防御立场，该联盟不会参与战争。",
+          "url": "https://flash.jin10.com/detail/20260708183257236800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "摩纳哥爆炸案嫌疑人在乌克兰被枪杀",
           "url": "https://wallstreetcn.com/livenews/3130100",
           "source": "华尔街见闻-快讯",
@@ -3337,7 +3561,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3403,9 +3627,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "摩根大通：将通用汽车目标价从98美元上调至110美元。",
+          "url": "https://flash.jin10.com/detail/20260708183211242800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "德国计划打造国有战略天然气应急储备",
@@ -3447,9 +3682,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "半导体行业组织、麦肯锡与美国国家科学基金会研究显示，到2030年，芯片行业或面临最多15.7万个岗位缺口。",
@@ -3502,7 +3748,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3546,7 +3792,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3557,7 +3803,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3612,7 +3858,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3659,6 +3905,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "伊朗总统：美国在世界杯上行为体现其“霸凌”本质",
+          "url": "https://wallstreetcn.com/livenews/3130604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "阿根廷对阵埃及判罚引争议，主裁回应称人们看比赛会有不同观点，自己判罚非常公平，裁判判罚有多大的自主权？",
+          "url": "https://www.zhihu.com/question/2058155587368653889",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国撤销伊朗销售授权，国际油价走高",
@@ -3738,13 +4006,35 @@
           "time_info": "13时47分"
         },
         {
+          "title": "伊朗称胡齐斯坦省遭美方袭击 致1死2伤",
+          "url": "https://wallstreetcn.com/livenews/3130603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "媒体：阿根廷与埃及比赛争议主裁关闭社交账号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33540543",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "苹果在印度遭遇最严重泄密",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%9C%A8%E5%8D%B0%E5%BA%A6%E9%81%AD%E9%81%87%E6%9C%80%E4%B8%A5%E9%87%8D%E6%B3%84%E5%AF%86",
           "source": "bilibili 热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3843,7 +4133,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3868,6 +4158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "华为几乎把整本山海经都注册了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%87%A0%E4%B9%8E%E6%8A%8A%E6%95%B4%E6%9C%AC%E5%B1%B1%E6%B5%B7%E7%BB%8F%E9%83%BD%E6%B3%A8%E5%86%8C%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "EIA：大多数原油产量将在今年年底前恢复至战前水平",
@@ -3931,7 +4232,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -3980,6 +4281,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "大V：A股涨跌全看半导体",
+          "url": "https://www.toutiao.com/trending/7659370681934757924/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "一觉醒来黄金又跌了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -3989,6 +4301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "美的空调凭借 PortaSplit 在欧洲精准卡 bug，国内还有哪些不为人知的隐藏大招？",
+          "url": "https://www.zhihu.com/question/2058212018512045217",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "WTI原油期货日内大涨4.00%，现报71.30美元/桶。",
@@ -4052,7 +4375,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -4107,7 +4430,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -4173,9 +4496,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "VinFast(VFS.O)：与Autobrains正在河内评估机器人汽车架构，并计划进行国际测试。",
+          "url": "https://flash.jin10.com/detail/20260708182731679800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "周二（7月7日），美联储隔夜逆回购协议（RRP）使用规模为44.84亿美元（交易对手14家），上个交易日报27.19亿美元。",
@@ -4217,9 +4551,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "伊朗布什尔省两处军事基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3130598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "世界杯8强仅剩2支非欧洲球队",
+          "url": "https://www.toutiao.com/trending/7659734648726290495/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "EIA短期能源展望报告：预计美国7月原油产量平均为1384万桶/日，低于6月的1389万桶/日；8月平均产量预计进一步降至1381万桶/日。",
@@ -4294,9 +4650,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "VinFast(VFS.O)：与Autobrains就机器人汽车自动驾驶架构展开合作。将在下一代车型中引入增强型L2+和L2++级自动驾驶功能。正在对VF 8和VF 9车型的增强型L2++系统进行试点测试。",
+          "url": "https://flash.jin10.com/detail/20260708182635769800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美债收益率普遍涨超6个基点，投资者紧盯波斯湾局势对油价的影响",
@@ -4360,7 +4727,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -4374,6 +4741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "阿根廷门将：我觉得自己没帮上全队",
+          "url": "https://www.toutiao.com/trending/7659861102163361819/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "阿根廷回应战胜埃及",
@@ -4431,6 +4809,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "博汇股份：全资子公司拟投资2.8亿元建设环保芳烃油及特种油加氢项目",
+          "url": "https://flash.jin10.com/detail/20260708182623084800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普称将取消对土耳其制裁",
           "url": "https://wallstreetcn.com/livenews/3130089",
           "source": "华尔街见闻-快讯",
@@ -4481,9 +4870,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "博通美股盘前转涨，此前一度跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3130594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国官员：伊朗在霍尔木兹海峡的行动完全不可接受，美方将对此作出回应。",
@@ -4580,9 +4980,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "苹果与博通新签署超300亿美元协议，预计生产超150亿颗芯片",
+          "url": "https://wallstreetcn.com/livenews/3130592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "怎么看阿根廷埃及比赛判罚",
@@ -4591,7 +5002,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -4712,7 +5123,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -4822,9 +5233,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "黄金为何暴跌？流动性踩踏压过避险逻辑",
+          "url": "https://flash.jin10.com/detail/20260708182211849800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "台湾证交所加权股价指数开高0.1%，报45,524.69点。",
@@ -4849,6 +5271,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "现货黄金跌破4050美元/盎司，日内下跌1.47%。",
+          "url": "https://wallstreetcn.com/livenews/3130585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "学者：中国试射导弹澳大利亚强行加戏",
           "url": "https://www.toutiao.com/trending/7659714848862768686/",
           "source": "今日头条",
@@ -4866,7 +5299,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -4921,9 +5354,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "MiniMax解禁前夕 超八成PreIPO及基石股东表态长期持有",
+          "url": "https://wallstreetcn.com/livenews/3130582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "阿根廷队赛后更衣室开派对",
@@ -4937,15 +5381,15 @@
           "time_info": "13时47分"
         },
         {
-          "title": "A股再现天价离婚案",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88",
-          "source": "百度热搜",
+          "title": "港股暴涨原因找到了",
+          "url": "https://www.toutiao.com/trending/7659666058290167850/",
+          "source": "今日头条",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "19时02分"
         },
         {
           "title": "美国7月EIA当年天然气产量预期 1112亿立方英尺/日，前值1110亿立方英尺/日。",
@@ -4992,6 +5436,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "加拿大总理“挖角”：把哈兰德借我们",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E2%80%9C%E6%8C%96%E8%A7%92%E2%80%9D%EF%BC%9A%E6%8A%8A%E5%93%88%E5%85%B0%E5%BE%B7%E5%80%9F%E6%88%91%E4%BB%AC",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "EIA短期能源展望报告：预计2026年美国天然气产量为1112亿立方英尺/日，高于此前预测的1110亿立方英尺/日；预计2027年产量为1153亿立方英尺/日，高于此前预测的1136亿立方英尺/日。<br/>可选新闻标题：",
           "url": "https://flash.jin10.com/detail/20260708000457026800",
           "source": "金十数据",
@@ -5031,7 +5486,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
