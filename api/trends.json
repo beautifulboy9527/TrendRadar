@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-15T10:02:11.469021+08:00",
-  "total_titles_processed": 862,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-07-15T12:58:02.045222+08:00",
+  "total_titles_processed": 1037,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 gold 石油 原油 oil 美债 美联储 US Treasury Treasury yield 美元 USD 人民币 汇率 CNY A股 美股 港股 S&P500 纳斯达克 道琼斯 全球供应链 脱钩 贸易战 关税 经济增长 GDP 通胀 Inflation 利率 Rate hike 降息 央行 货币政策 QE 量化宽松 债券 Bond 公司债 国债 外资流入 投资 新兴市场 Emerging market 科技竞赛 科技创新 半导体 Semiconductor 芯片 AI 人工智能 ChatGPT 大模型 华为 台积电 Nvidia 美国科技 硅谷 数据安全 网络安全 制裁 Sanction 金融危机 汇率波动 SWIFT IMF 世界银行 国企改革 民企 IPO 美债收益率 Dollar index 原材料价格 能源安全 OPEC 油价 天然气 Gas 能源危机 供需失衡 油轮 战略储备 中美关系 中国外交 地缘政治 区域安全 军事威胁 南海 台湾 亚太 印度 日韩 中东 伊朗 沙特 以色列 巴勒斯坦 加沙 哈马斯 巴以冲突 加沙冲突 停火 空袭 军事行动 美军 俄罗斯 乌克兰 俄乌冲突 乌克兰战争 克里米亚 北约 NATO 欧洲 欧盟 Brexit 东欧 西欧 德国 法国 英国 美欧关系 G7 G20 全球治理 联合国 UN 大国博弈 战略利益 强权 话语权 人权问题 技术封锁 芯片禁令 脱钩论 供应链转移 友岸外包 政治风险 内部分裂 利益集团 民粹 选举 美国选举 民主党 共和党 极右翼 极左翼 票仓 其余热点地区 非洲 拉美 南美 巴西 阿根廷 澳大利亚 新西兰 加拿大 印太 APEC 军事演习 武器出口 粮食安全 极端天气 气候变化 碳交易 碳达峰 能源转型 绿色金融 高科技战 产业链安全 中国影响 中国反应 中国投资 中国市场 外部压力 内部矛盾 外交谈判 战略合作 战略竞争 新冷战 全球风险 金融市场 资本流动 贸易协定 环保政策 舆论战 信息战 网络攻击 网络谣言 危机预警 全球趋势",
-      "match_count": 335,
+      "match_count": 383,
       "titles": [
         {
           "title": "美国CPI六年来首现负增长！市场随即“开香槟” 但油价风险已经重燃",
@@ -31,21 +29,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 10时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 12时58分]"
         },
         {
-          "title": "500万人请愿阿根廷滚出世界杯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356173&amp;topic_name=500%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%BB%9A%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "贴吧",
+          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
+            6,
+            5,
             4,
-            6
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时02分]"
+          "time_info": "[03时12分 ~ 12时58分]"
         },
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -57,6 +57,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 07时51分]"
+        },
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 12时58分]"
+        },
+        {
+          "title": "500万人请愿阿根廷滚出世界杯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356173&amp;topic_name=500%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%BB%9A%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 12时58分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
@@ -80,21 +108,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 06时55分]"
-        },
-        {
-          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时12分 ~ 10时01分]"
         },
         {
           "title": "世界杯半决赛，法国 vs 西班牙，如何评价本场比赛？",
@@ -134,20 +147,6 @@
           "time_info": "[01时10分 ~ 06时55分]"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 10时01分]"
-        },
-        {
           "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
           "url": "https://news.ifeng.com/c/8ukLcwiKckH",
           "source": "凤凰网",
@@ -170,6 +169,33 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 07时51分]"
+        },
+        {
+          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2426541",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时55分 ~ 12时58分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时12分 ~ 12时58分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -209,20 +235,22 @@
           "time_info": "[01时10分 ~ 10时02分]"
         },
         {
+          "title": "沃什：美联储对持续高通胀“零容忍”",
+          "url": "https://wallstreetcn.com/articles/3776925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时12分 ~ 12时58分]"
+        },
+        {
           "title": "西班牙2比0法国晋级世界杯决赛",
           "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%992%E6%AF%940%E6%B3%95%E5%9B%BD%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时55分 ~ 10时02分]"
-        },
-        {
-          "title": "传控碾压法国,斗牛士零封取胜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356177&amp;topic_name=%E4%BC%A0%E6%8E%A7%E7%A2%BE%E5%8E%8B%E6%B3%95%E5%9B%BD%2C%E6%96%97%E7%89%9B%E5%A3%AB%E9%9B%B6%E5%B0%81%E5%8F%96%E8%83%9C",
-          "source": "贴吧",
           "ranks": [
             1
           ],
@@ -264,8 +292,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 12时58分]"
         },
         {
           "title": "足球无国界,阿根廷援助广西",
@@ -274,11 +302,12 @@
           "ranks": [
             11,
             12,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 12时58分]"
         },
         {
           "title": "球票贵一倍，阿根廷球迷来得更多，英阿大战能平静收场吗？",
@@ -287,11 +316,12 @@
           "ranks": [
             13,
             14,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 12时58分]"
         },
         {
           "title": "当世界杯最强进攻遇上最稳防守，法国与西班牙谁能晋级决赛？",
@@ -304,8 +334,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 12时58分]"
         },
         {
           "title": "开宫!Xun点赞Bin哥黑粉",
@@ -314,11 +344,12 @@
           "ranks": [
             20,
             21,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 12时58分]"
         },
         {
           "title": "印度人素质差,泰国取消免签",
@@ -334,6 +365,45 @@
           "time_info": "[01时10分 ~ 10时02分]"
         },
         {
+          "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
+          "url": "https://www.cls.cn/detail/2426473",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时56分 ~ 12时58分]"
+        },
+        {
+          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
+          "url": "https://www.cls.cn/detail/2426576",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 12时58分]"
+        },
+        {
+          "title": "西班牙 2-0 法国，晋级世界杯决赛，亚马尔造点、姆巴佩哑火，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2060325379596933035",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 12时58分]"
+        },
+        {
           "title": "世界杯半决赛：法国vs西班牙",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9A%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99",
           "source": "百度热搜",
@@ -344,6 +414,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时10分 ~ 04时57分]"
+        },
+        {
+          "title": "传控碾压法国,斗牛士零封取胜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356177&amp;topic_name=%E4%BC%A0%E6%8E%A7%E7%A2%BE%E5%8E%8B%E6%B3%95%E5%9B%BD%2C%E6%96%97%E7%89%9B%E5%A3%AB%E9%9B%B6%E5%B0%81%E5%8F%96%E8%83%9C",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时55分 ~ 12时58分]"
         },
         {
           "title": "法国vs西班牙",
@@ -358,6 +440,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时12分 ~ 07时51分]"
+        },
+        {
+          "title": "西班牙2:0法国",
+          "url": "https://www.douyin.com/hot/2571098",
+          "source": "抖音",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时55分 ~ 12时58分]"
         },
         {
           "title": "超 500 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
@@ -383,6 +477,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时12分 ~ 04时57分]"
+        },
+        {
+          "title": "西班牙力克法国进决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%9B%E5%85%8B%E6%B3%95%E5%9B%BD%E8%BF%9B%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -412,6 +517,51 @@
           "time_info": "[03时12分 ~ 04时57分]"
         },
         {
+          "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
+          "url": "https://www.zhihu.com/question/2058449781597459395",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
+        },
+        {
+          "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33587688",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
+        },
+        {
+          "title": "伊朗打击约旦美军F18战机部署地",
+          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
+        },
+        {
           "title": "伊朗称美进入正式战争状态",
           "url": "https://www.toutiao.com/trending/7662353080528145926/",
           "source": "今日头条",
@@ -424,30 +574,28 @@
           "time_info": "[01时10分 ~ 07时51分]"
         },
         {
-          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2426541",
-          "source": "财联社热门",
+          "title": "法国连续三年被西班牙淘汰",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E8%A2%AB%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B7%98%E6%B1%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            3
+            2,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时55分 ~ 12时58分]"
+        },
+        {
+          "title": "头条世界杯｜西班牙对法国三连杀，最强传控让姆巴佩没了脾气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33587825",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时55分 ~ 10时02分]"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://wallstreetcn.com/articles/3776923",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时12分 ~ 10时01分]"
+          "time_info": "[10时01分 ~ 12时58分]"
         },
         {
           "title": "法国是世界杯被判点球最多的球队",
@@ -477,17 +625,15 @@
           "time_info": "[05时55分 ~ 10时02分]"
         },
         {
-          "title": "沃什：美联储对持续高通胀“零容忍”",
-          "url": "https://wallstreetcn.com/articles/3776925",
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时12分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 12时58分]"
         },
         {
           "title": "西班牙完胜法国晋级决赛",
@@ -499,17 +645,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时55分 ~ 07时51分]"
-        },
-        {
-          "title": "西班牙 2-0 法国，晋级世界杯决赛，亚马尔造点、姆巴佩哑火，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2060325379596933035",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 10时02分]"
         },
         {
           "title": "国内油价17日24时或迎上涨",
@@ -570,21 +705,6 @@
           "time_info": "[01时10分 ~ 07时51分]"
         },
         {
-          "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
-          "url": "https://www.cls.cn/detail/2426473",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时56分 ~ 10时02分]"
-        },
-        {
           "title": "法国vs西班牙",
           "url": "https://www.douyin.com/hot/2571098",
           "source": "抖音",
@@ -597,18 +717,6 @@
           "time_info": "[01时10分 ~ 04时57分]"
         },
         {
-          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
-          "url": "https://www.cls.cn/detail/2426576",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 10时02分]"
-        },
-        {
           "title": "时隔4个月，伊朗议会复会，现场宣读穆杰塔巴声明",
           "url": "https://news.ifeng.com/c/8ulRMRR0mag",
           "source": "凤凰网",
@@ -619,30 +727,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时51分 ~ 10时02分]"
-        },
-        {
-          "title": "西班牙2:0法国",
-          "url": "https://www.douyin.com/hot/2571098",
-          "source": "抖音",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时55分 ~ 10时02分]"
-        },
-        {
-          "title": "法国连续三年被西班牙淘汰",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E8%A2%AB%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B7%98%E6%B1%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时55分 ~ 10时02分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -679,17 +763,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时55分]"
-        },
-        {
-          "title": "西班牙力克法国进决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%9B%E5%85%8B%E6%B3%95%E5%9B%BD%E8%BF%9B%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "当印度移民正在“攻占”全世界",
@@ -800,37 +873,15 @@
           "time_info": "[04时56分 ~ 04时57分]"
         },
         {
-          "title": "西班牙2-0淘汰法国，率先挺进世界杯决赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33587688",
-          "source": "澎湃新闻",
+          "title": "上半年我国GDP同比增长4.7%",
+          "url": "https://www.douyin.com/hot/2571818",
+          "source": "抖音",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "伊朗打击约旦美军F18战机部署地",
-          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "西班牙2-0法国 时隔16年再进决赛",
@@ -845,37 +896,84 @@
           "time_info": "[05时55分 ~ 10时02分]"
         },
         {
-          "title": "头条世界杯｜西班牙对法国三连杀，最强传控让姆巴佩没了脾气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33587825",
-          "source": "澎湃新闻",
+          "title": "法国队淘汰 马克龙发声",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%98%9F%E6%B7%98%E6%B1%B0+%E9%A9%AC%E5%85%8B%E9%BE%99%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
           "ranks": [
-            4
+            19,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
         },
         {
           "title": "西班牙淘汰法国赛后球评",
           "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B7%98%E6%B1%B0%E6%B3%95%E5%9B%BD%E8%B5%9B%E5%90%8E%E7%90%83%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
         },
         {
-          "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
-          "url": "https://www.zhihu.com/question/2058449781597459395",
-          "source": "知乎",
+          "title": "一夜变天！美国通胀超预期降温 美联储本月加息概率骤降至15%",
+          "url": "https://www.cls.cn/detail/2426660",
+          "source": "财联社热门",
           "ranks": [
+            9,
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
+        },
+        {
+          "title": "法国1.5亿欧巨星灾难表现遭法媒怒批",
+          "url": "https://www.toutiao.com/trending/7661841057671482943/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "上半年我国GDP同比增长4.7%",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%88%91%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.7%25",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "法国人出差上海背空调回家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356186&amp;topic_name=%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%87%BA%E5%B7%AE%E4%B8%8A%E6%B5%B7%E8%83%8C%E7%A9%BA%E8%B0%83%E5%9B%9E%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，海力士ADR飙升27%，IBM暴跌25%，油金齐涨",
@@ -887,17 +985,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
         },
         {
           "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
@@ -942,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "据伊朗IRIB新闻网：美国在周三凌晨袭击了伊朗霍韦泽（Hoveyzeh）的一处小麦储存筒仓。",
+          "url": "https://flash.jin10.com/detail/20260715122610456800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "LME期铜收涨102美元，报13643美元/吨。 LME期铝收涨8美元，报3177美元/吨。 LME期锌收涨32美元，报3598美元/吨。 LME期铅收跌2美元，报1866美元/吨。 LME期镍收跌1美元，报16765美元/吨。 LME期锡收涨1215美元，报53813美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -1000,6 +1098,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时56分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时55分 ~ 12时58分]"
         },
         {
           "title": "经纬度：中国人工智能发展的战略定力",
@@ -1062,6 +1173,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "李斌回应战略投资长鑫科技",
+          "url": "https://flash.jin10.com/detail/20260715122359015800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "德国两年期国债收益率于美国CPI通胀数据发布日涨超3个基点",
           "url": "https://wallstreetcn.com/livenews/3133799",
           "source": "华尔街见闻-快讯",
@@ -1090,20 +1212,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "法国主帅赛后抱怨裁判",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E4%B8%BB%E5%B8%85%E8%B5%9B%E5%90%8E%E6%8A%B1%E6%80%A8%E8%A3%81%E5%88%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "10时02分"
         },
         {
           "title": "美联储主席沃什：我们应做到负责任、可问责。",
@@ -1126,6 +1237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "澳新银行：将年末黄金价格预测下调至每盎司4600美元，将未来12个月预测下调至每盎司5400美元。",
+          "url": "https://flash.jin10.com/detail/20260715122146880800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
@@ -1203,9 +1325,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "特朗普战情室密谋升级打击！美军考虑扩大对伊朗本土攻击",
+          "url": "https://flash.jin10.com/detail/20260715121904164800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "以总理：若遭伊朗袭击，以色列将以“更强力量”回击",
@@ -1217,6 +1350,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "法国主帅赛后抱怨裁判",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BD%E4%B8%BB%E5%B8%85%E8%B5%9B%E5%90%8E%E6%8A%B1%E6%80%A8%E8%A3%81%E5%88%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 12时58分]"
         },
         {
           "title": "伊朗民众：最担心的不只是战争，更是持续恶化的经济",
@@ -1258,7 +1403,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1285,6 +1430,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "新西兰确认在远洋海鸟中发现H5型禽流感。",
+          "url": "https://wallstreetcn.com/livenews/3134093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "2026 年美加墨世界杯世界杯半决赛法国 0:2 西班牙，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2060590007564363522",
           "source": "知乎",
@@ -1306,6 +1462,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时55分 ~ 07时51分]"
+        },
+        {
+          "title": "欧洲高温",
+          "url": "https://www.douyin.com/hot/2570375",
+          "source": "抖音",
+          "ranks": [
+            21,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 12时58分]"
         },
         {
           "title": "阿根廷备战半决赛",
@@ -1410,6 +1579,18 @@
           "time_info": "[06时55分 ~ 07时51分]"
         },
         {
+          "title": "战术推演英格兰vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E6%9C%AF%E6%8E%A8%E6%BC%94%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
+        },
+        {
           "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
           "url": "https://flash.jin10.com/detail/20260715044636741800",
           "source": "金十数据",
@@ -1446,6 +1627,17 @@
           "time_info": "[06时55分 ~ 07时51分]"
         },
         {
+          "title": "法国队 脏",
+          "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%98%9F%20%E8%84%8F&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
+        },
+        {
           "title": "美国能源部长赖特：我们必须确保石油能够从阿拉伯湾流出。",
           "url": "https://flash.jin10.com/detail/20260715044428953800",
           "source": "金十数据",
@@ -1480,6 +1672,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时55分]"
+        },
+        {
+          "title": "法国1.5亿巨星灾难表现遭法媒怒批",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD1.5%E4%BA%BF%E5%B7%A8%E6%98%9F%E7%81%BE%E9%9A%BE%E8%A1%A8%E7%8E%B0%E9%81%AD%E6%B3%95%E5%AA%92%E6%80%92%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月15日）",
@@ -1528,6 +1732,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时51分]"
+        },
+        {
+          "title": "7月15日投资避雷针：光通信概念人气股公告 如股价进一步异常上涨将停牌核查",
+          "url": "https://www.cls.cn/detail/2426626",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时58分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方表示，针对该地区美国基地的无人机行动将持续进行，直至“最终胜利”。",
@@ -1602,16 +1818,16 @@
           "time_info": "[04时56分 ~ 07时51分]"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
+          "title": "法国不敌西班牙无缘世界杯决赛，他们输在哪？豪华锋线为什么会哑火？教练德尚该承担主要责任吗？",
+          "url": "https://www.zhihu.com/question/2060634535255963378",
+          "source": "知乎",
           "ranks": [
-            16,
-            18
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时55分 ~ 10时02分]"
+          "time_info": "[10时01分 ~ 12时58分]"
         },
         {
           "title": "法国淘汰",
@@ -1639,18 +1855,6 @@
           "time_info": "[01时10分 ~ 03时13分]"
         },
         {
-          "title": "欧洲高温",
-          "url": "https://www.douyin.com/hot/2570375",
-          "source": "抖音",
-          "ranks": [
-            21,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 10时02分]"
-        },
-        {
           "title": "姆巴佩称法国不具备决赛实力",
           "url": "https://www.baidu.com/s?wd=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A7%B0%E6%B3%95%E5%9B%BD%E4%B8%8D%E5%85%B7%E5%A4%87%E5%86%B3%E8%B5%9B%E5%AE%9E%E5%8A%9B",
           "source": "百度热搜",
@@ -1675,17 +1879,6 @@
           "time_info": "[07时51分 ~ 10时02分]"
         },
         {
-          "title": "战术推演英格兰vs阿根廷",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E6%9C%AF%E6%8E%A8%E6%BC%94%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
           "title": "法国连续三年被西班牙淘汰",
           "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E8%A2%AB%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B7%98%E6%B1%B0&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -1697,15 +1890,15 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "法国1.5亿巨星灾难表现遭法媒怒批",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD1.5%E4%BA%BF%E5%B7%A8%E6%98%9F%E7%81%BE%E9%9A%BE%E8%A1%A8%E7%8E%B0%E9%81%AD%E6%B3%95%E5%AA%92%E6%80%92%E6%89%B9",
-          "source": "百度热搜",
+          "title": "姆巴佩称法国不具备决赛实力",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A7%B0%E6%B3%95%E5%9B%BD%E4%B8%8D%E5%85%B7%E5%A4%87%E5%86%B3%E8%B5%9B%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "印媒：“悄然转向”，印度企业青睐中国AI大模型",
@@ -1742,17 +1935,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时51分]"
-        },
-        {
-          "title": "法国队 脏",
-          "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%98%9F%20%E8%84%8F&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "周二（7月14日），美股降息赢家指数涨1.04%，报95.79点，整体维持上涨状态，在美国CPI通胀数据发布之后高开，美联储主席沃什听证会期间回吐涨幅。",
@@ -1827,15 +2009,15 @@
           "time_info": "[06时55分 ~ 07时51分]"
         },
         {
-          "title": "一夜变天！美国通胀超预期降温 美联储本月加息概率骤降至15%",
-          "url": "https://www.cls.cn/detail/2426660",
+          "title": "【图解中国经济半年报】GDP同比增长4.7% 规模以上工业增加值同比增长5.4%",
+          "url": "https://www.cls.cn/detail/2426802",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "特朗普称与伊朗方面举行了会谈 威胁打击电厂",
@@ -1885,15 +2067,15 @@
           "time_info": "[04时56分 ~ 04时57分]"
         },
         {
-          "title": "7月15日投资避雷针：光通信概念人气股公告 如股价进一步异常上涨将停牌核查",
-          "url": "https://www.cls.cn/detail/2426626",
-          "source": "财联社热门",
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
@@ -1932,6 +2114,28 @@
           "time_info": "[06时55分 ~ 07时51分]"
         },
         {
+          "title": "券商晨会精华：英伟达Rubin VR200芯片催化高阶电容电感需求",
+          "url": "https://www.cls.cn/detail/2426604",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "外媒：法国国庆阅兵发出“战略信号”",
+          "url": "https://news.ifeng.com/c/8umEeWKv7zg",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3133871",
           "source": "华尔街见闻-快讯",
@@ -1968,17 +2172,6 @@
           "time_info": "[06时55分 ~ 07时51分]"
         },
         {
-          "title": "法国不敌西班牙无缘世界杯决赛，他们输在哪？豪华锋线为什么会哑火？教练德尚该承担主要责任吗？",
-          "url": "https://www.zhihu.com/question/2060634535255963378",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
           "title": "法国队中后卫萨利巴受伤下场",
           "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%98%9F%E4%B8%AD%E5%90%8E%E5%8D%AB%E8%90%A8%E5%88%A9%E5%B7%B4%E5%8F%97%E4%BC%A4%E4%B8%8B%E5%9C%BA",
           "source": "百度热搜",
@@ -2010,6 +2203,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "国家统计局：2026上半年GDP同比增长4.7%",
+          "url": "https://www.cls.cn/detail/2426724",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "英国外交部：就代理人组织发动袭击一事，召见伊朗驻英临时代办。",
@@ -2071,6 +2275,28 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "2026 年上半年 GDP 695704 亿元，同比增长 4.7%，如何解读这一数据？",
+          "url": "https://www.zhihu.com/question/2060665371351331817",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
+          "url": "https://www.cls.cn/detail/2426550",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
           "title": "据法新社：美国总统特朗普威胁称，如果没有达成协议，将于下周打击伊朗发电厂。",
           "url": "https://flash.jin10.com/detail/20260715061817167800",
           "source": "金十数据",
@@ -2118,6 +2344,17 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
           "title": "美国总统特朗普：美国敦促伊朗达成协议。",
           "url": "https://flash.jin10.com/detail/20260715061639787800",
           "source": "金十数据",
@@ -2153,6 +2390,17 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "GDP",
+          "url": "https://s.weibo.com/weibo?q=GDP&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
           "title": "美称将继续打击伊朗",
           "url": "https://www.toutiao.com/trending/7661877138492149289/",
           "source": "今日头条",
@@ -2163,6 +2411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时02分]"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "美军宣布恢复对伊朗实行海上封锁",
@@ -2187,6 +2446,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时55分]"
+        },
+        {
+          "title": "美加墨世界杯半决赛法国 0:2 西班牙，季军战结束后德尚将结束法国队的执教，你如何评价他的执教十四年？",
+          "url": "https://www.zhihu.com/question/2060603002055087744",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "伊朗地方政府：霍尔木兹海峡发生交火",
@@ -2222,22 +2492,22 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "AI短剧以假乱真了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
           "title": "马克龙回应法国队淘汰",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E5%9B%9E%E5%BA%94%E6%B3%95%E5%9B%BD%E9%98%9F%E6%B7%98%E6%B1%B0%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "法国队淘汰 马克龙发声",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E9%98%9F%E6%B7%98%E6%B1%B0+%E9%A9%AC%E5%85%8B%E9%BE%99%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -2253,6 +2523,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
+          "url": "https://www.zhihu.com/question/2059660303915397288",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "国际油价创6年来最大单日涨幅",
@@ -2276,6 +2557,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "国台办：热忱欢迎台湾民众来大陆交流",
+          "url": "https://www.toutiao.com/trending/7661847696954015780/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "巴西总统吐槽巴西队丢人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E5%90%90%E6%A7%BD%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%B8%A2%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -2328,7 +2642,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -2339,7 +2653,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -2405,7 +2719,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -2515,9 +2829,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "港股午评：恒生指数高位震荡 生物科技板块涨幅靠前",
+          "url": "https://flash.jin10.com/detail/20260715121111885800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "美联储主席沃什：并没有暗示“美联储不会在危机时期扩大资产负债表规模”。",
@@ -2529,6 +2854,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "投行Jefferies把美国银行目标股价从70美元上调至75美元。",
+          "url": "https://wallstreetcn.com/livenews/3134088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "美联储主席沃什：支付系统必须具备足够的韧性。",
@@ -2592,7 +2928,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -2636,9 +2972,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
+          "url": "https://wallstreetcn.com/livenews/3134087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
@@ -2696,6 +3043,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "据英国金融时报：比亚迪(01211.HK)高管称表示，即便不进入美国市场，比亚迪也能超越丰田夺取全球销冠宝座。",
+          "url": "https://flash.jin10.com/detail/20260715120653321800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "英国劳力士最大零售商对利润增长前景保持乐观",
           "url": "https://wallstreetcn.com/livenews/3133791",
           "source": "华尔街见闻-快讯",
@@ -2705,6 +3063,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "中国财政部发行91天期债券，规模350亿元，发行利率0.8924%，预期0.8300%，投标倍数2.81倍，边际倍数1.25倍； 中国财政部发行30年期债券，规模800亿元，发行利率2.2529%，预期2.2500%，投标倍数6.66倍，边际倍数2.50倍。",
+          "url": "https://wallstreetcn.com/livenews/3134085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "美联储理事巴尔：AI有潜力显著提升生产率，尤其将惠及低技能和经验不足的劳动者。",
@@ -2746,7 +3115,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -2768,9 +3137,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡将继续关闭，直至美国停止袭击。",
+          "url": "https://wallstreetcn.com/livenews/3134084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "美联储理事巴尔：AI将从多个方面影响劳动力市场和整体经济，目前尚无法判断其会缩小还是加剧收入和财富不平等。",
@@ -2804,6 +3184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "报道：Stripe和Advent拟以超过530亿美元的价格收购PayPal",
+          "url": "https://wallstreetcn.com/livenews/3134083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "张雪机车亮相台湾引车迷打卡",
@@ -2911,7 +3302,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -2960,6 +3351,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-15）",
+          "url": "https://flash.jin10.com/detail/20260715120033376800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美联储主席沃什：预测FOMC决定“与我无关”。",
           "url": "https://wallstreetcn.com/livenews/3133785",
           "source": "华尔街见闻-快讯",
@@ -2988,7 +3390,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -3070,6 +3472,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "MSCI亚太指数上涨2.1%至272.78点。",
+          "url": "https://wallstreetcn.com/livenews/3134076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美联储主席沃什：若能获得更完善的数据支持决策，我将更有信心。",
           "url": "https://flash.jin10.com/detail/20260715003707449800",
           "source": "金十数据",
@@ -3101,6 +3514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "金十图示：2026年07月15日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260715115928613800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "欧洲饿了么Delivery Hero确认，该公司与优步（UBER）的并购磋商进入高级阶段。",
@@ -3142,9 +3566,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨2.1%至45,670.23点。",
+          "url": "https://wallstreetcn.com/livenews/3134073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "评论员：西班牙刺倒法国 兵不血刃",
@@ -3153,7 +3588,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -3208,7 +3643,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -3268,6 +3703,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "受创纪录销售额及AI需求激增推动，韩美半导体股价飙升",
+          "url": "https://flash.jin10.com/detail/20260715115650219800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "周二（7月14日），美联储隔夜逆回购协议（RRP）使用规模为2.78亿美元（交易对手4家），上个交易日报7.95亿美元。",
           "url": "https://wallstreetcn.com/livenews/3133813",
           "source": "华尔街见闻-快讯",
@@ -3288,6 +3734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "国家统计局：上半年高技术产业投资同比增长4.6%",
+          "url": "https://wallstreetcn.com/livenews/3134069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "西班牙大赛半决赛三杀法国",
@@ -3340,7 +3797,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -3378,6 +3835,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "美军七小时打击数十个伊朗目标，声明中一句话泄露了真正的目标",
+          "url": "https://flash.jin10.com/detail/20260715115431127800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美国总统特朗普声称：伊拉克因为石油而具有潜力。",
           "url": "https://wallstreetcn.com/livenews/3133779",
           "source": "华尔街见闻-快讯",
@@ -3395,7 +3863,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -3439,9 +3907,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "蔚来战略投资长鑫科技：双方将构建稳定、互信的战略供应关系",
+          "url": "https://flash.jin10.com/detail/20260715115343590800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "伊朗Andimeshk市传出爆炸声。（Irib新闻社）",
@@ -3510,6 +3989,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "Stripe和Advent提出以超过530亿美元的价格收购PayPal",
+          "url": "https://flash.jin10.com/detail/20260715115242474800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美联储主席沃什：人工智能（AI）供应冲击发生的速度比我想象的更迅速。",
           "url": "https://wallstreetcn.com/livenews/3133777",
           "source": "华尔街见闻-快讯",
@@ -3543,6 +4033,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "科创50指数跌超4%，半导体芯片股领跌，沐曦股份、佰维存储、清溢光电、华峰测控、龙图光罩、聚辰股份、有研硅等跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3134065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美联储主席沃什：我们需要继续就高通胀进行坦诚的“内部讨论”。",
           "url": "https://flash.jin10.com/detail/20260715002743816800",
           "source": "金十数据",
@@ -3571,7 +4072,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -3615,7 +4116,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -3640,6 +4141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "韩国KOSPI指数日内暴涨8.00%，现报7407.70点。韩美半导体涨28%、SK海力士涨12.9%、三星电子涨7.6%。",
+          "url": "https://flash.jin10.com/detail/20260715114943461800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "苹果正与一家能将AI模型压缩至在iPhone上运行的初创公司洽谈",
@@ -3670,7 +4182,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -3747,9 +4259,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "高盛谈原油：如果海湾地区出口复苏持续停滞并导致产量反弹延迟，布伦特原油价格在2026年第四季度可能会突破110美元/桶。 如果产量超出预期，且在高零售燃料价格的背景下需求复苏更加缓慢，到今年年底布伦特原油价格可能潜在下跌至60多美元。",
+          "url": "https://wallstreetcn.com/livenews/3134056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "巴西总统批评巴西国家队",
@@ -3761,6 +4284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "科技巨头掀起融资狂潮！华尔街开始担忧：美股牛市会否就此结束？",
+          "url": "https://flash.jin10.com/detail/20260715114338187800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "美国总统特朗普：我与伊拉克总理之间有着极好的默契（或“化学反应”）。 最近，与伊拉克在短期内形成了石油合作伙伴关系。 将很快宣布两国间石油伙伴关系，预计会在本周、或下周。 （被问及伊拉克是否会退出石油输出国组织OPEC）我支持伊拉克总理。",
@@ -3794,6 +4328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "国家统计局谈二季度GDP增速波动：主要受一些短期因素及外部因素影响",
+          "url": "https://wallstreetcn.com/livenews/3134055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "英国警方称前议员系遭“针对性袭击”身亡",
@@ -3835,7 +4380,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
